@@ -206,10 +206,9 @@
     A.route = type === 'v' ? 'v/' + id : hash;
     let body;
     if (type === 'home') body = A.home();
-    else if (type === 'services') body = A.publicWrap('<section class="section">' + A.heading('Services', 'Choose a module for details, steps and application guidance.') + A.moduleTiles() + '</section>');
     else if (type === 'service') body = A.publicModule(id);
     else if (type === 'login') body = A.loginPage(id === 'worker' ? 'worker' : 'staff', A.loginStep) + (A.user ? '' : A.toolsPanel());
-    else if (!A.user) {A.afterLogin = hash;location.hash = 'login/staff';return;}
+    else if (type === 'v' && !A.user) {A.afterLogin = hash;location.hash = 'login/staff';return;}
     else if (type === 'v') {
       const view = A.views[id];
       if (!view) body = A.shell(A.heading('Not found', 'No such workspace.', A.link('Home', 'home')));
