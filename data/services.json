@@ -1,0 +1,282 @@
+[
+  {
+    "id": "CSC-001",
+    "name": "Aadhaar services",
+    "category": "Identity",
+    "description": "Update and access Aadhaar services through UIDAI.",
+    "url": "https://myaadhaar.uidai.gov.in/",
+    "documents": "Aadhaar details and the documents requested by UIDAI",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-002",
+    "name": "PAN services",
+    "category": "Identity",
+    "description": "Apply for or update PAN through the official application portal.",
+    "url": "https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html",
+    "documents": "Identity, address and date-of-birth documents",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-003",
+    "name": "Learner’s licence",
+    "category": "Transport",
+    "description": "View the learner’s licence application process and select Andhra Pradesh.",
+    "url": "https://sarathi.parivahan.gov.in/sarathiservice/stateSelection.do",
+    "documents": "Age/address documents and application requirements",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-004",
+    "name": "Driving licence",
+    "category": "Transport",
+    "description": "Apply for driving licence services through Sarathi.",
+    "url": "https://sarathi.parivahan.gov.in/sarathiservice/stateSelection.do",
+    "documents": "Licence or learner details and required documents",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-005",
+    "name": "Vehicle services",
+    "category": "Transport",
+    "description": "Find registration, ownership and related vehicle services.",
+    "url": "https://parivahan.gov.in/",
+    "documents": "Vehicle details and required supporting documents",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-006",
+    "name": "Voter services",
+    "category": "Identity",
+    "description": "New voter registration, correction and voter-related services.",
+    "url": "https://voters.eci.gov.in/",
+    "documents": "Age/address and voter-related documents",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-007",
+    "name": "Passport services",
+    "category": "Identity",
+    "description": "Start or track a passport application through Passport Seva.",
+    "url": "https://www.passportindia.gov.in/",
+    "documents": "Required identity, address and application documents",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-008",
+    "name": "Income certificate",
+    "category": "Certificates",
+    "description": "Find the income certificate request through AP MeeSeva.",
+    "url": "https://ap.meeseva.gov.in/",
+    "documents": "Identity and supporting income documents",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-009",
+    "name": "Residence certificate",
+    "category": "Certificates",
+    "description": "Find a residence certificate service through AP MeeSeva.",
+    "url": "https://ap.meeseva.gov.in/",
+    "documents": "Address and applicable supporting documents",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-010",
+    "name": "Caste certificate",
+    "category": "Certificates",
+    "description": "Find the applicable community certificate request through AP MeeSeva.",
+    "url": "https://ap.meeseva.gov.in/",
+    "documents": "Identity and applicable community documents",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-011",
+    "name": "Birth certificate",
+    "category": "Certificates",
+    "description": "Find birth-certificate services through the relevant Government service portal.",
+    "url": "https://ap.meeseva.gov.in/",
+    "documents": "Birth details and supporting record",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-012",
+    "name": "Death certificate",
+    "category": "Certificates",
+    "description": "Find death-certificate services through the relevant Government service portal.",
+    "url": "https://ap.meeseva.gov.in/",
+    "documents": "Event details and supporting record",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-013",
+    "name": "Rice card services",
+    "category": "Welfare",
+    "description": "Find the responsible desk for rice-card related services.",
+    "url": "https://ap.meeseva.gov.in/",
+    "documents": "Identity and card-related supporting documents",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-014",
+    "name": "e-Shram services",
+    "category": "Employment",
+    "description": "Access the official unorganised-worker registration service.",
+    "url": "https://eshram.gov.in/",
+    "documents": "Identity, contact and occupation details",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-015",
+    "name": "National Career Service",
+    "category": "Employment",
+    "description": "Access Government employment and career services.",
+    "url": "https://www.ncs.gov.in/",
+    "documents": "Worker profile and qualification details",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-016",
+    "name": "DigiLocker",
+    "category": "Identity",
+    "description": "Access digital document services through DigiLocker.",
+    "url": "https://www.digilocker.gov.in/",
+    "documents": "Account and required identity details",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-017",
+    "name": "Banking facilitation",
+    "category": "Banking",
+    "description": "Get help locating the authorised bank desk for account services.",
+    "url": "https://www.jansamarth.in/",
+    "documents": "Required identity and bank documents",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-018",
+    "name": "Pension guidance",
+    "category": "Welfare",
+    "description": "Find the official service route for pension-related guidance.",
+    "url": "https://maandhan.in/",
+    "documents": "Age, identity and applicable enrolment documents",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-019",
+    "name": "EPFO services",
+    "category": "Employment",
+    "description": "Access provident-fund related member services.",
+    "url": "https://www.epfindia.gov.in/",
+    "documents": "Relevant membership and contact details",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  },
+  {
+    "id": "CSC-020",
+    "name": "ESIC services",
+    "category": "Health",
+    "description": "Access employee-insurance information and service routes.",
+    "url": "https://www.esic.gov.in/",
+    "documents": "Relevant insurance membership details",
+    "steps": [
+      "Read the service requirements.",
+      "Keep the required documents ready.",
+      "Select Apply to open the official portal.",
+      "Complete the application on the official portal and retain its acknowledgement."
+    ]
+  }
+]

@@ -1,0 +1,534 @@
+﻿household_id,district_code,district_name,mandal,habitation,area_type,house_type,rice_card_held,drinking_water_source,lpg_connection,seasonal_migration,primary_language,baseline_survey_date,household_head_name,member_count
+SYN-H-000001,KKD,Kakinada,Synthetic Mandal 09,Synthetic Habitation 124,Rural,Rented,Yes,Tanker,Yes,None,Telugu,2026-07-29,Kattamuri Sheela,5
+SYN-H-000002,SKL,Srikakulam,Synthetic Mandal 08,Synthetic Habitation 114,Rural,Pucca - own,Yes,Public tap,Yes,None,Telugu,2026-09-07,Seepana Mary,4
+SYN-H-000003,VZM,Vizianagaram,Synthetic Mandal 05,Synthetic Habitation 120,Rural,Rented,No,Tap in premises,Yes,None,Telugu,2025-09-16,Pinninti Chinna Rao,4
+SYN-H-000004,KRS,Krishna,Synthetic Mandal 05,Synthetic Habitation 197,Rural,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2026-06-01,Chilakala Durga Prasad,4
+SYN-H-000005,MKP,Markapuram,Synthetic Mandal 04,Synthetic Habitation 193,Rural,Kutcha - own,Yes,Public tap,Yes,Inter-district,Telugu,2026-05-19,Koppula Sathyavathi,3
+SYN-H-000006,AKP,Anakapalli,Synthetic Mandal 06,Synthetic Habitation 127,Rural,Rented,Yes,Tap in premises,Yes,None,Telugu,2025-04-15,Gorantla Lakshmi,2
+SYN-H-000007,PLN,Palnadu,Synthetic Mandal 06,Synthetic Habitation 171,Rural,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-05-14,Tadi Koteswara Rao,4
+SYN-H-000008,GNT,Guntur,Synthetic Mandal 10,Synthetic Habitation 191,Rural,Pucca - own,Yes,Tanker,Yes,None,Telugu,2025-07-13,Lanka Sunitha,2
+SYN-H-000009,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 11,Synthetic Habitation 196,Rural,Rented,No,Tanker,Yes,Inter-district,Telugu,2026-07-05,Ravuri Simhachalam,2
+SYN-H-000010,VZM,Vizianagaram,Synthetic Mandal 05,Synthetic Habitation 176,Rural,Rented,Yes,Borewell / handpump,Yes,None,Telugu,2025-07-24,Pothula Kumari,3
+SYN-H-000011,CTR,Chittoor,Synthetic Mandal 10,Synthetic Habitation 182,Peri-urban,Semi-pucca - own,Yes,Public tap,Yes,None,Telugu,2026-03-09,Yerra Narasimha,3
+SYN-H-000012,GNT,Guntur,Synthetic Mandal 11,Synthetic Habitation 151,Urban,Semi-pucca - own,Yes,Public tap,No,None,Telugu,2026-02-14,Boddu Mahesh,3
+SYN-H-000013,NDL,Nandyal,Synthetic Mandal 01,Synthetic Habitation 193,Urban,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-10-17,Sirigiri Satyanarayana,5
+SYN-H-000014,VZM,Vizianagaram,Synthetic Mandal 06,Synthetic Habitation 218,Urban,Rented,Yes,Tanker,Yes,None,Telugu,2026-01-10,Chinta Jyothi,1
+SYN-H-000015,ELR,Eluru,Synthetic Mandal 10,Synthetic Habitation 205,Rural,Semi-pucca - own,Yes,Tap in premises,Yes,None,Hindi,2026-09-03,Anumolu Appa Rao,3
+SYN-H-000016,KDP,Y.S.R Kadapa,Synthetic Mandal 07,Synthetic Habitation 104,Rural,Pucca - own,No,Tanker,Yes,None,Telugu,2025-01-04,Neelapu Murali,3
+SYN-H-000017,SKL,Srikakulam,Synthetic Mandal 07,Synthetic Habitation 008,Rural,Rented,Yes,Borewell / handpump,Yes,None,Telugu,2025-10-18,Bolla Sai Kumar,5
+SYN-H-000018,SKL,Srikakulam,Synthetic Mandal 07,Synthetic Habitation 167,Urban,Rented,Yes,Tap in premises,Yes,Inter-district,Telugu,2025-03-15,Thota Rafi,3
+SYN-H-000019,SKL,Srikakulam,Synthetic Mandal 07,Synthetic Habitation 236,Urban,Rented,Yes,Tap in premises,Yes,None,Telugu,2026-05-27,Gorantla Narasimha,4
+SYN-H-000020,KNL,Kurnool,Synthetic Mandal 05,Synthetic Habitation 107,Peri-urban,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-01-05,Duvvuri Peddiraju,3
+SYN-H-000021,ATP,Anantapur,Synthetic Mandal 10,Synthetic Habitation 067,Peri-urban,Pucca - own,No,Public tap,Yes,None,Telugu,2026-02-03,Pydi Ramadevi,4
+SYN-H-000022,EGD,East Godavari,Synthetic Mandal 07,Synthetic Habitation 029,Peri-urban,Pucca - own,Yes,Tap in premises,Yes,Within district,Telugu,2025-03-17,Shaik Nagamani,4
+SYN-H-000023,VZM,Vizianagaram,Synthetic Mandal 04,Synthetic Habitation 224,Rural,Pucca - own,Yes,Tanker,Yes,Inter-district,Telugu,2026-08-25,Shaik Peddiraju,4
+SYN-H-000024,AKP,Anakapalli,Synthetic Mandal 10,Synthetic Habitation 052,Peri-urban,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-08-27,Yerra Sujatha,1
+SYN-H-000025,CTR,Chittoor,Synthetic Mandal 12,Synthetic Habitation 191,Peri-urban,Semi-pucca - own,Yes,Tanker,Yes,None,Urdu,2026-05-05,Mandapati Durga Prasad,5
+SYN-H-000026,MKP,Markapuram,Synthetic Mandal 12,Synthetic Habitation 219,Rural,Semi-pucca - own,Yes,Tap in premises,Yes,Within district,Telugu,2026-08-29,Gollapalli Varalakshmi,5
+SYN-H-000027,NLR,SPSR Nellore,Synthetic Mandal 03,Synthetic Habitation 148,Rural,Kutcha - own,Yes,Public tap,Yes,None,Telugu,2025-12-21,Nakka Gopi,5
+SYN-H-000028,CTR,Chittoor,Synthetic Mandal 10,Synthetic Habitation 114,Rural,Rented,Yes,Tanker,Yes,None,Telugu,2026-09-23,Kolli Srinivasa Rao,1
+SYN-H-000029,KRS,Krishna,Synthetic Mandal 02,Synthetic Habitation 199,Urban,Pucca - own,Yes,Tanker,Yes,None,Telugu,2025-10-09,Nalli Jyothi,5
+SYN-H-000030,KNL,Kurnool,Synthetic Mandal 12,Synthetic Habitation 171,Urban,Kutcha - own,Yes,Tanker,Yes,None,Telugu,2026-06-01,Boddu Srinu,5
+SYN-H-000031,ELR,Eluru,Synthetic Mandal 03,Synthetic Habitation 070,Urban,Rented,Yes,Public tap,Yes,None,Odia,2025-05-28,Kattamuri Krishna,3
+SYN-H-000032,PLN,Palnadu,Synthetic Mandal 11,Synthetic Habitation 118,Rural,Kutcha - own,Yes,Tanker,Yes,Inter-district,Telugu,2026-04-11,Bandaru Padma,4
+SYN-H-000033,KNL,Kurnool,Synthetic Mandal 10,Synthetic Habitation 158,Urban,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-10-13,Syed Prabhu Das,5
+SYN-H-000034,CTR,Chittoor,Synthetic Mandal 02,Synthetic Habitation 013,Urban,Pucca - own,Yes,Borewell / handpump,No,None,Telugu,2025-09-17,Chinta Naresh,4
+SYN-H-000035,WGD,West Godavari,Synthetic Mandal 07,Synthetic Habitation 165,Urban,Pucca - own,Yes,Public tap,Yes,None,Telugu,2026-07-20,Sanaboina Venkata Ramana,3
+SYN-H-000036,SKL,Srikakulam,Synthetic Mandal 10,Synthetic Habitation 195,Urban,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-05-15,Dasari Venkatesh,3
+SYN-H-000037,GNT,Guntur,Synthetic Mandal 08,Synthetic Habitation 032,Rural,Semi-pucca - own,Yes,Public tap,Yes,None,Telugu,2025-12-26,Syed Mangamma,3
+SYN-H-000038,VZM,Vizianagaram,Synthetic Mandal 02,Synthetic Habitation 202,Rural,Kutcha - own,Yes,Tap in premises,No,Inter-district,Telugu,2026-04-28,Tadi Prabhu Das,5
+SYN-H-000039,PLN,Palnadu,Synthetic Mandal 11,Synthetic Habitation 112,Urban,Semi-pucca - own,Yes,Tap in premises,Yes,Within district,Telugu,2026-05-05,Bandaru Sunitha,3
+SYN-H-000040,TPT,Tirupati,Synthetic Mandal 05,Synthetic Habitation 001,Rural,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2026-07-12,Neelapu Rafi,3
+SYN-H-000041,ELR,Eluru,Synthetic Mandal 03,Synthetic Habitation 143,Peri-urban,Pucca - own,Yes,Tanker,Yes,None,Telugu,2025-04-25,Mutyala Nagamani,5
+SYN-H-000042,WGD,West Godavari,Synthetic Mandal 04,Synthetic Habitation 203,Peri-urban,Pucca - own,No,Public tap,Yes,None,Telugu,2025-02-18,Gorantla Nagoor,5
+SYN-H-000043,ANM,Annamayya,Synthetic Mandal 09,Synthetic Habitation 052,Rural,Rented,Yes,Tanker,Yes,None,Telugu,2026-05-05,Syed Annapurna,6
+SYN-H-000044,KDP,Y.S.R Kadapa,Synthetic Mandal 02,Synthetic Habitation 005,Rural,Pucca - own,Yes,Public tap,Yes,None,Telugu,2025-03-26,Bandaru Suresh,4
+SYN-H-000045,VZM,Vizianagaram,Synthetic Mandal 01,Synthetic Habitation 081,Rural,Semi-pucca - own,Yes,Tanker,Yes,None,Urdu,2026-09-04,Bandaru Ravi Kumar,3
+SYN-H-000046,TPT,Tirupati,Synthetic Mandal 08,Synthetic Habitation 023,Urban,Semi-pucca - own,Yes,Public tap,Yes,None,Telugu,2026-04-05,Kandula Nagoor,4
+SYN-H-000047,PLV,Polavaram,Synthetic Mandal 07,Synthetic Habitation 013,Urban,Pucca - own,Yes,Tanker,Yes,Inter-state,Telugu,2025-07-11,Talari Jyothi,2
+SYN-H-000048,TPT,Tirupati,Synthetic Mandal 08,Synthetic Habitation 170,Peri-urban,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2026-01-29,Mutyala Hanumanthu,3
+SYN-H-000049,BPT,Bapatla,Synthetic Mandal 01,Synthetic Habitation 154,Rural,Rented,Yes,Tanker,No,Within district,Odia,2026-01-04,Anumolu Peddiraju,3
+SYN-H-000050,PLV,Polavaram,Synthetic Mandal 12,Synthetic Habitation 162,Rural,Pucca - own,Yes,Tanker,Yes,None,Telugu,2026-01-25,Uppada Simhachalam,5
+SYN-H-000051,KKD,Kakinada,Synthetic Mandal 05,Synthetic Habitation 221,Urban,Pucca - own,Yes,Borewell / handpump,No,None,Telugu,2025-01-17,Bandaru Anil Kumar,3
+SYN-H-000052,SKL,Srikakulam,Synthetic Mandal 07,Synthetic Habitation 106,Peri-urban,Semi-pucca - own,Yes,Tanker,Yes,Within district,Telugu,2025-09-27,Duvvuri Durga Prasad,4
+SYN-H-000053,PKM,Prakasam,Synthetic Mandal 09,Synthetic Habitation 223,Rural,Rented,Yes,Tanker,Yes,Inter-state,Hindi,2026-08-25,Koppula Saraswathi,5
+SYN-H-000054,KKD,Kakinada,Synthetic Mandal 03,Synthetic Habitation 100,Rural,Rented,Yes,Tap in premises,Yes,None,Telugu,2026-02-17,Koppula Ravi Kumar,5
+SYN-H-000055,SSS,Sri Sathya Sai,Synthetic Mandal 09,Synthetic Habitation 099,Rural,Rented,Yes,Borewell / handpump,Yes,None,Telugu,2025-08-27,Mylapalli Adinarayana,4
+SYN-H-000056,KNL,Kurnool,Synthetic Mandal 12,Synthetic Habitation 197,Peri-urban,Pucca - own,Yes,Public tap,Yes,None,Telugu,2025-02-04,Vemula Prabhu Das,4
+SYN-H-000057,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 05,Synthetic Habitation 036,Rural,Rented,Yes,Public tap,Yes,None,Telugu,2024-12-18,Gurrala Simhachalam,4
+SYN-H-000058,ATP,Anantapur,Synthetic Mandal 09,Synthetic Habitation 135,Rural,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-05-15,Tadi Krishna,4
+SYN-H-000059,ATP,Anantapur,Synthetic Mandal 12,Synthetic Habitation 234,Peri-urban,Pucca - own,Yes,Borewell / handpump,No,Within district,Odia,2025-08-20,Anumolu Hanumanthu,6
+SYN-H-000060,AKP,Anakapalli,Synthetic Mandal 05,Synthetic Habitation 037,Peri-urban,Semi-pucca - own,No,Borewell / handpump,Yes,None,Telugu,2025-11-18,Gudla Koteswara Rao,4
+SYN-H-000061,KNL,Kurnool,Synthetic Mandal 07,Synthetic Habitation 050,Peri-urban,Rented,Yes,Tap in premises,Yes,Inter-district,Telugu,2025-07-05,Doddi Kavitha,3
+SYN-H-000062,PLN,Palnadu,Synthetic Mandal 09,Synthetic Habitation 222,Rural,Rented,Yes,Borewell / handpump,Yes,None,Telugu,2025-08-24,Bevara Varalakshmi,4
+SYN-H-000063,PKM,Prakasam,Synthetic Mandal 01,Synthetic Habitation 057,Peri-urban,Semi-pucca - own,No,Tanker,Yes,None,Telugu,2025-05-01,Duvvuri Nagaraju,3
+SYN-H-000064,NLR,SPSR Nellore,Synthetic Mandal 04,Synthetic Habitation 141,Peri-urban,Rented,No,Public tap,Yes,None,Telugu,2026-02-05,Bolla Nagoor,3
+SYN-H-000065,SKL,Srikakulam,Synthetic Mandal 12,Synthetic Habitation 022,Rural,Rented,Yes,Tanker,Yes,Within district,Telugu,2024-12-29,Vemula Anitha,3
+SYN-H-000066,AKP,Anakapalli,Synthetic Mandal 08,Synthetic Habitation 218,Peri-urban,Kutcha - own,Yes,Tap in premises,Yes,Within district,Telugu,2026-06-27,Pothula Ravi Kumar,2
+SYN-H-000067,NDL,Nandyal,Synthetic Mandal 04,Synthetic Habitation 027,Peri-urban,Pucca - own,Yes,Public tap,Yes,None,Telugu,2026-05-30,Duvvuri Kavitha,4
+SYN-H-000068,NLR,SPSR Nellore,Synthetic Mandal 03,Synthetic Habitation 052,Rural,Pucca - own,Yes,Tanker,Yes,None,Telugu,2025-10-15,Kandula Chandrakala,3
+SYN-H-000069,ATP,Anantapur,Synthetic Mandal 03,Synthetic Habitation 106,Rural,Pucca - own,Yes,Public tap,Yes,Within district,Telugu,2025-12-09,Talari Adinarayana,4
+SYN-H-000070,PKM,Prakasam,Synthetic Mandal 06,Synthetic Habitation 192,Rural,Semi-pucca - own,Yes,Borewell / handpump,No,Inter-state,Telugu,2025-12-30,Tadi Srinivasa Rao,6
+SYN-H-000071,SSS,Sri Sathya Sai,Synthetic Mandal 08,Synthetic Habitation 097,Peri-urban,Kutcha - own,No,Tanker,Yes,None,Telugu,2026-08-13,Seepana Suresh,2
+SYN-H-000072,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 03,Synthetic Habitation 236,Rural,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-05-26,Pilla Krishnaveni,4
+SYN-H-000073,VZM,Vizianagaram,Synthetic Mandal 04,Synthetic Habitation 202,Rural,Semi-pucca - own,No,Public tap,Yes,None,Telugu,2026-09-08,Neelapu Lakshmana,3
+SYN-H-000074,PKM,Prakasam,Synthetic Mandal 08,Synthetic Habitation 052,Rural,Semi-pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2026-08-18,Pinninti Sai Kumar,4
+SYN-H-000075,PLN,Palnadu,Synthetic Mandal 05,Synthetic Habitation 120,Rural,Pucca - own,No,Tanker,Yes,None,Telugu,2026-06-02,Pothula Srinu,4
+SYN-H-000076,NLR,SPSR Nellore,Synthetic Mandal 08,Synthetic Habitation 072,Rural,Pucca - own,Yes,Public tap,Yes,None,Telugu,2026-09-05,Koppula Ravi Kumar,5
+SYN-H-000077,SKL,Srikakulam,Synthetic Mandal 01,Synthetic Habitation 020,Rural,Kutcha - own,Yes,Tap in premises,Yes,Inter-state,Telugu,2025-10-10,Mutyala Kumari,5
+SYN-H-000078,ATP,Anantapur,Synthetic Mandal 06,Synthetic Habitation 130,Peri-urban,Pucca - own,Yes,Tanker,Yes,None,Telugu,2025-12-14,Vemula Narasimha,6
+SYN-H-000079,SKL,Srikakulam,Synthetic Mandal 02,Synthetic Habitation 138,Peri-urban,Semi-pucca - own,Yes,Borewell / handpump,Yes,Inter-state,Telugu,2025-04-23,Bandaru Peddiraju,4
+SYN-H-000080,CTR,Chittoor,Synthetic Mandal 06,Synthetic Habitation 002,Rural,Rented,Yes,Borewell / handpump,Yes,None,Telugu,2025-12-05,Thota Rafi,3
+SYN-H-000081,KDP,Y.S.R Kadapa,Synthetic Mandal 08,Synthetic Habitation 220,Urban,Pucca - own,Yes,Tanker,Yes,None,Telugu,2026-05-29,Gurrala Annapurna,4
+SYN-H-000082,AKP,Anakapalli,Synthetic Mandal 10,Synthetic Habitation 114,Rural,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-03-15,Jampana Nagaraju,3
+SYN-H-000083,NLR,SPSR Nellore,Synthetic Mandal 03,Synthetic Habitation 212,Rural,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2026-07-17,Bolla Sai Kumar,4
+SYN-H-000084,SSS,Sri Sathya Sai,Synthetic Mandal 06,Synthetic Habitation 023,Rural,Semi-pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-02-07,Shaik Durga,4
+SYN-H-000085,NLR,SPSR Nellore,Synthetic Mandal 08,Synthetic Habitation 164,Urban,Semi-pucca - own,No,Borewell / handpump,Yes,Inter-state,Telugu,2026-08-15,Shaik Ramesh,5
+SYN-H-000086,KKD,Kakinada,Synthetic Mandal 04,Synthetic Habitation 071,Urban,Rented,Yes,Tanker,Yes,None,Telugu,2026-03-27,Mylapalli Naresh,5
+SYN-H-000087,KNL,Kurnool,Synthetic Mandal 04,Synthetic Habitation 190,Rural,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-08-27,Gudla Annapurna,3
+SYN-H-000088,KKD,Kakinada,Synthetic Mandal 12,Synthetic Habitation 240,Rural,Pucca - own,No,Tanker,Yes,Inter-district,Telugu,2025-11-13,Allam Ammaji,3
+SYN-H-000089,KRS,Krishna,Synthetic Mandal 06,Synthetic Habitation 213,Urban,Rented,Yes,Tanker,No,None,Telugu,2025-07-05,Anumolu Lavanya,5
+SYN-H-000090,NDL,Nandyal,Synthetic Mandal 03,Synthetic Habitation 027,Urban,Kutcha - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-09-19,Jampana Nagoor,3
+SYN-H-000091,SKL,Srikakulam,Synthetic Mandal 08,Synthetic Habitation 237,Rural,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-04-12,Ravuri Appa Rao,4
+SYN-H-000092,ELR,Eluru,Synthetic Mandal 11,Synthetic Habitation 171,Urban,Pucca - own,Yes,Tanker,Yes,None,Telugu,2026-04-03,Pothula Lakshmana,1
+SYN-H-000093,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 09,Synthetic Habitation 128,Rural,Kutcha - own,Yes,Public tap,Yes,None,Telugu,2026-04-23,Medisetti Murali,4
+SYN-H-000094,NTR,NTR,Synthetic Mandal 08,Synthetic Habitation 007,Rural,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-05-29,Pallapu Murali,1
+SYN-H-000095,GNT,Guntur,Synthetic Mandal 02,Synthetic Habitation 082,Urban,Rented,Yes,Public tap,Yes,None,Telugu,2026-01-03,Vemula Narasimha,3
+SYN-H-000096,ASR,Alluri Sitharama Raju,Synthetic Mandal 02,Synthetic Habitation 156,Peri-urban,Kutcha - own,Yes,Tap in premises,Yes,None,Telugu,2025-09-06,Dasari Nagaraju,4
+SYN-H-000097,ELR,Eluru,Synthetic Mandal 09,Synthetic Habitation 063,Rural,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-10-24,Mylapalli Rajesh,3
+SYN-H-000098,SKL,Srikakulam,Synthetic Mandal 08,Synthetic Habitation 121,Rural,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-10-12,Shaik Murali,2
+SYN-H-000099,ASR,Alluri Sitharama Raju,Synthetic Mandal 06,Synthetic Habitation 240,Rural,Rented,Yes,Tanker,Yes,Within district,Telugu,2026-08-24,Gorantla Prasad,5
+SYN-H-000100,NTR,NTR,Synthetic Mandal 11,Synthetic Habitation 210,Urban,Semi-pucca - own,No,Borewell / handpump,Yes,None,Telugu,2026-02-19,Pallapu Siva,4
+SYN-H-000101,NLR,SPSR Nellore,Synthetic Mandal 01,Synthetic Habitation 233,Urban,Rented,Yes,Borewell / handpump,Yes,Inter-state,Telugu,2025-09-14,Neelapu Nagamani,3
+SYN-H-000102,BPT,Bapatla,Synthetic Mandal 09,Synthetic Habitation 080,Urban,Pucca - own,Yes,Tanker,Yes,Inter-district,Telugu,2026-06-01,Uppada Krishnaveni,4
+SYN-H-000103,KKD,Kakinada,Synthetic Mandal 07,Synthetic Habitation 161,Urban,Pucca - own,Yes,Tap in premises,No,None,Telugu,2026-08-24,Bandaru Chinna Rao,2
+SYN-H-000104,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 04,Synthetic Habitation 071,Urban,Pucca - own,Yes,Tap in premises,No,None,Telugu,2025-12-15,Dasari Padma,4
+SYN-H-000105,BPT,Bapatla,Synthetic Mandal 05,Synthetic Habitation 215,Rural,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-07-17,Chinta Venkatesh,4
+SYN-H-000106,ELR,Eluru,Synthetic Mandal 12,Synthetic Habitation 126,Rural,Pucca - own,No,Public tap,Yes,None,Telugu,2025-05-31,Uppada Raju,1
+SYN-H-000107,KKD,Kakinada,Synthetic Mandal 11,Synthetic Habitation 219,Peri-urban,Kutcha - own,Yes,Borewell / handpump,Yes,None,Urdu,2025-06-05,Tadi Lakshmana,1
+SYN-H-000108,PLN,Palnadu,Synthetic Mandal 09,Synthetic Habitation 075,Urban,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-11-11,Kandula Satyanarayana,3
+SYN-H-000109,PLN,Palnadu,Synthetic Mandal 08,Synthetic Habitation 219,Peri-urban,Semi-pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2026-01-24,Anumolu Krishna,2
+SYN-H-000110,AKP,Anakapalli,Synthetic Mandal 06,Synthetic Habitation 018,Urban,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-06-17,Gorantla Chinna Rao,1
+SYN-H-000111,VSP,Visakhapatnam,Synthetic Mandal 05,Synthetic Habitation 125,Rural,Rented,Yes,Public tap,Yes,None,Telugu,2025-11-25,Pilla Kumari,3
+SYN-H-000112,KRS,Krishna,Synthetic Mandal 09,Synthetic Habitation 007,Rural,Pucca - own,Yes,Tap in premises,Yes,Inter-district,Telugu,2026-05-27,Pallapu Gopi,1
+SYN-H-000113,SKL,Srikakulam,Synthetic Mandal 06,Synthetic Habitation 054,Peri-urban,Rented,No,Tanker,Yes,Within district,Urdu,2025-01-29,Uppada Rafi,3
+SYN-H-000114,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 06,Synthetic Habitation 065,Urban,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-05-31,Nalli Chinna Rao,4
+SYN-H-000115,TPT,Tirupati,Synthetic Mandal 04,Synthetic Habitation 007,Rural,Semi-pucca - own,Yes,Tanker,Yes,None,Odia,2026-09-16,Koppula Swathi,3
+SYN-H-000116,TPT,Tirupati,Synthetic Mandal 01,Synthetic Habitation 238,Rural,Rented,Yes,Tap in premises,Yes,None,Telugu,2025-07-23,Jampana Mangamma,4
+SYN-H-000117,EGD,East Godavari,Synthetic Mandal 01,Synthetic Habitation 011,Peri-urban,Semi-pucca - own,Yes,Borewell / handpump,No,None,Urdu,2026-04-07,Chilakala Mahesh,3
+SYN-H-000118,AKP,Anakapalli,Synthetic Mandal 07,Synthetic Habitation 161,Rural,Pucca - own,Yes,Tanker,Yes,None,Telugu,2025-07-30,Lanka Saraswathi,2
+SYN-H-000119,NLR,SPSR Nellore,Synthetic Mandal 05,Synthetic Habitation 050,Rural,Rented,Yes,Public tap,Yes,None,Telugu,2025-09-30,Kolli Venkata Ramana,3
+SYN-H-000120,ELR,Eluru,Synthetic Mandal 06,Synthetic Habitation 008,Peri-urban,Semi-pucca - own,Yes,Public tap,Yes,Within district,Telugu,2025-02-22,Vadde Varalakshmi,4
+SYN-H-000121,SSS,Sri Sathya Sai,Synthetic Mandal 07,Synthetic Habitation 180,Urban,Rented,Yes,Tanker,Yes,Inter-district,Telugu,2026-07-05,Dasari Srinu,3
+SYN-H-000122,KKD,Kakinada,Synthetic Mandal 02,Synthetic Habitation 028,Peri-urban,Semi-pucca - own,No,Borewell / handpump,No,Inter-district,Telugu,2025-10-19,Gudla Koteswara Rao,3
+SYN-H-000123,PKM,Prakasam,Synthetic Mandal 12,Synthetic Habitation 149,Rural,Semi-pucca - own,Yes,Tanker,Yes,Within district,Telugu,2025-07-09,Nakka Murali,4
+SYN-H-000124,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 10,Synthetic Habitation 042,Urban,Pucca - own,Yes,Tap in premises,Yes,Inter-district,Telugu,2025-01-15,Gurrala Krishna,3
+SYN-H-000125,CTR,Chittoor,Synthetic Mandal 11,Synthetic Habitation 120,Urban,Kutcha - own,Yes,Tanker,No,None,Telugu,2026-08-11,Bandaru Yesu,3
+SYN-H-000126,ATP,Anantapur,Synthetic Mandal 03,Synthetic Habitation 159,Urban,Semi-pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-12-25,Neelapu Kumari,4
+SYN-H-000127,KKD,Kakinada,Synthetic Mandal 11,Synthetic Habitation 105,Peri-urban,Rented,Yes,Tanker,Yes,None,Telugu,2025-04-11,Medisetti Chinna Rao,5
+SYN-H-000128,WGD,West Godavari,Synthetic Mandal 10,Synthetic Habitation 019,Peri-urban,Pucca - own,Yes,Tap in premises,Yes,Inter-district,Telugu,2025-03-26,Bevara Rani,3
+SYN-H-000129,PLN,Palnadu,Synthetic Mandal 06,Synthetic Habitation 217,Peri-urban,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-07-21,Lanka Appa Rao,6
+SYN-H-000130,SSS,Sri Sathya Sai,Synthetic Mandal 04,Synthetic Habitation 205,Rural,Semi-pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-12-27,Uppada Rani,2
+SYN-H-000131,MKP,Markapuram,Synthetic Mandal 12,Synthetic Habitation 103,Rural,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-07-03,Talari Mangamma,6
+SYN-H-000132,WGD,West Godavari,Synthetic Mandal 03,Synthetic Habitation 076,Urban,Kutcha - own,Yes,Public tap,No,None,Telugu,2025-11-03,Nalli Bhaskar,2
+SYN-H-000133,PKM,Prakasam,Synthetic Mandal 06,Synthetic Habitation 204,Urban,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-07-19,Kolli Fathima,4
+SYN-H-000134,SSS,Sri Sathya Sai,Synthetic Mandal 09,Synthetic Habitation 076,Peri-urban,Kutcha - own,Yes,Public tap,No,None,Telugu,2026-05-08,Sirigiri Yesu,5
+SYN-H-000135,KNL,Kurnool,Synthetic Mandal 12,Synthetic Habitation 174,Urban,Pucca - own,Yes,Public tap,Yes,None,Telugu,2025-12-15,Mutyala Eswar,5
+SYN-H-000136,KDP,Y.S.R Kadapa,Synthetic Mandal 04,Synthetic Habitation 238,Peri-urban,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2026-02-27,Neelapu Lavanya,6
+SYN-H-000137,NLR,SPSR Nellore,Synthetic Mandal 05,Synthetic Habitation 090,Peri-urban,Pucca - own,Yes,Tap in premises,Yes,Within district,Telugu,2025-06-12,Chilakala Satyanarayana,4
+SYN-H-000138,NDL,Nandyal,Synthetic Mandal 05,Synthetic Habitation 068,Rural,Pucca - own,Yes,Tap in premises,Yes,Inter-district,Telugu,2026-04-11,Allam Hanumanthu,3
+SYN-H-000139,KNL,Kurnool,Synthetic Mandal 06,Synthetic Habitation 028,Peri-urban,Rented,Yes,Borewell / handpump,Yes,None,Telugu,2026-02-25,Doddi Srinu,5
+SYN-H-000140,MKP,Markapuram,Synthetic Mandal 05,Synthetic Habitation 074,Rural,Semi-pucca - own,Yes,Public tap,Yes,Within district,Telugu,2026-05-07,Sanaboina Koteswara Rao,3
+SYN-H-000141,BPT,Bapatla,Synthetic Mandal 02,Synthetic Habitation 068,Rural,Kutcha - own,No,Borewell / handpump,Yes,None,Telugu,2026-04-14,Vemula Prabhu Das,4
+SYN-H-000142,NLR,SPSR Nellore,Synthetic Mandal 09,Synthetic Habitation 009,Peri-urban,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-06-05,Pilla Mangamma,4
+SYN-H-000143,EGD,East Godavari,Synthetic Mandal 04,Synthetic Habitation 221,Peri-urban,Rented,Yes,Tap in premises,Yes,None,Telugu,2024-12-27,Gollapalli Nagoor,4
+SYN-H-000144,ELR,Eluru,Synthetic Mandal 01,Synthetic Habitation 030,Urban,Kutcha - own,Yes,Tap in premises,Yes,None,Telugu,2026-09-17,Mylapalli Eswar,4
+SYN-H-000145,KNL,Kurnool,Synthetic Mandal 08,Synthetic Habitation 057,Rural,Rented,No,Tap in premises,No,None,Telugu,2025-04-23,Allam Ramadevi,4
+SYN-H-000146,NDL,Nandyal,Synthetic Mandal 06,Synthetic Habitation 161,Rural,Pucca - own,Yes,Public tap,No,None,Telugu,2025-08-15,Kurra Jyothi,2
+SYN-H-000147,AKP,Anakapalli,Synthetic Mandal 11,Synthetic Habitation 126,Rural,Rented,Yes,Tap in premises,No,Inter-district,Odia,2024-12-22,Jakka Sunitha,3
+SYN-H-000148,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 02,Synthetic Habitation 169,Peri-urban,Rented,Yes,Borewell / handpump,Yes,None,Telugu,2026-01-21,Tadi Naresh,2
+SYN-H-000149,KRS,Krishna,Synthetic Mandal 03,Synthetic Habitation 136,Rural,Pucca - own,Yes,Borewell / handpump,No,None,Telugu,2025-12-15,Mandapati Suresh,5
+SYN-H-000150,PLN,Palnadu,Synthetic Mandal 12,Synthetic Habitation 200,Rural,Semi-pucca - own,Yes,Borewell / handpump,Yes,Inter-state,Telugu,2026-06-12,Ravuri Annapurna,3
+SYN-H-000151,KKD,Kakinada,Synthetic Mandal 04,Synthetic Habitation 042,Peri-urban,Kutcha - own,Yes,Borewell / handpump,Yes,Within district,Telugu,2025-10-11,Kandula Srinu,5
+SYN-H-000152,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 11,Synthetic Habitation 223,Rural,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2025-10-16,Uppada Hanumanthu,4
+SYN-H-000153,VZM,Vizianagaram,Synthetic Mandal 04,Synthetic Habitation 192,Rural,Kutcha - own,Yes,Tap in premises,Yes,None,Telugu,2026-03-15,Syed Durga,3
+SYN-H-000154,PLN,Palnadu,Synthetic Mandal 02,Synthetic Habitation 132,Peri-urban,Kutcha - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-07-14,Bandaru Peddiraju,4
+SYN-H-000155,TPT,Tirupati,Synthetic Mandal 02,Synthetic Habitation 104,Rural,Pucca - own,No,Borewell / handpump,Yes,None,Hindi,2025-01-25,Kolli Mohan,4
+SYN-H-000156,ELR,Eluru,Synthetic Mandal 01,Synthetic Habitation 203,Peri-urban,Pucca - own,Yes,Public tap,Yes,None,Telugu,2026-08-08,Kattamuri Koteswara Rao,4
+SYN-H-000157,ASR,Alluri Sitharama Raju,Synthetic Mandal 01,Synthetic Habitation 169,Rural,Rented,Yes,Tap in premises,Yes,None,Telugu,2026-05-05,Gollapalli Prasad,5
+SYN-H-000158,VSP,Visakhapatnam,Synthetic Mandal 04,Synthetic Habitation 053,Peri-urban,Semi-pucca - own,Yes,Public tap,No,Within district,Telugu,2025-01-05,Malla Swathi,3
+SYN-H-000159,ATP,Anantapur,Synthetic Mandal 12,Synthetic Habitation 056,Peri-urban,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-05-15,Boddu Siva,6
+SYN-H-000160,CTR,Chittoor,Synthetic Mandal 10,Synthetic Habitation 031,Urban,Rented,Yes,Borewell / handpump,Yes,Within district,Telugu,2026-05-29,Karri Peddiraju,2
+SYN-H-000161,PLV,Polavaram,Synthetic Mandal 03,Synthetic Habitation 069,Rural,Semi-pucca - own,No,Tap in premises,Yes,Within district,Telugu,2025-05-03,Pothula Simhachalam,4
+SYN-H-000162,KKD,Kakinada,Synthetic Mandal 02,Synthetic Habitation 185,Rural,Semi-pucca - own,Yes,Tanker,No,None,Telugu,2025-08-02,Gurrala Venkata Lakshmi,2
+SYN-H-000163,KRS,Krishna,Synthetic Mandal 07,Synthetic Habitation 169,Peri-urban,Semi-pucca - own,No,Tap in premises,Yes,None,Hindi,2025-11-17,Allam Kavitha,2
+SYN-H-000164,KKD,Kakinada,Synthetic Mandal 01,Synthetic Habitation 004,Peri-urban,Pucca - own,Yes,Borewell / handpump,No,None,Telugu,2026-01-15,Bevara Mohan,3
+SYN-H-000165,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 09,Synthetic Habitation 123,Peri-urban,Pucca - own,Yes,Tap in premises,No,Within district,Telugu,2026-06-27,Gudla Lavanya,3
+SYN-H-000166,NDL,Nandyal,Synthetic Mandal 05,Synthetic Habitation 083,Rural,Pucca - own,Yes,Tanker,Yes,Within district,Telugu,2025-11-11,Vemula Murali,4
+SYN-H-000167,ELR,Eluru,Synthetic Mandal 09,Synthetic Habitation 040,Urban,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-06-30,Ravuri Rafi,5
+SYN-H-000168,KRS,Krishna,Synthetic Mandal 09,Synthetic Habitation 198,Rural,Kutcha - own,Yes,Public tap,Yes,None,Telugu,2025-07-28,Bolla Ramu,4
+SYN-H-000169,SKL,Srikakulam,Synthetic Mandal 03,Synthetic Habitation 227,Rural,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-11-26,Vemula Appa Rao,4
+SYN-H-000170,VSP,Visakhapatnam,Synthetic Mandal 04,Synthetic Habitation 096,Rural,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-07-15,Doddi Hanumanthu,3
+SYN-H-000171,BPT,Bapatla,Synthetic Mandal 09,Synthetic Habitation 028,Peri-urban,Rented,Yes,Borewell / handpump,Yes,None,Telugu,2025-06-06,Jakka Sheela,4
+SYN-H-000172,ATP,Anantapur,Synthetic Mandal 06,Synthetic Habitation 037,Peri-urban,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2025-06-27,Karri Anil Kumar,5
+SYN-H-000173,PKM,Prakasam,Synthetic Mandal 08,Synthetic Habitation 034,Peri-urban,Semi-pucca - own,Yes,Public tap,Yes,None,Telugu,2025-08-30,Mutyala Gopi,3
+SYN-H-000174,ASR,Alluri Sitharama Raju,Synthetic Mandal 11,Synthetic Habitation 010,Rural,Rented,Yes,Tanker,Yes,None,Telugu,2026-03-25,Gollapalli Bhavani,2
+SYN-H-000175,PLN,Palnadu,Synthetic Mandal 04,Synthetic Habitation 081,Peri-urban,Pucca - own,Yes,Tanker,Yes,None,Telugu,2026-02-09,Kurra Swathi,4
+SYN-H-000176,KNL,Kurnool,Synthetic Mandal 06,Synthetic Habitation 064,Rural,Pucca - own,Yes,Tanker,Yes,None,Telugu,2026-07-18,Kattamuri Anil Kumar,3
+SYN-H-000177,NLR,SPSR Nellore,Synthetic Mandal 05,Synthetic Habitation 011,Urban,Kutcha - own,Yes,Public tap,Yes,None,Telugu,2026-09-17,Neelapu Satyanarayana,3
+SYN-H-000178,PKM,Prakasam,Synthetic Mandal 09,Synthetic Habitation 237,Urban,Pucca - own,Yes,Tanker,Yes,Inter-district,Telugu,2025-06-10,Jakka Krishnaveni,3
+SYN-H-000179,KKD,Kakinada,Synthetic Mandal 09,Synthetic Habitation 201,Rural,Semi-pucca - own,Yes,Public tap,Yes,None,Telugu,2026-06-02,Bandaru Lakshmana,3
+SYN-H-000180,VZM,Vizianagaram,Synthetic Mandal 02,Synthetic Habitation 127,Urban,Rented,Yes,Public tap,Yes,None,Telugu,2025-07-24,Nakka Bhaskar,4
+SYN-H-000181,ATP,Anantapur,Synthetic Mandal 06,Synthetic Habitation 112,Peri-urban,Pucca - own,Yes,Tanker,Yes,None,Telugu,2025-06-15,Pallapu Ravi Kumar,2
+SYN-H-000182,ATP,Anantapur,Synthetic Mandal 11,Synthetic Habitation 023,Rural,Kutcha - own,Yes,Tanker,Yes,Within district,Telugu,2025-12-11,Syed Ravi Kumar,3
+SYN-H-000183,AKP,Anakapalli,Synthetic Mandal 05,Synthetic Habitation 238,Urban,Pucca - own,Yes,Tanker,No,None,Telugu,2025-02-05,Anumolu Venkata Ramana,4
+SYN-H-000184,NTR,NTR,Synthetic Mandal 09,Synthetic Habitation 147,Rural,Rented,Yes,Borewell / handpump,Yes,Inter-district,Telugu,2024-12-13,Talari Adinarayana,4
+SYN-H-000185,KRS,Krishna,Synthetic Mandal 03,Synthetic Habitation 048,Rural,Rented,Yes,Tap in premises,Yes,None,Telugu,2025-08-30,Kurra Suresh,4
+SYN-H-000186,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 12,Synthetic Habitation 128,Rural,Semi-pucca - own,Yes,Tanker,No,None,Odia,2025-04-29,Pydi Kavitha,4
+SYN-H-000187,NTR,NTR,Synthetic Mandal 09,Synthetic Habitation 141,Urban,Pucca - own,No,Public tap,Yes,None,Telugu,2025-07-03,Pothula Raju,5
+SYN-H-000188,WGD,West Godavari,Synthetic Mandal 04,Synthetic Habitation 188,Urban,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2026-02-18,Nakka Padma,3
+SYN-H-000189,ANM,Annamayya,Synthetic Mandal 03,Synthetic Habitation 031,Urban,Semi-pucca - own,Yes,Public tap,Yes,None,Telugu,2026-06-14,Pinninti Padma,4
+SYN-H-000190,EGD,East Godavari,Synthetic Mandal 05,Synthetic Habitation 180,Rural,Kutcha - own,Yes,Public tap,Yes,None,Telugu,2025-03-16,Jampana Nagoor,3
+SYN-H-000191,BPT,Bapatla,Synthetic Mandal 05,Synthetic Habitation 206,Urban,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-09-14,Tadi Rajeswari,5
+SYN-H-000192,NLR,SPSR Nellore,Synthetic Mandal 11,Synthetic Habitation 220,Rural,Pucca - own,No,Tap in premises,Yes,None,Telugu,2026-05-09,Vadde Venkata Lakshmi,2
+SYN-H-000193,PLN,Palnadu,Synthetic Mandal 07,Synthetic Habitation 217,Rural,Pucca - own,Yes,Tanker,No,None,Telugu,2026-02-17,Sanaboina Siva,5
+SYN-H-000194,TPT,Tirupati,Synthetic Mandal 12,Synthetic Habitation 108,Urban,Rented,No,Borewell / handpump,Yes,Within district,Telugu,2025-05-03,Vadde Mohan,2
+SYN-H-000195,NDL,Nandyal,Synthetic Mandal 07,Synthetic Habitation 098,Peri-urban,Pucca - own,Yes,Tanker,Yes,Inter-district,Telugu,2025-03-28,Malla Durga Prasad,4
+SYN-H-000196,MKP,Markapuram,Synthetic Mandal 12,Synthetic Habitation 099,Urban,Pucca - own,Yes,Tanker,Yes,None,Telugu,2025-11-28,Nakka Mohan,4
+SYN-H-000197,KKD,Kakinada,Synthetic Mandal 04,Synthetic Habitation 166,Urban,Pucca - own,Yes,Borewell / handpump,Yes,Inter-district,Telugu,2025-09-27,Kurra Gopi,4
+SYN-H-000198,AKP,Anakapalli,Synthetic Mandal 10,Synthetic Habitation 167,Rural,Rented,Yes,Borewell / handpump,Yes,Inter-district,Telugu,2025-08-11,Ravuri Satyanarayana,2
+SYN-H-000199,KNL,Kurnool,Synthetic Mandal 05,Synthetic Habitation 106,Rural,Pucca - own,Yes,Public tap,Yes,None,Telugu,2026-03-07,Shaik Ravi Kumar,4
+SYN-H-000200,KKD,Kakinada,Synthetic Mandal 02,Synthetic Habitation 019,Rural,Rented,No,Borewell / handpump,Yes,None,Telugu,2025-02-20,Mutyala Simhachalam,3
+SYN-H-000201,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 03,Synthetic Habitation 144,Rural,Rented,No,Public tap,Yes,None,Telugu,2024-12-17,Medisetti Bhaskar,4
+SYN-H-000202,KKD,Kakinada,Synthetic Mandal 04,Synthetic Habitation 185,Urban,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-10-01,Malla Venkata Ramana,4
+SYN-H-000203,NLR,SPSR Nellore,Synthetic Mandal 11,Synthetic Habitation 170,Urban,Pucca - own,Yes,Public tap,Yes,Inter-district,Telugu,2025-12-18,Vemula Adinarayana,3
+SYN-H-000204,ATP,Anantapur,Synthetic Mandal 07,Synthetic Habitation 187,Peri-urban,Rented,Yes,Borewell / handpump,Yes,Within district,Telugu,2026-07-31,Allam Adinarayana,3
+SYN-H-000205,ATP,Anantapur,Synthetic Mandal 06,Synthetic Habitation 059,Rural,Rented,Yes,Public tap,Yes,Inter-state,Telugu,2026-05-01,Pothula Ramesh,4
+SYN-H-000206,SKL,Srikakulam,Synthetic Mandal 07,Synthetic Habitation 025,Peri-urban,Pucca - own,Yes,Tanker,Yes,None,Telugu,2026-05-07,Seepana Jyothi,3
+SYN-H-000207,PKM,Prakasam,Synthetic Mandal 07,Synthetic Habitation 124,Peri-urban,Rented,Yes,Tanker,Yes,Within district,Telugu,2025-02-20,Chilakala Mohan,2
+SYN-H-000208,KRS,Krishna,Synthetic Mandal 08,Synthetic Habitation 190,Peri-urban,Semi-pucca - own,Yes,Tap in premises,No,None,Telugu,2025-07-03,Doddi Raju,3
+SYN-H-000209,KKD,Kakinada,Synthetic Mandal 06,Synthetic Habitation 101,Rural,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2026-09-07,Sanaboina Bhavani,4
+SYN-H-000210,SKL,Srikakulam,Synthetic Mandal 08,Synthetic Habitation 117,Rural,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-08-27,Kandula Appa Rao,4
+SYN-H-000211,PLN,Palnadu,Synthetic Mandal 05,Synthetic Habitation 008,Urban,Pucca - own,Yes,Public tap,Yes,Inter-district,Telugu,2026-05-30,Kurra Yesu,3
+SYN-H-000212,NTR,NTR,Synthetic Mandal 03,Synthetic Habitation 037,Rural,Pucca - own,Yes,Public tap,Yes,Inter-state,Telugu,2025-08-24,Talari Nagamani,4
+SYN-H-000213,NTR,NTR,Synthetic Mandal 10,Synthetic Habitation 220,Rural,Rented,Yes,Borewell / handpump,Yes,None,Telugu,2025-08-23,Tadi Sathyavathi,4
+SYN-H-000214,AKP,Anakapalli,Synthetic Mandal 04,Synthetic Habitation 183,Urban,Pucca - own,No,Tanker,Yes,None,Telugu,2026-03-20,Medisetti Satyanarayana,4
+SYN-H-000215,VZM,Vizianagaram,Synthetic Mandal 12,Synthetic Habitation 154,Rural,Pucca - own,Yes,Tap in premises,Yes,Within district,Telugu,2025-09-14,Gorantla Kumari,4
+SYN-H-000216,PKM,Prakasam,Synthetic Mandal 03,Synthetic Habitation 064,Rural,Rented,Yes,Tanker,Yes,None,Telugu,2025-01-25,Anumolu Naresh,3
+SYN-H-000217,PLN,Palnadu,Synthetic Mandal 02,Synthetic Habitation 059,Rural,Rented,Yes,Tanker,Yes,None,Telugu,2025-04-02,Bandaru Satyanarayana,5
+SYN-H-000218,NLR,SPSR Nellore,Synthetic Mandal 09,Synthetic Habitation 122,Peri-urban,Semi-pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-05-28,Chinta Venkata Lakshmi,1
+SYN-H-000219,KKD,Kakinada,Synthetic Mandal 01,Synthetic Habitation 192,Peri-urban,Pucca - own,Yes,Public tap,Yes,None,Telugu,2025-02-05,Chinta Ramu,4
+SYN-H-000220,BPT,Bapatla,Synthetic Mandal 10,Synthetic Habitation 116,Rural,Kutcha - own,Yes,Tap in premises,Yes,None,Hindi,2026-04-18,Mutyala Kumari,4
+SYN-H-000221,AKP,Anakapalli,Synthetic Mandal 06,Synthetic Habitation 223,Peri-urban,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-06-23,Boddu Srinu,3
+SYN-H-000222,KRS,Krishna,Synthetic Mandal 12,Synthetic Habitation 091,Rural,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-09-02,Malla Venkata Ramana,5
+SYN-H-000223,KKD,Kakinada,Synthetic Mandal 10,Synthetic Habitation 055,Rural,Rented,Yes,Borewell / handpump,Yes,None,Telugu,2026-05-19,Vadde Sathyavathi,3
+SYN-H-000224,NTR,NTR,Synthetic Mandal 04,Synthetic Habitation 120,Urban,Rented,Yes,Tap in premises,No,Within district,Telugu,2025-09-25,Koppula Ramu,2
+SYN-H-000225,KDP,Y.S.R Kadapa,Synthetic Mandal 12,Synthetic Habitation 077,Rural,Semi-pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-11-18,Mandapati Sheela,4
+SYN-H-000226,CTR,Chittoor,Synthetic Mandal 08,Synthetic Habitation 117,Rural,Pucca - own,No,Public tap,No,None,Telugu,2025-03-27,Kolli Mahesh,3
+SYN-H-000227,PLN,Palnadu,Synthetic Mandal 11,Synthetic Habitation 098,Peri-urban,Semi-pucca - own,No,Tap in premises,Yes,Inter-state,Telugu,2025-09-24,Pallapu Bhaskar,1
+SYN-H-000228,ATP,Anantapur,Synthetic Mandal 07,Synthetic Habitation 219,Rural,Rented,Yes,Tap in premises,Yes,Within district,Telugu,2026-02-27,Sanaboina Annapurna,5
+SYN-H-000229,KNL,Kurnool,Synthetic Mandal 04,Synthetic Habitation 029,Urban,Semi-pucca - own,Yes,Borewell / handpump,Yes,Within district,Telugu,2026-05-07,Boddu Rajeswari,4
+SYN-H-000230,SKL,Srikakulam,Synthetic Mandal 03,Synthetic Habitation 055,Urban,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2026-08-17,Kandula Jyothi,2
+SYN-H-000231,TPT,Tirupati,Synthetic Mandal 11,Synthetic Habitation 069,Peri-urban,Pucca - own,Yes,Public tap,Yes,None,Hindi,2025-05-29,Kandula Lavanya,3
+SYN-H-000232,ELR,Eluru,Synthetic Mandal 07,Synthetic Habitation 096,Rural,Kutcha - own,Yes,Borewell / handpump,Yes,Within district,Telugu,2025-06-21,Gorantla Narasimha,4
+SYN-H-000233,ELR,Eluru,Synthetic Mandal 10,Synthetic Habitation 068,Rural,Pucca - own,Yes,Tanker,Yes,None,Telugu,2026-08-08,Sirigiri Ravi Kumar,4
+SYN-H-000234,ATP,Anantapur,Synthetic Mandal 12,Synthetic Habitation 060,Peri-urban,Semi-pucca - own,No,Public tap,Yes,None,Telugu,2025-06-19,Duvvuri Venkata Ramana,1
+SYN-H-000235,PKM,Prakasam,Synthetic Mandal 09,Synthetic Habitation 170,Peri-urban,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2026-04-27,Kandula Lakshmana,1
+SYN-H-000236,SKL,Srikakulam,Synthetic Mandal 08,Synthetic Habitation 234,Rural,Pucca - own,No,Public tap,Yes,None,Telugu,2025-01-22,Vadde Peddiraju,2
+SYN-H-000237,SSS,Sri Sathya Sai,Synthetic Mandal 01,Synthetic Habitation 026,Rural,Kutcha - own,No,Tap in premises,Yes,None,Telugu,2026-01-10,Uppada Murali,3
+SYN-H-000238,ASR,Alluri Sitharama Raju,Synthetic Mandal 02,Synthetic Habitation 179,Rural,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-01-31,Nalli Saraswathi,2
+SYN-H-000239,PVP,Parvathipuram Manyam,Synthetic Mandal 07,Synthetic Habitation 076,Rural,Rented,Yes,Borewell / handpump,Yes,Inter-state,Telugu,2026-05-26,Mylapalli Varalakshmi,1
+SYN-H-000240,NLR,SPSR Nellore,Synthetic Mandal 03,Synthetic Habitation 109,Rural,Kutcha - own,Yes,Public tap,Yes,Inter-district,Urdu,2026-09-11,Sanaboina Krishna,2
+SYN-H-000241,EGD,East Godavari,Synthetic Mandal 01,Synthetic Habitation 122,Rural,Semi-pucca - own,Yes,Tap in premises,Yes,Within district,Telugu,2026-09-16,Dasari Bhaskar,4
+SYN-H-000242,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 06,Synthetic Habitation 200,Rural,Pucca - own,Yes,Public tap,Yes,Inter-district,Telugu,2026-03-25,Malla Raju,4
+SYN-H-000243,MKP,Markapuram,Synthetic Mandal 01,Synthetic Habitation 205,Peri-urban,Rented,Yes,Borewell / handpump,No,None,Telugu,2025-10-11,Nakka Nagaraju,2
+SYN-H-000244,SKL,Srikakulam,Synthetic Mandal 03,Synthetic Habitation 122,Peri-urban,Rented,Yes,Tanker,Yes,None,Telugu,2025-03-24,Malla Naresh,2
+SYN-H-000245,NTR,NTR,Synthetic Mandal 03,Synthetic Habitation 169,Peri-urban,Semi-pucca - own,Yes,Public tap,Yes,None,Telugu,2026-04-08,Kattamuri Prasad,4
+SYN-H-000246,KNL,Kurnool,Synthetic Mandal 04,Synthetic Habitation 069,Urban,Rented,Yes,Tap in premises,Yes,None,Telugu,2025-02-24,Pallapu Padma,4
+SYN-H-000247,MKP,Markapuram,Synthetic Mandal 03,Synthetic Habitation 136,Rural,Semi-pucca - own,Yes,Tanker,Yes,Within district,Telugu,2025-06-06,Vadde Ravi Kumar,5
+SYN-H-000248,PLN,Palnadu,Synthetic Mandal 03,Synthetic Habitation 076,Rural,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-01-27,Mandapati Eswar,5
+SYN-H-000249,NTR,NTR,Synthetic Mandal 08,Synthetic Habitation 218,Urban,Semi-pucca - own,Yes,Public tap,Yes,Inter-state,Telugu,2025-05-27,Kurra Durga,5
+SYN-H-000250,BPT,Bapatla,Synthetic Mandal 05,Synthetic Habitation 007,Urban,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2025-03-06,Pilla Sai Kumar,6
+SYN-H-000251,PKM,Prakasam,Synthetic Mandal 08,Synthetic Habitation 032,Rural,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2024-12-31,Pinninti Naresh,5
+SYN-H-000252,KRS,Krishna,Synthetic Mandal 05,Synthetic Habitation 197,Rural,Kutcha - own,No,Tap in premises,Yes,None,Telugu,2026-02-17,Gorantla Kiran,3
+SYN-H-000253,AKP,Anakapalli,Synthetic Mandal 01,Synthetic Habitation 209,Peri-urban,Pucca - own,No,Borewell / handpump,Yes,None,Telugu,2026-04-17,Sirigiri Kiran,2
+SYN-H-000254,NLR,SPSR Nellore,Synthetic Mandal 06,Synthetic Habitation 162,Rural,Rented,Yes,Borewell / handpump,Yes,Inter-district,Telugu,2025-06-02,Bevara Mahesh,4
+SYN-H-000255,GNT,Guntur,Synthetic Mandal 06,Synthetic Habitation 045,Rural,Pucca - own,Yes,Public tap,Yes,None,Telugu,2026-03-15,Tadi Mohan,3
+SYN-H-000256,MKP,Markapuram,Synthetic Mandal 11,Synthetic Habitation 048,Peri-urban,Pucca - own,Yes,Public tap,Yes,None,Telugu,2025-03-23,Kandula Krishna,2
+SYN-H-000257,NDL,Nandyal,Synthetic Mandal 06,Synthetic Habitation 078,Rural,Rented,Yes,Tap in premises,Yes,None,Telugu,2026-07-04,Dasari Swathi,4
+SYN-H-000258,SKL,Srikakulam,Synthetic Mandal 01,Synthetic Habitation 119,Rural,Rented,Yes,Borewell / handpump,Yes,Within district,Telugu,2025-11-02,Uppada Annapurna,5
+SYN-H-000259,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 08,Synthetic Habitation 089,Peri-urban,Kutcha - own,Yes,Tanker,Yes,None,Telugu,2025-08-20,Sirigiri Srinivasa Rao,4
+SYN-H-000260,VSP,Visakhapatnam,Synthetic Mandal 08,Synthetic Habitation 018,Urban,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2026-07-01,Syed Srinu,5
+SYN-H-000261,MKP,Markapuram,Synthetic Mandal 11,Synthetic Habitation 078,Urban,Semi-pucca - own,Yes,Public tap,No,None,Telugu,2026-03-30,Dasari Srinivasa Rao,5
+SYN-H-000262,ELR,Eluru,Synthetic Mandal 01,Synthetic Habitation 019,Peri-urban,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-08-22,Sanaboina Krishna,4
+SYN-H-000263,KKD,Kakinada,Synthetic Mandal 06,Synthetic Habitation 183,Rural,Rented,Yes,Tanker,Yes,None,Telugu,2026-03-04,Nakka Rafi,5
+SYN-H-000264,NTR,NTR,Synthetic Mandal 11,Synthetic Habitation 070,Peri-urban,Rented,Yes,Tanker,Yes,None,Telugu,2025-08-20,Jakka Satyanarayana,3
+SYN-H-000265,NLR,SPSR Nellore,Synthetic Mandal 01,Synthetic Habitation 008,Rural,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2026-04-08,Sanaboina Anil Kumar,5
+SYN-H-000266,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 04,Synthetic Habitation 052,Urban,Semi-pucca - own,Yes,Borewell / handpump,Yes,Inter-district,Telugu,2025-08-05,Dasari Prasad,3
+SYN-H-000267,KDP,Y.S.R Kadapa,Synthetic Mandal 02,Synthetic Habitation 188,Peri-urban,Pucca - own,No,Tap in premises,Yes,None,Odia,2026-04-10,Bolla Krishnaveni,6
+SYN-H-000268,PLN,Palnadu,Synthetic Mandal 12,Synthetic Habitation 198,Rural,Rented,Yes,Tanker,Yes,Within district,Urdu,2026-05-07,Nalli Rafi,4
+SYN-H-000269,PLV,Polavaram,Synthetic Mandal 10,Synthetic Habitation 227,Rural,Semi-pucca - own,Yes,Tanker,Yes,Inter-state,Urdu,2026-06-23,Yerra Peddiraju,4
+SYN-H-000270,VZM,Vizianagaram,Synthetic Mandal 06,Synthetic Habitation 043,Urban,Rented,Yes,Tanker,Yes,None,Telugu,2025-10-09,Dasari Srinu,2
+SYN-H-000271,NTR,NTR,Synthetic Mandal 10,Synthetic Habitation 033,Urban,Pucca - own,Yes,Tanker,Yes,None,Urdu,2026-07-01,Jakka Nagaraju,2
+SYN-H-000272,AKP,Anakapalli,Synthetic Mandal 03,Synthetic Habitation 029,Rural,Rented,Yes,Public tap,Yes,Within district,Telugu,2026-06-06,Gurrala Hanumanthu,3
+SYN-H-000273,GNT,Guntur,Synthetic Mandal 08,Synthetic Habitation 017,Rural,Rented,Yes,Tanker,Yes,None,Telugu,2025-01-09,Mylapalli Nagaraju,2
+SYN-H-000274,KRS,Krishna,Synthetic Mandal 09,Synthetic Habitation 093,Rural,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-05-31,Medisetti Naresh,5
+SYN-H-000275,TPT,Tirupati,Synthetic Mandal 11,Synthetic Habitation 028,Rural,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-04-20,Medisetti Kumari,4
+SYN-H-000276,BPT,Bapatla,Synthetic Mandal 03,Synthetic Habitation 067,Rural,Kutcha - own,Yes,Tap in premises,Yes,None,Telugu,2025-02-26,Vemula Simhachalam,2
+SYN-H-000277,TPT,Tirupati,Synthetic Mandal 05,Synthetic Habitation 020,Rural,Pucca - own,Yes,Tap in premises,Yes,Within district,Telugu,2026-04-05,Malla Satyanarayana,5
+SYN-H-000278,NTR,NTR,Synthetic Mandal 04,Synthetic Habitation 111,Rural,Semi-pucca - own,No,Tanker,Yes,None,Telugu,2025-06-27,Anumolu Raju,4
+SYN-H-000279,VZM,Vizianagaram,Synthetic Mandal 09,Synthetic Habitation 215,Rural,Semi-pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2026-08-04,Allam Mahesh,5
+SYN-H-000280,KKD,Kakinada,Synthetic Mandal 12,Synthetic Habitation 186,Rural,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-03-27,Pothula Sai Kumar,5
+SYN-H-000281,KNL,Kurnool,Synthetic Mandal 07,Synthetic Habitation 237,Urban,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-09-11,Jakka Mahesh,4
+SYN-H-000282,TPT,Tirupati,Synthetic Mandal 03,Synthetic Habitation 100,Urban,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-01-12,Yerra Rajeswari,5
+SYN-H-000283,SKL,Srikakulam,Synthetic Mandal 07,Synthetic Habitation 062,Urban,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-01-17,Jampana Prabhu Das,4
+SYN-H-000284,GNT,Guntur,Synthetic Mandal 10,Synthetic Habitation 071,Rural,Pucca - own,No,Tap in premises,Yes,None,Telugu,2025-07-29,Chinta Siva,4
+SYN-H-000285,PVP,Parvathipuram Manyam,Synthetic Mandal 01,Synthetic Habitation 230,Urban,Rented,Yes,Public tap,Yes,Inter-district,Telugu,2025-05-16,Chilakala Kumari,3
+SYN-H-000286,ATP,Anantapur,Synthetic Mandal 09,Synthetic Habitation 216,Urban,Kutcha - own,Yes,Tap in premises,Yes,Inter-state,Telugu,2025-09-07,Kurra Mary,4
+SYN-H-000287,PLV,Polavaram,Synthetic Mandal 06,Synthetic Habitation 164,Rural,Pucca - own,No,Borewell / handpump,Yes,None,Telugu,2026-06-11,Chilakala Ramesh,5
+SYN-H-000288,KRS,Krishna,Synthetic Mandal 02,Synthetic Habitation 148,Urban,Semi-pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-05-15,Kolli Murali,5
+SYN-H-000289,PLN,Palnadu,Synthetic Mandal 04,Synthetic Habitation 062,Peri-urban,Rented,Yes,Tap in premises,Yes,None,Telugu,2026-03-03,Pallapu Anitha,5
+SYN-H-000290,CTR,Chittoor,Synthetic Mandal 01,Synthetic Habitation 008,Urban,Kutcha - own,Yes,Borewell / handpump,Yes,None,Telugu,2026-04-24,Karri Mahesh,1
+SYN-H-000291,VZM,Vizianagaram,Synthetic Mandal 10,Synthetic Habitation 110,Rural,Pucca - own,Yes,Borewell / handpump,Yes,Inter-district,Telugu,2025-09-12,Gorantla Chandrakala,4
+SYN-H-000292,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 12,Synthetic Habitation 176,Urban,Pucca - own,Yes,Tanker,Yes,None,Telugu,2025-12-17,Ravuri Prasad,4
+SYN-H-000293,TPT,Tirupati,Synthetic Mandal 11,Synthetic Habitation 193,Rural,Rented,Yes,Tap in premises,Yes,None,Telugu,2026-04-09,Uppada Prabhu Das,4
+SYN-H-000294,NLR,SPSR Nellore,Synthetic Mandal 02,Synthetic Habitation 138,Urban,Semi-pucca - own,Yes,Public tap,Yes,Inter-district,Telugu,2025-01-18,Kandula Anil Kumar,4
+SYN-H-000295,ATP,Anantapur,Synthetic Mandal 03,Synthetic Habitation 039,Rural,Kutcha - own,Yes,Tanker,Yes,None,Telugu,2025-02-22,Duvvuri Anil Kumar,5
+SYN-H-000296,GNT,Guntur,Synthetic Mandal 06,Synthetic Habitation 162,Rural,Semi-pucca - own,Yes,Public tap,Yes,None,Telugu,2025-10-18,Pydi Satyanarayana,4
+SYN-H-000297,NDL,Nandyal,Synthetic Mandal 06,Synthetic Habitation 203,Urban,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2025-02-27,Vemula Ramesh,5
+SYN-H-000298,KRS,Krishna,Synthetic Mandal 06,Synthetic Habitation 042,Rural,Rented,Yes,Borewell / handpump,Yes,Within district,Telugu,2025-06-01,Bandaru Swathi,2
+SYN-H-000299,CTR,Chittoor,Synthetic Mandal 03,Synthetic Habitation 141,Peri-urban,Semi-pucca - own,Yes,Borewell / handpump,Yes,Inter-district,Telugu,2025-05-26,Karri Rajesh,1
+SYN-H-000300,VSP,Visakhapatnam,Synthetic Mandal 04,Synthetic Habitation 238,Peri-urban,Pucca - own,Yes,Tanker,Yes,None,Telugu,2025-02-23,Seepana Ammaji,2
+SYN-H-000301,SKL,Srikakulam,Synthetic Mandal 07,Synthetic Habitation 196,Rural,Pucca - own,Yes,Tap in premises,Yes,Within district,Telugu,2026-01-09,Mylapalli Rani,5
+SYN-H-000302,KRS,Krishna,Synthetic Mandal 12,Synthetic Habitation 175,Rural,Rented,Yes,Tanker,No,None,Telugu,2026-06-01,Kandula Chinna Rao,2
+SYN-H-000303,SKL,Srikakulam,Synthetic Mandal 08,Synthetic Habitation 126,Rural,Kutcha - own,Yes,Public tap,Yes,Inter-district,Telugu,2025-09-29,Mandapati Sai Kumar,3
+SYN-H-000304,KNL,Kurnool,Synthetic Mandal 08,Synthetic Habitation 173,Peri-urban,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-02-02,Pallapu Kiran,2
+SYN-H-000305,CTR,Chittoor,Synthetic Mandal 05,Synthetic Habitation 160,Rural,Semi-pucca - own,Yes,Tap in premises,Yes,Within district,Urdu,2025-11-15,Malla Jyothi,3
+SYN-H-000306,ELR,Eluru,Synthetic Mandal 06,Synthetic Habitation 048,Peri-urban,Pucca - own,Yes,Tanker,Yes,None,Urdu,2025-06-28,Gollapalli Annapurna,4
+SYN-H-000307,ANM,Annamayya,Synthetic Mandal 05,Synthetic Habitation 157,Urban,Rented,Yes,Public tap,No,Inter-state,Telugu,2024-12-19,Neelapu Ravi Kumar,5
+SYN-H-000308,KKD,Kakinada,Synthetic Mandal 06,Synthetic Habitation 213,Rural,Pucca - own,Yes,Public tap,Yes,None,Urdu,2026-02-13,Gorantla Annapurna,4
+SYN-H-000309,PLN,Palnadu,Synthetic Mandal 02,Synthetic Habitation 092,Urban,Kutcha - own,Yes,Tap in premises,Yes,None,Telugu,2025-09-23,Lanka Lakshmana,4
+SYN-H-000310,AKP,Anakapalli,Synthetic Mandal 05,Synthetic Habitation 131,Rural,Semi-pucca - own,No,Tanker,Yes,None,Telugu,2025-09-17,Pallapu Bhavani,3
+SYN-H-000311,TPT,Tirupati,Synthetic Mandal 12,Synthetic Habitation 170,Rural,Semi-pucca - own,Yes,Tanker,Yes,None,Urdu,2025-02-28,Bolla Chinna Rao,3
+SYN-H-000312,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 06,Synthetic Habitation 165,Urban,Semi-pucca - own,Yes,Tanker,Yes,Within district,Telugu,2025-12-11,Thota Eswar,3
+SYN-H-000313,WGD,West Godavari,Synthetic Mandal 03,Synthetic Habitation 130,Urban,Semi-pucca - own,Yes,Tap in premises,No,None,Telugu,2026-02-03,Gorantla Varalakshmi,3
+SYN-H-000314,VSP,Visakhapatnam,Synthetic Mandal 09,Synthetic Habitation 155,Rural,Semi-pucca - own,Yes,Tap in premises,No,None,Telugu,2025-06-15,Gudla Satyanarayana,4
+SYN-H-000315,SKL,Srikakulam,Synthetic Mandal 12,Synthetic Habitation 108,Rural,Pucca - own,No,Tap in premises,Yes,None,Telugu,2025-02-23,Yerra Satyanarayana,2
+SYN-H-000316,KDP,Y.S.R Kadapa,Synthetic Mandal 08,Synthetic Habitation 065,Rural,Semi-pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2024-12-27,Lanka Gopi,4
+SYN-H-000317,NDL,Nandyal,Synthetic Mandal 02,Synthetic Habitation 034,Rural,Semi-pucca - own,No,Public tap,Yes,Within district,Telugu,2026-08-11,Ravuri Chinna Rao,4
+SYN-H-000318,SKL,Srikakulam,Synthetic Mandal 12,Synthetic Habitation 086,Rural,Kutcha - own,Yes,Tap in premises,Yes,None,Telugu,2025-12-27,Mandapati Raju,5
+SYN-H-000319,KKD,Kakinada,Synthetic Mandal 03,Synthetic Habitation 138,Urban,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2026-04-13,Koppula Venkata Ramana,4
+SYN-H-000320,AKP,Anakapalli,Synthetic Mandal 04,Synthetic Habitation 142,Rural,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-01-03,Bandaru Raju,2
+SYN-H-000321,ELR,Eluru,Synthetic Mandal 01,Synthetic Habitation 168,Urban,Rented,Yes,Borewell / handpump,Yes,None,Telugu,2025-08-12,Malla Kiran,5
+SYN-H-000322,PLV,Polavaram,Synthetic Mandal 02,Synthetic Habitation 105,Peri-urban,Rented,Yes,Tap in premises,Yes,None,Urdu,2025-03-12,Mandapati Suresh,5
+SYN-H-000323,TPT,Tirupati,Synthetic Mandal 04,Synthetic Habitation 202,Peri-urban,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-09-21,Gudla Srinivasa Rao,4
+SYN-H-000324,VZM,Vizianagaram,Synthetic Mandal 12,Synthetic Habitation 052,Rural,Rented,Yes,Public tap,Yes,None,Telugu,2025-06-16,Allam Kiran,3
+SYN-H-000325,NLR,SPSR Nellore,Synthetic Mandal 05,Synthetic Habitation 205,Urban,Semi-pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-11-21,Bolla Appa Rao,3
+SYN-H-000326,AKP,Anakapalli,Synthetic Mandal 05,Synthetic Habitation 178,Urban,Semi-pucca - own,Yes,Public tap,Yes,None,Telugu,2025-03-16,Gudla Durga Prasad,4
+SYN-H-000327,KNL,Kurnool,Synthetic Mandal 06,Synthetic Habitation 030,Rural,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-12-27,Duvvuri Annapurna,3
+SYN-H-000328,KDP,Y.S.R Kadapa,Synthetic Mandal 11,Synthetic Habitation 137,Rural,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-06-20,Vadde Annapurna,2
+SYN-H-000329,NDL,Nandyal,Synthetic Mandal 07,Synthetic Habitation 068,Peri-urban,Pucca - own,Yes,Public tap,Yes,None,Telugu,2026-03-22,Jakka Durga Prasad,4
+SYN-H-000330,MKP,Markapuram,Synthetic Mandal 01,Synthetic Habitation 042,Rural,Pucca - own,Yes,Tanker,Yes,None,Odia,2026-02-24,Bevara Murali,5
+SYN-H-000331,SKL,Srikakulam,Synthetic Mandal 03,Synthetic Habitation 187,Rural,Semi-pucca - own,No,Borewell / handpump,Yes,None,Telugu,2025-03-27,Shaik Hanumanthu,2
+SYN-H-000332,KKD,Kakinada,Synthetic Mandal 07,Synthetic Habitation 195,Rural,Rented,Yes,Tanker,Yes,None,Telugu,2025-02-23,Neelapu Kumari,4
+SYN-H-000333,NLR,SPSR Nellore,Synthetic Mandal 12,Synthetic Habitation 181,Peri-urban,Semi-pucca - own,Yes,Tanker,No,None,Telugu,2025-02-04,Mylapalli Kumari,4
+SYN-H-000334,WGD,West Godavari,Synthetic Mandal 09,Synthetic Habitation 070,Rural,Rented,Yes,Borewell / handpump,Yes,Inter-state,Telugu,2025-09-05,Syed Peddiraju,5
+SYN-H-000335,KNL,Kurnool,Synthetic Mandal 08,Synthetic Habitation 130,Peri-urban,Pucca - own,Yes,Public tap,Yes,Within district,Telugu,2026-02-19,Doddi Anitha,4
+SYN-H-000336,ELR,Eluru,Synthetic Mandal 02,Synthetic Habitation 189,Peri-urban,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-09-08,Kattamuri Varalakshmi,2
+SYN-H-000337,SKL,Srikakulam,Synthetic Mandal 04,Synthetic Habitation 105,Urban,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-06-07,Lanka Ramesh,4
+SYN-H-000338,GNT,Guntur,Synthetic Mandal 02,Synthetic Habitation 193,Rural,Rented,Yes,Public tap,Yes,Within district,Telugu,2026-08-26,Vemula Lavanya,3
+SYN-H-000339,BPT,Bapatla,Synthetic Mandal 12,Synthetic Habitation 060,Rural,Semi-pucca - own,No,Tanker,Yes,None,Telugu,2026-02-18,Duvvuri Mohan,5
+SYN-H-000340,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 11,Synthetic Habitation 112,Peri-urban,Pucca - own,Yes,Tap in premises,No,Inter-district,Telugu,2025-04-17,Nalli Prasad,4
+SYN-H-000341,KNL,Kurnool,Synthetic Mandal 02,Synthetic Habitation 105,Peri-urban,Kutcha - own,No,Borewell / handpump,Yes,Within district,Telugu,2025-11-03,Jakka Lavanya,2
+SYN-H-000342,NDL,Nandyal,Synthetic Mandal 02,Synthetic Habitation 072,Urban,Rented,Yes,Tanker,Yes,None,Telugu,2026-09-01,Kandula Venkata Ramana,4
+SYN-H-000343,TPT,Tirupati,Synthetic Mandal 11,Synthetic Habitation 193,Rural,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2026-06-05,Kattamuri Siva,5
+SYN-H-000344,NTR,NTR,Synthetic Mandal 04,Synthetic Habitation 183,Urban,Pucca - own,Yes,Tap in premises,Yes,None,Odia,2025-03-10,Gudla Kavitha,3
+SYN-H-000345,ATP,Anantapur,Synthetic Mandal 10,Synthetic Habitation 022,Urban,Kutcha - own,Yes,Tanker,Yes,None,Telugu,2024-12-29,Mutyala Adinarayana,4
+SYN-H-000346,NTR,NTR,Synthetic Mandal 12,Synthetic Habitation 125,Peri-urban,Kutcha - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-01-11,Yerra Eswar,3
+SYN-H-000347,EGD,East Godavari,Synthetic Mandal 03,Synthetic Habitation 131,Rural,Pucca - own,Yes,Tanker,Yes,None,Telugu,2025-07-11,Mandapati Srinivasa Rao,6
+SYN-H-000348,AKP,Anakapalli,Synthetic Mandal 10,Synthetic Habitation 237,Rural,Rented,Yes,Borewell / handpump,Yes,None,Telugu,2025-12-24,Nakka Venkata Ramana,4
+SYN-H-000349,ANM,Annamayya,Synthetic Mandal 08,Synthetic Habitation 148,Rural,Pucca - own,Yes,Public tap,No,None,Urdu,2025-08-13,Nakka Anil Kumar,4
+SYN-H-000350,AKP,Anakapalli,Synthetic Mandal 01,Synthetic Habitation 148,Peri-urban,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2025-09-09,Bolla Fathima,4
+SYN-H-000351,KKD,Kakinada,Synthetic Mandal 11,Synthetic Habitation 194,Rural,Pucca - own,Yes,Public tap,Yes,None,Telugu,2025-12-16,Kurra Krishna,3
+SYN-H-000352,CTR,Chittoor,Synthetic Mandal 11,Synthetic Habitation 214,Rural,Pucca - own,No,Tanker,Yes,None,Telugu,2025-06-02,Boddu Adinarayana,1
+SYN-H-000353,KNL,Kurnool,Synthetic Mandal 07,Synthetic Habitation 065,Rural,Semi-pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2026-02-27,Yerra Lavanya,3
+SYN-H-000354,NTR,NTR,Synthetic Mandal 08,Synthetic Habitation 066,Rural,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-01-29,Mandapati Srinivasa Rao,4
+SYN-H-000355,NLR,SPSR Nellore,Synthetic Mandal 05,Synthetic Habitation 012,Urban,Rented,Yes,Tanker,Yes,None,Telugu,2025-09-02,Shaik Murali,6
+SYN-H-000356,ELR,Eluru,Synthetic Mandal 02,Synthetic Habitation 103,Rural,Pucca - own,Yes,Public tap,Yes,None,Urdu,2025-04-05,Doddi Mohan,5
+SYN-H-000357,ASR,Alluri Sitharama Raju,Synthetic Mandal 02,Synthetic Habitation 157,Urban,Pucca - own,Yes,Tanker,Yes,None,Telugu,2025-03-17,Ravuri Mary,3
+SYN-H-000358,ATP,Anantapur,Synthetic Mandal 05,Synthetic Habitation 174,Rural,Pucca - own,Yes,Tanker,Yes,None,Telugu,2025-06-23,Duvvuri Peddiraju,2
+SYN-H-000359,KRS,Krishna,Synthetic Mandal 04,Synthetic Habitation 108,Rural,Rented,No,Public tap,Yes,Inter-district,Telugu,2025-08-20,Syed Fathima,4
+SYN-H-000360,KKD,Kakinada,Synthetic Mandal 07,Synthetic Habitation 084,Peri-urban,Semi-pucca - own,Yes,Public tap,Yes,None,Urdu,2025-04-11,Doddi Rajeswari,5
+SYN-H-000361,PVP,Parvathipuram Manyam,Synthetic Mandal 09,Synthetic Habitation 173,Rural,Pucca - own,Yes,Public tap,Yes,None,Telugu,2026-01-15,Malla Yesu,2
+SYN-H-000362,KRS,Krishna,Synthetic Mandal 07,Synthetic Habitation 221,Peri-urban,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-03-10,Thota Kiran,3
+SYN-H-000363,VZM,Vizianagaram,Synthetic Mandal 01,Synthetic Habitation 054,Rural,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2026-04-15,Neelapu Yesu,2
+SYN-H-000364,NTR,NTR,Synthetic Mandal 07,Synthetic Habitation 062,Rural,Pucca - own,Yes,Tanker,Yes,None,Telugu,2026-02-12,Koppula Gopi,5
+SYN-H-000365,PLV,Polavaram,Synthetic Mandal 12,Synthetic Habitation 090,Rural,Pucca - own,No,Tap in premises,Yes,Inter-district,Hindi,2025-02-27,Kandula Saraswathi,3
+SYN-H-000366,NLR,SPSR Nellore,Synthetic Mandal 01,Synthetic Habitation 037,Rural,Kutcha - own,Yes,Tanker,Yes,None,Urdu,2026-06-30,Shaik Venkatesh,3
+SYN-H-000367,KRS,Krishna,Synthetic Mandal 04,Synthetic Habitation 107,Urban,Rented,Yes,Tanker,Yes,Inter-district,Telugu,2026-06-01,Karri Ramesh,5
+SYN-H-000368,VSP,Visakhapatnam,Synthetic Mandal 01,Synthetic Habitation 232,Urban,Pucca - own,Yes,Public tap,Yes,None,Telugu,2026-02-03,Karri Nagoor,3
+SYN-H-000369,KRS,Krishna,Synthetic Mandal 05,Synthetic Habitation 215,Peri-urban,Pucca - own,Yes,Tanker,No,Inter-district,Telugu,2025-09-11,Tadi Venkatesh,5
+SYN-H-000370,BPT,Bapatla,Synthetic Mandal 03,Synthetic Habitation 048,Rural,Rented,Yes,Borewell / handpump,Yes,None,Hindi,2026-02-17,Uppada Varalakshmi,3
+SYN-H-000371,SSS,Sri Sathya Sai,Synthetic Mandal 01,Synthetic Habitation 033,Peri-urban,Pucca - own,Yes,Public tap,Yes,Within district,Telugu,2025-02-03,Bevara Suresh,3
+SYN-H-000372,BPT,Bapatla,Synthetic Mandal 11,Synthetic Habitation 123,Peri-urban,Pucca - own,Yes,Public tap,Yes,None,Telugu,2026-08-30,Jakka Chinna Rao,2
+SYN-H-000373,CTR,Chittoor,Synthetic Mandal 07,Synthetic Habitation 075,Peri-urban,Rented,Yes,Tanker,Yes,Inter-district,Telugu,2026-03-08,Chinta Rajesh,3
+SYN-H-000374,AKP,Anakapalli,Synthetic Mandal 06,Synthetic Habitation 011,Peri-urban,Pucca - own,Yes,Tanker,Yes,Within district,Telugu,2025-03-27,Jakka Babu Rao,2
+SYN-H-000375,CTR,Chittoor,Synthetic Mandal 05,Synthetic Habitation 229,Rural,Pucca - own,Yes,Borewell / handpump,Yes,Inter-district,Odia,2025-03-30,Koppula Sathyavathi,2
+SYN-H-000376,KNL,Kurnool,Synthetic Mandal 03,Synthetic Habitation 135,Rural,Rented,No,Borewell / handpump,Yes,None,Telugu,2025-06-05,Vemula Nagoor,4
+SYN-H-000377,CTR,Chittoor,Synthetic Mandal 05,Synthetic Habitation 233,Rural,Semi-pucca - own,Yes,Tanker,Yes,Inter-district,Telugu,2025-11-16,Tadi Chinna Rao,5
+SYN-H-000378,KKD,Kakinada,Synthetic Mandal 07,Synthetic Habitation 221,Rural,Pucca - own,Yes,Public tap,Yes,None,Telugu,2025-04-11,Mandapati Suresh,4
+SYN-H-000379,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 01,Synthetic Habitation 103,Rural,Rented,Yes,Tanker,Yes,None,Telugu,2024-12-27,Bolla Sai Kumar,5
+SYN-H-000380,NDL,Nandyal,Synthetic Mandal 04,Synthetic Habitation 227,Rural,Pucca - own,Yes,Tanker,Yes,None,Telugu,2026-05-08,Tadi Sarojini,6
+SYN-H-000381,SKL,Srikakulam,Synthetic Mandal 02,Synthetic Habitation 235,Rural,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-09-15,Pothula Appa Rao,4
+SYN-H-000382,NLR,SPSR Nellore,Synthetic Mandal 05,Synthetic Habitation 078,Peri-urban,Pucca - own,Yes,Tanker,Yes,Inter-district,Telugu,2026-09-03,Bevara Eswar,1
+SYN-H-000383,ATP,Anantapur,Synthetic Mandal 02,Synthetic Habitation 201,Rural,Semi-pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2026-04-04,Pydi Kavitha,4
+SYN-H-000384,SKL,Srikakulam,Synthetic Mandal 04,Synthetic Habitation 034,Rural,Pucca - own,Yes,Tanker,Yes,None,Urdu,2025-06-25,Ravuri Peddiraju,4
+SYN-H-000385,KKD,Kakinada,Synthetic Mandal 03,Synthetic Habitation 030,Peri-urban,Semi-pucca - own,Yes,Public tap,Yes,Inter-district,Telugu,2026-09-17,Kandula Rafi,4
+SYN-H-000386,KRS,Krishna,Synthetic Mandal 08,Synthetic Habitation 094,Urban,Semi-pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2026-07-13,Syed Ramesh,5
+SYN-H-000387,KNL,Kurnool,Synthetic Mandal 10,Synthetic Habitation 139,Rural,Semi-pucca - own,Yes,Public tap,Yes,None,Telugu,2026-04-12,Uppada Hanumanthu,4
+SYN-H-000388,NTR,NTR,Synthetic Mandal 08,Synthetic Habitation 066,Rural,Kutcha - own,Yes,Public tap,Yes,None,Urdu,2026-01-15,Pilla Siva,2
+SYN-H-000389,NLR,SPSR Nellore,Synthetic Mandal 09,Synthetic Habitation 024,Rural,Semi-pucca - own,No,Tap in premises,Yes,Inter-district,Telugu,2026-04-27,Pilla Mohan,2
+SYN-H-000390,MKP,Markapuram,Synthetic Mandal 04,Synthetic Habitation 137,Rural,Kutcha - own,Yes,Tanker,Yes,Within district,Telugu,2025-04-19,Anumolu Durga,3
+SYN-H-000391,ELR,Eluru,Synthetic Mandal 08,Synthetic Habitation 205,Urban,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-08-08,Duvvuri Krishna,5
+SYN-H-000392,SKL,Srikakulam,Synthetic Mandal 01,Synthetic Habitation 204,Rural,Pucca - own,Yes,Public tap,Yes,None,Telugu,2026-02-08,Syed Sai Kumar,3
+SYN-H-000393,CTR,Chittoor,Synthetic Mandal 09,Synthetic Habitation 079,Peri-urban,Rented,Yes,Tanker,Yes,Inter-state,Telugu,2026-06-25,Pothula Raju,4
+SYN-H-000394,KDP,Y.S.R Kadapa,Synthetic Mandal 09,Synthetic Habitation 218,Rural,Semi-pucca - own,Yes,Public tap,Yes,None,Telugu,2026-02-19,Kandula Rajesh,5
+SYN-H-000395,NTR,NTR,Synthetic Mandal 06,Synthetic Habitation 240,Peri-urban,Pucca - own,Yes,Tanker,Yes,None,Telugu,2026-08-31,Jampana Mohan,3
+SYN-H-000396,WGD,West Godavari,Synthetic Mandal 08,Synthetic Habitation 012,Rural,Pucca - own,Yes,Public tap,Yes,None,Telugu,2025-01-17,Lanka Babu Rao,4
+SYN-H-000397,NDL,Nandyal,Synthetic Mandal 06,Synthetic Habitation 086,Rural,Rented,Yes,Borewell / handpump,Yes,None,Telugu,2024-12-06,Syed Sujatha,4
+SYN-H-000398,NLR,SPSR Nellore,Synthetic Mandal 03,Synthetic Habitation 164,Peri-urban,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-02-04,Gurrala Ramu,5
+SYN-H-000399,KNL,Kurnool,Synthetic Mandal 05,Synthetic Habitation 184,Rural,Semi-pucca - own,Yes,Borewell / handpump,Yes,Inter-district,Telugu,2026-01-27,Kolli Durga Prasad,4
+SYN-H-000400,ELR,Eluru,Synthetic Mandal 11,Synthetic Habitation 019,Urban,Rented,Yes,Tap in premises,Yes,None,Telugu,2026-07-10,Vadde Annapurna,3
+SYN-H-000401,ASR,Alluri Sitharama Raju,Synthetic Mandal 09,Synthetic Habitation 112,Peri-urban,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2026-09-08,Gudla Simhachalam,4
+SYN-H-000402,ELR,Eluru,Synthetic Mandal 07,Synthetic Habitation 236,Urban,Semi-pucca - own,Yes,Public tap,Yes,Within district,Telugu,2026-05-13,Pothula Peddiraju,4
+SYN-H-000403,ELR,Eluru,Synthetic Mandal 08,Synthetic Habitation 089,Rural,Pucca - own,Yes,Borewell / handpump,No,None,Telugu,2026-06-26,Bolla Mahesh,2
+SYN-H-000404,ANM,Annamayya,Synthetic Mandal 03,Synthetic Habitation 086,Rural,Pucca - own,Yes,Borewell / handpump,Yes,Inter-district,Telugu,2025-08-21,Thota Koteswara Rao,5
+SYN-H-000405,MKP,Markapuram,Synthetic Mandal 06,Synthetic Habitation 181,Rural,Rented,No,Tanker,Yes,Within district,Telugu,2026-04-15,Medisetti Chandrakala,3
+SYN-H-000406,MKP,Markapuram,Synthetic Mandal 09,Synthetic Habitation 078,Peri-urban,Rented,Yes,Public tap,Yes,None,Telugu,2025-04-24,Bevara Varalakshmi,5
+SYN-H-000407,KNL,Kurnool,Synthetic Mandal 06,Synthetic Habitation 202,Rural,Rented,Yes,Tap in premises,Yes,None,Telugu,2025-05-21,Pydi Venkata Ramana,3
+SYN-H-000408,GNT,Guntur,Synthetic Mandal 05,Synthetic Habitation 120,Rural,Pucca - own,Yes,Tanker,Yes,None,Telugu,2025-04-28,Gorantla Hanumanthu,3
+SYN-H-000409,ASR,Alluri Sitharama Raju,Synthetic Mandal 06,Synthetic Habitation 109,Peri-urban,Kutcha - own,Yes,Borewell / handpump,Yes,Inter-district,Telugu,2026-03-03,Nalli Chinna Rao,3
+SYN-H-000410,ELR,Eluru,Synthetic Mandal 04,Synthetic Habitation 040,Urban,Kutcha - own,Yes,Tanker,Yes,None,Telugu,2026-06-16,Mylapalli Nagaraju,4
+SYN-H-000411,SSS,Sri Sathya Sai,Synthetic Mandal 03,Synthetic Habitation 011,Rural,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2026-09-09,Pothula Venkata Ramana,4
+SYN-H-000412,ATP,Anantapur,Synthetic Mandal 10,Synthetic Habitation 038,Urban,Pucca - own,Yes,Public tap,No,Inter-state,Telugu,2025-11-27,Uppada Narasimha,4
+SYN-H-000413,NDL,Nandyal,Synthetic Mandal 05,Synthetic Habitation 185,Rural,Rented,Yes,Tanker,No,Within district,Telugu,2025-08-25,Pydi Ramu,4
+SYN-H-000414,NLR,SPSR Nellore,Synthetic Mandal 09,Synthetic Habitation 181,Rural,Rented,No,Tap in premises,Yes,Inter-district,Urdu,2025-04-17,Talari Varalakshmi,3
+SYN-H-000415,PKM,Prakasam,Synthetic Mandal 11,Synthetic Habitation 190,Rural,Kutcha - own,Yes,Tanker,Yes,None,Telugu,2026-06-06,Vemula Narasimha,3
+SYN-H-000416,KRS,Krishna,Synthetic Mandal 02,Synthetic Habitation 075,Rural,Kutcha - own,Yes,Tanker,Yes,None,Telugu,2026-02-24,Yerra Rajesh,5
+SYN-H-000417,VZM,Vizianagaram,Synthetic Mandal 07,Synthetic Habitation 231,Urban,Pucca - own,Yes,Public tap,Yes,None,Telugu,2026-06-27,Neelapu Koteswara Rao,4
+SYN-H-000418,NLR,SPSR Nellore,Synthetic Mandal 05,Synthetic Habitation 153,Urban,Pucca - own,Yes,Borewell / handpump,Yes,Within district,Telugu,2025-09-06,Talari Simhachalam,3
+SYN-H-000419,SKL,Srikakulam,Synthetic Mandal 02,Synthetic Habitation 240,Rural,Pucca - own,Yes,Tap in premises,No,Inter-district,Telugu,2026-04-19,Gudla Durga Prasad,4
+SYN-H-000420,NDL,Nandyal,Synthetic Mandal 07,Synthetic Habitation 125,Urban,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-05-18,Yerra Krishna,3
+SYN-H-000421,ANM,Annamayya,Synthetic Mandal 12,Synthetic Habitation 039,Peri-urban,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-06-16,Pallapu Eswar,4
+SYN-H-000422,SSS,Sri Sathya Sai,Synthetic Mandal 01,Synthetic Habitation 032,Peri-urban,Rented,Yes,Tap in premises,Yes,None,Telugu,2026-05-22,Thota Suresh,3
+SYN-H-000423,ATP,Anantapur,Synthetic Mandal 11,Synthetic Habitation 025,Urban,Kutcha - own,No,Tanker,Yes,None,Telugu,2024-12-16,Sirigiri Srinu,6
+SYN-H-000424,NLR,SPSR Nellore,Synthetic Mandal 08,Synthetic Habitation 053,Peri-urban,Pucca - own,Yes,Public tap,Yes,None,Telugu,2025-04-12,Malla Gopi,2
+SYN-H-000425,PLN,Palnadu,Synthetic Mandal 10,Synthetic Habitation 028,Rural,Semi-pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-03-08,Gurrala Rani,2
+SYN-H-000426,AKP,Anakapalli,Synthetic Mandal 03,Synthetic Habitation 174,Peri-urban,Rented,No,Tanker,Yes,Within district,Telugu,2026-02-10,Pilla Naresh,5
+SYN-H-000427,PVP,Parvathipuram Manyam,Synthetic Mandal 09,Synthetic Habitation 203,Peri-urban,Kutcha - own,Yes,Tanker,Yes,None,Telugu,2025-10-25,Syed Satyanarayana,3
+SYN-H-000428,SKL,Srikakulam,Synthetic Mandal 12,Synthetic Habitation 144,Urban,Rented,No,Public tap,Yes,None,Telugu,2026-04-12,Kolli Peddiraju,3
+SYN-H-000429,PLN,Palnadu,Synthetic Mandal 10,Synthetic Habitation 014,Urban,Kutcha - own,Yes,Tap in premises,Yes,None,Telugu,2024-12-13,Doddi Murali,1
+SYN-H-000430,VSP,Visakhapatnam,Synthetic Mandal 09,Synthetic Habitation 087,Rural,Semi-pucca - own,Yes,Tanker,Yes,Within district,Telugu,2025-03-27,Nakka Mahesh,2
+SYN-H-000431,EGD,East Godavari,Synthetic Mandal 01,Synthetic Habitation 213,Rural,Pucca - own,Yes,Tanker,Yes,Within district,Telugu,2025-08-08,Vemula Eswar,5
+SYN-H-000432,EGD,East Godavari,Synthetic Mandal 09,Synthetic Habitation 220,Peri-urban,Kutcha - own,Yes,Public tap,Yes,Within district,Telugu,2025-11-17,Nakka Sheela,5
+SYN-H-000433,SKL,Srikakulam,Synthetic Mandal 08,Synthetic Habitation 188,Urban,Pucca - own,Yes,Tanker,Yes,Inter-district,Telugu,2025-02-11,Nalli Lakshmi,3
+SYN-H-000434,EGD,East Godavari,Synthetic Mandal 07,Synthetic Habitation 176,Rural,Kutcha - own,Yes,Tap in premises,No,Inter-district,Telugu,2026-04-13,Doddi Nagoor,4
+SYN-H-000435,KRS,Krishna,Synthetic Mandal 06,Synthetic Habitation 113,Peri-urban,Semi-pucca - own,Yes,Tap in premises,No,None,Telugu,2026-02-07,Medisetti Jyothi,3
+SYN-H-000436,ASR,Alluri Sitharama Raju,Synthetic Mandal 06,Synthetic Habitation 182,Urban,Semi-pucca - own,No,Tap in premises,Yes,Inter-district,Telugu,2026-02-20,Lanka Ramesh,2
+SYN-H-000437,SSS,Sri Sathya Sai,Synthetic Mandal 04,Synthetic Habitation 149,Urban,Semi-pucca - own,Yes,Tap in premises,Yes,Inter-district,Telugu,2026-06-12,Karri Satyanarayana,1
+SYN-H-000438,GNT,Guntur,Synthetic Mandal 01,Synthetic Habitation 236,Peri-urban,Pucca - own,Yes,Tanker,Yes,None,Telugu,2026-02-20,Mandapati Durga,4
+SYN-H-000439,KRS,Krishna,Synthetic Mandal 06,Synthetic Habitation 184,Peri-urban,Rented,Yes,Tanker,Yes,None,Telugu,2025-12-09,Syed Hanumanthu,5
+SYN-H-000440,PLN,Palnadu,Synthetic Mandal 07,Synthetic Habitation 035,Urban,Pucca - own,Yes,Tap in premises,Yes,Inter-district,Telugu,2026-04-25,Tadi Hanumanthu,5
+SYN-H-000441,NLR,SPSR Nellore,Synthetic Mandal 01,Synthetic Habitation 069,Rural,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2025-08-12,Jampana Mahesh,5
+SYN-H-000442,EGD,East Godavari,Synthetic Mandal 08,Synthetic Habitation 070,Urban,Pucca - own,No,Tanker,No,Inter-state,Telugu,2025-05-11,Gollapalli Swathi,4
+SYN-H-000443,KKD,Kakinada,Synthetic Mandal 10,Synthetic Habitation 238,Rural,Pucca - own,Yes,Public tap,Yes,None,Telugu,2025-03-29,Karri Suresh,4
+SYN-H-000444,SKL,Srikakulam,Synthetic Mandal 10,Synthetic Habitation 219,Rural,Semi-pucca - own,Yes,Public tap,Yes,Inter-district,Telugu,2025-10-16,Bolla Gopi,4
+SYN-H-000445,PLN,Palnadu,Synthetic Mandal 07,Synthetic Habitation 057,Urban,Pucca - own,Yes,Public tap,Yes,None,Telugu,2026-02-09,Jampana Durga,2
+SYN-H-000446,SKL,Srikakulam,Synthetic Mandal 08,Synthetic Habitation 073,Rural,Pucca - own,Yes,Borewell / handpump,Yes,None,Odia,2025-03-20,Kattamuri Eswar,5
+SYN-H-000447,NLR,SPSR Nellore,Synthetic Mandal 11,Synthetic Habitation 015,Rural,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2026-06-20,Kattamuri Ramu,5
+SYN-H-000448,PLN,Palnadu,Synthetic Mandal 05,Synthetic Habitation 041,Peri-urban,Semi-pucca - own,Yes,Public tap,Yes,Inter-state,Telugu,2026-08-17,Kattamuri Kavitha,4
+SYN-H-000449,PKM,Prakasam,Synthetic Mandal 03,Synthetic Habitation 100,Peri-urban,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2024-12-20,Gollapalli Kavitha,4
+SYN-H-000450,ELR,Eluru,Synthetic Mandal 10,Synthetic Habitation 068,Peri-urban,Pucca - own,Yes,Tap in premises,No,None,Telugu,2026-08-06,Doddi Satyanarayana,2
+SYN-H-000451,WGD,West Godavari,Synthetic Mandal 08,Synthetic Habitation 185,Rural,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2025-10-03,Bolla Koteswara Rao,5
+SYN-H-000452,PLN,Palnadu,Synthetic Mandal 03,Synthetic Habitation 167,Peri-urban,Rented,Yes,Public tap,Yes,None,Telugu,2026-07-20,Koppula Rajeswari,5
+SYN-H-000453,BPT,Bapatla,Synthetic Mandal 02,Synthetic Habitation 203,Rural,Pucca - own,Yes,Borewell / handpump,Yes,Inter-district,Telugu,2025-01-09,Bevara Adinarayana,4
+SYN-H-000454,PLV,Polavaram,Synthetic Mandal 06,Synthetic Habitation 186,Peri-urban,Pucca - own,Yes,Tanker,Yes,None,Telugu,2026-09-14,Kandula Ramesh,2
+SYN-H-000455,GNT,Guntur,Synthetic Mandal 04,Synthetic Habitation 124,Urban,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-08-25,Bevara Adinarayana,5
+SYN-H-000456,BPT,Bapatla,Synthetic Mandal 07,Synthetic Habitation 104,Rural,Rented,Yes,Public tap,No,Within district,Urdu,2026-09-03,Pydi Saraswathi,3
+SYN-H-000457,NLR,SPSR Nellore,Synthetic Mandal 04,Synthetic Habitation 148,Peri-urban,Semi-pucca - own,Yes,Public tap,Yes,None,Telugu,2025-07-25,Nakka Chinna Rao,4
+SYN-H-000458,NTR,NTR,Synthetic Mandal 05,Synthetic Habitation 060,Rural,Pucca - own,Yes,Public tap,Yes,Inter-state,Telugu,2026-08-04,Bevara Ammaji,5
+SYN-H-000459,BPT,Bapatla,Synthetic Mandal 07,Synthetic Habitation 084,Peri-urban,Rented,Yes,Tanker,Yes,Inter-district,Telugu,2024-12-04,Medisetti Rafi,4
+SYN-H-000460,MKP,Markapuram,Synthetic Mandal 12,Synthetic Habitation 217,Rural,Rented,Yes,Tanker,Yes,Inter-district,Telugu,2025-02-15,Medisetti Venkatesh,3
+SYN-H-000461,KRS,Krishna,Synthetic Mandal 02,Synthetic Habitation 192,Rural,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-08-14,Gorantla Sai Kumar,4
+SYN-H-000462,KKD,Kakinada,Synthetic Mandal 09,Synthetic Habitation 036,Rural,Pucca - own,Yes,Tanker,Yes,None,Telugu,2026-05-28,Pilla Suresh,5
+SYN-H-000463,SKL,Srikakulam,Synthetic Mandal 06,Synthetic Habitation 018,Rural,Pucca - own,No,Tanker,Yes,None,Telugu,2026-01-31,Pallapu Sujatha,5
+SYN-H-000464,VZM,Vizianagaram,Synthetic Mandal 09,Synthetic Habitation 231,Urban,Pucca - own,Yes,Tanker,Yes,None,Telugu,2025-01-30,Chinta Rajesh,4
+SYN-H-000465,WGD,West Godavari,Synthetic Mandal 04,Synthetic Habitation 068,Rural,Kutcha - own,Yes,Tap in premises,Yes,None,Telugu,2025-06-17,Syed Yesu,2
+SYN-H-000466,BPT,Bapatla,Synthetic Mandal 06,Synthetic Habitation 107,Urban,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-10-16,Uppada Eswar,4
+SYN-H-000467,KKD,Kakinada,Synthetic Mandal 03,Synthetic Habitation 134,Urban,Rented,Yes,Borewell / handpump,Yes,None,Telugu,2024-12-12,Chilakala Ravi Kumar,1
+SYN-H-000468,ELR,Eluru,Synthetic Mandal 06,Synthetic Habitation 141,Urban,Semi-pucca - own,Yes,Borewell / handpump,No,Inter-district,Telugu,2026-02-26,Gudla Lakshmana,1
+SYN-H-000469,CTR,Chittoor,Synthetic Mandal 01,Synthetic Habitation 235,Rural,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-03-16,Pydi Ramesh,3
+SYN-H-000470,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 02,Synthetic Habitation 011,Peri-urban,Rented,Yes,Public tap,Yes,None,Telugu,2026-08-13,Syed Siva,4
+SYN-H-000471,AKP,Anakapalli,Synthetic Mandal 09,Synthetic Habitation 047,Peri-urban,Pucca - own,No,Public tap,Yes,None,Odia,2025-11-08,Ravuri Nagoor,3
+SYN-H-000472,BPT,Bapatla,Synthetic Mandal 07,Synthetic Habitation 138,Peri-urban,Rented,Yes,Tap in premises,Yes,None,Telugu,2025-02-08,Pothula Lakshmi,3
+SYN-H-000473,BPT,Bapatla,Synthetic Mandal 12,Synthetic Habitation 054,Rural,Rented,Yes,Tap in premises,Yes,Within district,Telugu,2025-05-17,Syed Gopi,3
+SYN-H-000474,PLV,Polavaram,Synthetic Mandal 05,Synthetic Habitation 228,Rural,Semi-pucca - own,Yes,Public tap,Yes,Inter-district,Telugu,2026-03-29,Seepana Hanumanthu,3
+SYN-H-000475,WGD,West Godavari,Synthetic Mandal 02,Synthetic Habitation 038,Rural,Semi-pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-04-13,Seepana Sarojini,3
+SYN-H-000476,ELR,Eluru,Synthetic Mandal 09,Synthetic Habitation 202,Urban,Rented,Yes,Tap in premises,Yes,None,Telugu,2025-06-06,Bandaru Srinu,2
+SYN-H-000477,NDL,Nandyal,Synthetic Mandal 08,Synthetic Habitation 189,Peri-urban,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2026-07-26,Ravuri Kiran,4
+SYN-H-000478,CTR,Chittoor,Synthetic Mandal 02,Synthetic Habitation 009,Rural,Rented,Yes,Tap in premises,Yes,None,Telugu,2026-07-28,Pilla Simhachalam,4
+SYN-H-000479,SKL,Srikakulam,Synthetic Mandal 11,Synthetic Habitation 043,Peri-urban,Kutcha - own,Yes,Tap in premises,Yes,None,Telugu,2025-12-30,Dasari Durga,2
+SYN-H-000480,WGD,West Godavari,Synthetic Mandal 05,Synthetic Habitation 209,Rural,Pucca - own,Yes,Borewell / handpump,No,Within district,Telugu,2026-01-09,Sirigiri Raju,3
+SYN-H-000481,ASR,Alluri Sitharama Raju,Synthetic Mandal 07,Synthetic Habitation 006,Rural,Pucca - own,No,Borewell / handpump,Yes,None,Telugu,2026-02-15,Chilakala Srinu,3
+SYN-H-000482,MKP,Markapuram,Synthetic Mandal 11,Synthetic Habitation 073,Rural,Pucca - own,Yes,Tanker,Yes,Within district,Telugu,2026-09-04,Lanka Siva,3
+SYN-H-000483,KNS,Dr. B.R. Ambedkar Konaseema,Synthetic Mandal 07,Synthetic Habitation 080,Peri-urban,Rented,Yes,Tap in premises,No,None,Telugu,2025-11-30,Jampana Prabhu Das,4
+SYN-H-000484,CTR,Chittoor,Synthetic Mandal 05,Synthetic Habitation 149,Rural,Pucca - own,Yes,Tanker,Yes,None,Telugu,2025-01-27,Jampana Venkata Ramana,3
+SYN-H-000485,NDL,Nandyal,Synthetic Mandal 08,Synthetic Habitation 056,Rural,Semi-pucca - own,No,Public tap,Yes,None,Telugu,2026-01-11,Nakka Varalakshmi,4
+SYN-H-000486,GNT,Guntur,Synthetic Mandal 08,Synthetic Habitation 185,Peri-urban,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2026-02-06,Uppada Mangamma,2
+SYN-H-000487,AKP,Anakapalli,Synthetic Mandal 03,Synthetic Habitation 187,Peri-urban,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-08-18,Mutyala Mohan,4
+SYN-H-000488,VSP,Visakhapatnam,Synthetic Mandal 04,Synthetic Habitation 184,Rural,Rented,Yes,Public tap,Yes,None,Telugu,2026-06-19,Vadde Rani,4
+SYN-H-000489,EGD,East Godavari,Synthetic Mandal 04,Synthetic Habitation 151,Rural,Pucca - own,Yes,Tanker,Yes,None,Telugu,2025-03-27,Bandaru Hanumanthu,4
+SYN-H-000490,ATP,Anantapur,Synthetic Mandal 08,Synthetic Habitation 137,Peri-urban,Rented,Yes,Tap in premises,Yes,Within district,Telugu,2026-07-22,Neelapu Appa Rao,5
+SYN-H-000491,KKD,Kakinada,Synthetic Mandal 09,Synthetic Habitation 070,Rural,Rented,No,Tanker,Yes,Within district,Telugu,2026-06-16,Talari Naresh,4
+SYN-H-000492,SSS,Sri Sathya Sai,Synthetic Mandal 04,Synthetic Habitation 214,Rural,Semi-pucca - own,Yes,Tap in premises,Yes,Within district,Telugu,2026-08-13,Mylapalli Srinivasa Rao,4
+SYN-H-000493,KKD,Kakinada,Synthetic Mandal 10,Synthetic Habitation 087,Rural,Semi-pucca - own,Yes,Tap in premises,No,Inter-state,Telugu,2025-08-28,Bolla Appa Rao,4
+SYN-H-000494,KNL,Kurnool,Synthetic Mandal 09,Synthetic Habitation 084,Peri-urban,Pucca - own,Yes,Tap in premises,Yes,None,Telugu,2026-03-27,Kandula Suresh,3
+SYN-H-000495,ATP,Anantapur,Synthetic Mandal 09,Synthetic Habitation 104,Rural,Semi-pucca - own,Yes,Public tap,Yes,Inter-state,Telugu,2025-01-09,Nalli Raju,4
+SYN-H-000496,VZM,Vizianagaram,Synthetic Mandal 07,Synthetic Habitation 186,Rural,Pucca - own,Yes,Public tap,Yes,None,Telugu,2025-06-05,Yerra Mohan,5
+SYN-H-000497,WGD,West Godavari,Synthetic Mandal 02,Synthetic Habitation 204,Rural,Pucca - own,Yes,Tanker,Yes,Within district,Telugu,2026-07-04,Gorantla Nagaraju,5
+SYN-H-000498,MKP,Markapuram,Synthetic Mandal 08,Synthetic Habitation 158,Peri-urban,Pucca - own,Yes,Public tap,Yes,None,Telugu,2026-06-29,Tadi Siva,2
+SYN-H-000499,PKM,Prakasam,Synthetic Mandal 12,Synthetic Habitation 093,Urban,Semi-pucca - own,Yes,Borewell / handpump,Yes,Inter-state,Telugu,2025-04-21,Vadde Venkata Ramana,2
+SYN-H-000500,KRS,Krishna,Synthetic Mandal 07,Synthetic Habitation 014,Rural,Kutcha - own,No,Tap in premises,Yes,Within district,Telugu,2026-04-14,Bandaru Durga,4
+SYN-H-000501,MKP,Markapuram,Synthetic Mandal 04,Synthetic Habitation 234,Rural,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-11-12,Ravuri Lakshmana,3
+SYN-H-000502,VZM,Vizianagaram,Synthetic Mandal 11,Synthetic Habitation 114,Rural,Rented,Yes,Borewell / handpump,Yes,Inter-district,Telugu,2025-11-15,Medisetti Gopi,4
+SYN-H-000503,GNT,Guntur,Synthetic Mandal 02,Synthetic Habitation 039,Peri-urban,Pucca - own,Yes,Tap in premises,Yes,None,Urdu,2025-01-11,Gorantla Rajesh,3
+SYN-H-000504,ELR,Eluru,Synthetic Mandal 08,Synthetic Habitation 140,Rural,Rented,No,Tap in premises,Yes,None,Telugu,2026-07-09,Medisetti Narasimha,4
+SYN-H-000505,NDL,Nandyal,Synthetic Mandal 02,Synthetic Habitation 031,Urban,Semi-pucca - own,Yes,Public tap,Yes,None,Telugu,2025-01-19,Allam Krishna,6
+SYN-H-000506,MKP,Markapuram,Synthetic Mandal 08,Synthetic Habitation 093,Rural,Semi-pucca - own,Yes,Public tap,Yes,Within district,Telugu,2025-03-12,Ravuri Sarojini,3
+SYN-H-000507,CTR,Chittoor,Synthetic Mandal 05,Synthetic Habitation 063,Rural,Rented,Yes,Tanker,Yes,Within district,Telugu,2024-12-06,Jampana Rajesh,3
+SYN-H-000508,EGD,East Godavari,Synthetic Mandal 01,Synthetic Habitation 140,Rural,Semi-pucca - own,Yes,Tap in premises,Yes,None,Telugu,2025-05-09,Nalli Sheela,3
+SYN-H-000509,NLR,SPSR Nellore,Synthetic Mandal 06,Synthetic Habitation 092,Rural,Semi-pucca - own,Yes,Tanker,Yes,Within district,Telugu,2025-06-08,Duvvuri Prabhu Das,3
+SYN-H-000510,VSP,Visakhapatnam,Synthetic Mandal 08,Synthetic Habitation 166,Urban,Pucca - own,Yes,Borewell / handpump,Yes,Inter-district,Telugu,2026-06-02,Karri Rajeswari,5
+SYN-H-000511,SKL,Srikakulam,Synthetic Mandal 04,Synthetic Habitation 112,Peri-urban,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2025-12-18,Gudla Koteswara Rao,4
+SYN-H-000512,ELR,Eluru,Synthetic Mandal 02,Synthetic Habitation 183,Rural,Rented,Yes,Tanker,Yes,None,Telugu,2025-05-27,Doddi Simhachalam,3
+SYN-H-000513,WGD,West Godavari,Synthetic Mandal 11,Synthetic Habitation 055,Peri-urban,Pucca - own,Yes,Tanker,Yes,Within district,Telugu,2025-07-16,Malla Bhaskar,4
+SYN-H-000514,KNL,Kurnool,Synthetic Mandal 01,Synthetic Habitation 194,Peri-urban,Rented,Yes,Tanker,Yes,Inter-district,Telugu,2026-01-11,Kandula Rafi,3
+SYN-H-000515,PLN,Palnadu,Synthetic Mandal 04,Synthetic Habitation 019,Rural,Semi-pucca - own,No,Tanker,Yes,Within district,Telugu,2025-04-28,Gorantla Lakshmi,3
+SYN-H-000516,KKD,Kakinada,Synthetic Mandal 08,Synthetic Habitation 237,Urban,Semi-pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2025-04-23,Jampana Prabhu Das,3
+SYN-H-000517,KNL,Kurnool,Synthetic Mandal 05,Synthetic Habitation 004,Peri-urban,Kutcha - own,Yes,Borewell / handpump,Yes,None,Telugu,2026-01-10,Karri Bhaskar,4
+SYN-H-000518,KRS,Krishna,Synthetic Mandal 02,Synthetic Habitation 134,Peri-urban,Kutcha - own,Yes,Borewell / handpump,Yes,Inter-district,Telugu,2026-03-16,Kolli Durga Prasad,4
+SYN-H-000519,SKL,Srikakulam,Synthetic Mandal 03,Synthetic Habitation 129,Rural,Rented,No,Tap in premises,Yes,None,Telugu,2025-08-08,Pilla Padma,4
+SYN-H-000520,SKL,Srikakulam,Synthetic Mandal 10,Synthetic Habitation 175,Rural,Rented,Yes,Tanker,Yes,None,Telugu,2025-12-26,Yerra Sujatha,4
+SYN-H-000521,PLN,Palnadu,Synthetic Mandal 09,Synthetic Habitation 167,Urban,Kutcha - own,Yes,Tanker,Yes,None,Telugu,2026-01-21,Sanaboina Krishna,4
+SYN-H-000522,PLN,Palnadu,Synthetic Mandal 02,Synthetic Habitation 053,Rural,Rented,No,Tap in premises,Yes,Inter-state,Telugu,2026-08-30,Pallapu Lakshmana,4
+SYN-H-000523,KRS,Krishna,Synthetic Mandal 06,Synthetic Habitation 233,Peri-urban,Rented,Yes,Public tap,No,None,Telugu,2026-03-05,Pilla Ramadevi,2
+SYN-H-000524,KRS,Krishna,Synthetic Mandal 07,Synthetic Habitation 045,Rural,Semi-pucca - own,Yes,Public tap,Yes,None,Telugu,2026-02-28,Gorantla Babu Rao,5
+SYN-H-000525,TPT,Tirupati,Synthetic Mandal 06,Synthetic Habitation 130,Urban,Rented,Yes,Public tap,Yes,None,Telugu,2026-06-17,Nakka Koteswara Rao,4
+SYN-H-000526,ANM,Annamayya,Synthetic Mandal 09,Synthetic Habitation 226,Rural,Rented,Yes,Borewell / handpump,No,None,Telugu,2025-02-02,Syed Ramesh,5
+SYN-H-000527,ASR,Alluri Sitharama Raju,Synthetic Mandal 10,Synthetic Habitation 163,Peri-urban,Pucca - own,Yes,Public tap,Yes,None,Telugu,2026-04-13,Uppada Mahesh,4
+SYN-H-000528,ATP,Anantapur,Synthetic Mandal 08,Synthetic Habitation 078,Peri-urban,Kutcha - own,Yes,Tap in premises,Yes,None,Telugu,2025-07-29,Kurra Prasad,4
+SYN-H-000529,ASR,Alluri Sitharama Raju,Synthetic Mandal 01,Synthetic Habitation 198,Peri-urban,Rented,Yes,Public tap,Yes,None,Odia,2026-04-30,Talari Peddiraju,2
+SYN-H-000530,PKM,Prakasam,Synthetic Mandal 07,Synthetic Habitation 051,Rural,Pucca - own,Yes,Tanker,Yes,None,Urdu,2025-04-09,Gudla Bhaskar,4
+SYN-H-000531,NTR,NTR,Synthetic Mandal 10,Synthetic Habitation 084,Rural,Pucca - own,Yes,Borewell / handpump,Yes,None,Telugu,2026-04-22,Gorle Lakshmi,1
+SYN-H-000532,KRS,Krishna,Synthetic Mandal 11,Synthetic Habitation 014,Urban,Semi-pucca - own,Yes,Tanker,Yes,None,Telugu,2025-09-03,Bandaru Nagaraju,3
+SYN-H-000533,NTR,NTR,Synthetic Mandal 05,Synthetic Habitation 096,Rural,Semi-pucca - own,Yes,Public tap,Yes,None,Telugu,2025-12-27,Bonthu Srinivasa Rao,4

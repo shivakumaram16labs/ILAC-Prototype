@@ -1,0 +1,20 @@
+{
+  "name": "digital-ilac-prototype",
+  "version": "1.0.0",
+  "description": "Digital ILAC — scripted demonstration prototype on synthetic dataset v1.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node --test tests/engine.test.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "keywords": [
+    "digital-ilac",
+    "apbocwwb",
+    "andhra-pradesh"
+  ],
+  "author": "Government of Andhra Pradesh",
+  "license": "ISC"
+}

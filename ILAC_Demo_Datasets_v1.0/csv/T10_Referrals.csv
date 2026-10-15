@@ -1,0 +1,153 @@
+﻿referral_id,worker_id,service_code,department,district_code,centre_id,created_offset_days,created_on_nominal,service_clock_days,due_offset_days,due_on_nominal,channel,external_ack_no,status,closed_offset_days,responsible_officer
+SYN-R-00001,SYN-W-000008,MS-02,"MeeSeva / CSC, GoAP",GNT,ILAC-GNT-01,-38,2026-09-25,15,-23,2026-10-10,API (mock),SYN-ACK-316524,Completed - service delivered,-28,demo.nodal.ms
+SYN-R-00002,SYN-W-000054,ES-01,"MoLE, GoI - e-Shram",PLV,ILAC-PLV-01,-24,2026-10-09,3,-21,2026-10-12,API (mock),SYN-ACK-416523,Acknowledged by department,,demo.nodal.es
+SYN-R-00003,SYN-W-000304,LB-02,APBOCWWB / Labour Dept,KKD,ILAC-KKD-01,-21,2026-10-12,30,9,2026-11-11,API (mock),SYN-ACK-363710,Completed - service delivered,0,demo.nodal.lb
+SYN-R-00004,SYN-W-000101,SK-01,"APSSDC, GoAP",KNS,ILAC-KNS-01,-44,2026-09-19,7,-37,2026-09-26,API (mock),SYN-ACK-664515,Closed - not completed (reasoned),-37,demo.nodal.sk
+SYN-R-00005,SYN-W-000079,CS-01,"Civil Supplies, GoAP",KNS,ILAC-KNS-01,-4,2026-10-29,21,17,2026-11-19,Manual / assisted,SYN-ACK-766938,Query raised - awaiting worker,,demo.nodal.cs
+SYN-R-00006,SYN-W-000216,LB-01,APBOCWWB / Labour Dept,KNL,ILAC-KNL-01,-13,2026-10-20,7,-6,2026-10-27,API (mock),,Submitted,,demo.nodal.lb
+SYN-R-00007,SYN-W-000529,NP-01,"MSDE, GoI - NAPS",BPT,ILAC-BPT-01,-16,2026-10-17,7,-9,2026-10-24,API (mock),SYN-ACK-117444,Acknowledged by department,,demo.nodal.np
+SYN-R-00008,SYN-W-000465,LB-01,APBOCWWB / Labour Dept,PKM,ILAC-PKM-01,-27,2026-10-06,7,-20,2026-10-13,API (mock),SYN-ACK-190640,Acknowledged by department,,demo.nodal.lb
+SYN-R-00009,SYN-W-000501,MS-01,"MeeSeva / CSC, GoAP",NLR,ILAC-NLR-01,-19,2026-10-14,15,-4,2026-10-29,API (mock),,Submitted,,demo.nodal.ms
+SYN-R-00010,SYN-W-000417,MS-01,"MeeSeva / CSC, GoAP",BPT,ILAC-BPT-01,-9,2026-10-24,15,6,2026-11-08,API (mock),SYN-ACK-267793,Acknowledged by department,,demo.nodal.ms
+SYN-R-00011,SYN-W-000305,MS-02,"MeeSeva / CSC, GoAP",KKD,ILAC-KKD-01,-10,2026-10-23,15,5,2026-11-07,API (mock),SYN-ACK-149066,Query raised - awaiting worker,,demo.nodal.ms
+SYN-R-00012,SYN-W-000307,ET-01,"Employment & Training, GoAP",TPT,ILAC-TPT-01,-2,2026-10-31,7,5,2026-11-07,Manual / assisted,SYN-ACK-767595,Query raised - awaiting worker,,demo.nodal.et
+SYN-R-00013,SYN-W-000019,CS-01,"Civil Supplies, GoAP",SKL,ILAC-SKL-01,-65,2026-08-29,21,-44,2026-09-19,Manual / assisted,SYN-ACK-640362,Completed - service delivered,-43,demo.nodal.cs
+SYN-R-00014,SYN-W-000442,NC-01,"MoLE, GoI - NCS",NTR,ILAC-NTR-02,-9,2026-10-24,3,-6,2026-10-27,API (mock),,Submitted,,demo.nodal.nc
+SYN-R-00015,SYN-W-000467,SK-01,"APSSDC, GoAP",KRS,ILAC-KRS-02,-41,2026-09-22,7,-34,2026-09-29,API (mock),SYN-ACK-253455,Closed - not completed (reasoned),-38,demo.nodal.sk
+SYN-R-00016,SYN-W-000107,SK-02,"APSSDC, GoAP",ASR,ILAC-ASR-01,-3,2026-10-30,15,12,2026-11-14,API (mock),,Submitted,,demo.nodal.sk
+SYN-R-00017,SYN-W-000463,CS-01,"Civil Supplies, GoAP",NDL,ILAC-NDL-01,-37,2026-09-26,21,-16,2026-10-17,Manual / assisted,SYN-ACK-897808,Acknowledged by department,,demo.nodal.cs
+SYN-R-00018,SYN-W-000321,ED-01,"School / Higher Education, GoAP",NLR,ILAC-NLR-01,-62,2026-09-01,30,-32,2026-10-01,API (mock),SYN-ACK-265104,Completed - service delivered,-54,demo.nodal.ed
+SYN-R-00019,SYN-W-000210,CS-01,"Civil Supplies, GoAP",PLN,ILAC-PLN-01,-44,2026-09-19,21,-23,2026-10-10,Manual / assisted,SYN-ACK-815664,Closed - not completed (reasoned),-15,demo.nodal.cs
+SYN-R-00020,SYN-W-000519,ED-01,"School / Higher Education, GoAP",KKD,ILAC-KKD-01,-23,2026-10-10,30,7,2026-11-09,API (mock),SYN-ACK-547780,Query raised - awaiting worker,,demo.nodal.ed
+SYN-R-00021,SYN-W-000248,ES-01,"MoLE, GoI - e-Shram",SKL,ILAC-SKL-01,-27,2026-10-06,3,-24,2026-10-09,API (mock),,Submitted,,demo.nodal.es
+SYN-R-00022,SYN-W-000344,LB-01,APBOCWWB / Labour Dept,WGD,ILAC-WGD-01,-72,2026-08-22,7,-65,2026-08-29,API (mock),SYN-ACK-470590,Closed - not completed (reasoned),-57,demo.nodal.lb
+SYN-R-00023,SYN-W-000028,NI-01,"NIPUNYAM, GoAP",NLR,ILAC-NLR-01,-9,2026-10-24,15,6,2026-11-08,Manual / assisted,SYN-ACK-542634,Query raised - awaiting worker,,demo.nodal.ni
+SYN-R-00024,SYN-W-000240,MM-01,"MSME, GoAP",KRS,ILAC-KRS-01,-45,2026-09-18,10,-35,2026-09-28,Manual / assisted,SYN-ACK-693473,Completed - service delivered,-38,demo.nodal.mm
+SYN-R-00025,SYN-W-000161,LB-01,APBOCWWB / Labour Dept,KNS,ILAC-KNS-01,-65,2026-08-29,7,-58,2026-09-05,API (mock),SYN-ACK-738779,Closed - not completed (reasoned),-64,demo.nodal.lb
+SYN-R-00026,SYN-W-000257,NP-01,"MSDE, GoI - NAPS",PVP,ILAC-PVP-01,-6,2026-10-27,7,1,2026-11-03,API (mock),SYN-ACK-426478,Acknowledged by department,,demo.nodal.np
+SYN-R-00027,SYN-W-000077,LB-02,APBOCWWB / Labour Dept,SSS,ILAC-SSS-01,-18,2026-10-15,30,12,2026-11-14,API (mock),SYN-ACK-449970,Completed - service delivered,0,demo.nodal.lb
+SYN-R-00028,SYN-W-000146,SK-02,"APSSDC, GoAP",SSS,ILAC-SSS-01,-34,2026-09-29,15,-19,2026-10-14,API (mock),SYN-ACK-201794,Query raised - awaiting worker,,demo.nodal.sk
+SYN-R-00029,SYN-W-000094,HL-01,"Health, Medical & Family Welfare, GoAP",KKD,ILAC-KKD-01,-24,2026-10-09,15,-9,2026-10-24,Manual / assisted,,Submitted,,demo.nodal.hl
+SYN-R-00030,SYN-W-000321,NC-01,"MoLE, GoI - NCS",NLR,ILAC-NLR-01,-26,2026-10-07,3,-23,2026-10-10,API (mock),SYN-ACK-237093,Query raised - awaiting worker,,demo.nodal.nc
+SYN-R-00031,SYN-W-000467,LB-01,APBOCWWB / Labour Dept,KRS,ILAC-KRS-02,-55,2026-09-08,7,-48,2026-09-15,API (mock),SYN-ACK-390034,Completed - service delivered,-39,demo.nodal.lb
+SYN-R-00032,SYN-W-000061,SK-01,"APSSDC, GoAP",KNL,ILAC-KNL-01,-3,2026-10-30,7,4,2026-11-06,API (mock),SYN-ACK-253114,Query raised - awaiting worker,,demo.nodal.sk
+SYN-R-00033,SYN-W-000018,SK-01,"APSSDC, GoAP",SKL,ILAC-SKL-01,-72,2026-08-22,7,-65,2026-08-29,API (mock),SYN-ACK-501588,Completed - service delivered,-64,demo.nodal.sk
+SYN-R-00034,SYN-W-000251,HL-01,"Health, Medical & Family Welfare, GoAP",ELR,ILAC-ELR-01,-65,2026-08-29,15,-50,2026-09-13,Manual / assisted,SYN-ACK-812015,Completed - service delivered,-50,demo.nodal.hl
+SYN-R-00035,SYN-W-000052,MS-01,"MeeSeva / CSC, GoAP",TPT,ILAC-TPT-01,-7,2026-10-26,15,8,2026-11-10,API (mock),SYN-ACK-340471,Acknowledged by department,,demo.nodal.ms
+SYN-R-00036,SYN-W-000051,CS-01,"Civil Supplies, GoAP",PLV,ILAC-PLV-01,-24,2026-10-09,21,-3,2026-10-30,Manual / assisted,,Submitted,,demo.nodal.cs
+SYN-R-00037,SYN-W-000441,NC-01,"MoLE, GoI - NCS",KDP,ILAC-KDP-01,-20,2026-10-13,3,-17,2026-10-16,API (mock),SYN-ACK-805297,Acknowledged by department,,demo.nodal.nc
+SYN-R-00038,SYN-W-000486,SK-01,"APSSDC, GoAP",EGD,ILAC-EGD-01,-23,2026-10-10,7,-16,2026-10-17,API (mock),SYN-ACK-242062,Query raised - awaiting worker,,demo.nodal.sk
+SYN-R-00039,SYN-W-000074,GS-01,"GSWS, GoAP",ATP,ILAC-ATP-01,-30,2026-10-03,15,-15,2026-10-18,API (mock),SYN-ACK-821283,Acknowledged by department,,demo.nodal.gs
+SYN-R-00040,SYN-W-000073,CS-01,"Civil Supplies, GoAP",NLR,ILAC-NLR-01,-32,2026-10-01,21,-11,2026-10-22,Manual / assisted,,Submitted,,demo.nodal.cs
+SYN-R-00041,SYN-W-000530,ES-01,"MoLE, GoI - e-Shram",BPT,ILAC-BPT-01,-4,2026-10-29,3,-1,2026-11-01,API (mock),SYN-ACK-873687,Completed - service delivered,-2,demo.nodal.es
+SYN-R-00042,SYN-W-000241,MP-01,"MEPMA, GoAP",KKD,ILAC-KKD-01,-46,2026-09-17,21,-25,2026-10-08,Manual / assisted,SYN-ACK-497497,Closed - not completed (reasoned),-38,demo.nodal.mp
+SYN-R-00043,SYN-W-000578,MM-01,"MSME, GoAP",ELR,ILAC-ELR-01,-25,2026-10-08,10,-15,2026-10-18,Manual / assisted,SYN-ACK-591339,Completed - service delivered,-21,demo.nodal.mm
+SYN-R-00044,SYN-W-000404,MP-01,"MEPMA, GoAP",PVP,ILAC-PVP-01,-11,2026-10-22,21,10,2026-11-12,Manual / assisted,,Submitted,,demo.nodal.mp
+SYN-R-00045,SYN-W-000261,GS-01,"GSWS, GoAP",MKP,ILAC-MKP-01,-57,2026-09-06,15,-42,2026-09-21,API (mock),SYN-ACK-117807,Closed - not completed (reasoned),-34,demo.nodal.gs
+SYN-R-00046,SYN-W-000006,ED-02,"School / Higher Education, GoAP",AKP,ILAC-AKP-01,-35,2026-09-28,15,-20,2026-10-13,Manual / assisted,,Submitted,,demo.nodal.ed
+SYN-R-00047,SYN-W-000421,ET-01,"Employment & Training, GoAP",KNL,ILAC-KNL-01,-11,2026-10-22,7,-4,2026-10-29,Manual / assisted,,Submitted,,demo.nodal.et
+SYN-R-00048,SYN-W-000141,NC-01,"MoLE, GoI - NCS",SSS,ILAC-SSS-01,-2,2026-10-31,3,1,2026-11-03,API (mock),SYN-ACK-810089,Acknowledged by department,,demo.nodal.nc
+SYN-R-00049,SYN-W-000091,GS-01,"GSWS, GoAP",NLR,ILAC-NLR-01,-11,2026-10-22,15,4,2026-11-06,API (mock),SYN-ACK-567649,Acknowledged by department,,demo.nodal.gs
+SYN-R-00050,SYN-W-000268,LB-01,APBOCWWB / Labour Dept,NTR,ILAC-NTR-02,-26,2026-10-07,7,-19,2026-10-14,API (mock),,Submitted,,demo.nodal.lb
+SYN-R-00051,SYN-W-000355,NI-01,"NIPUNYAM, GoAP",TPT,ILAC-TPT-01,-12,2026-10-21,15,3,2026-11-05,Manual / assisted,SYN-ACK-335569,Acknowledged by department,,demo.nodal.ni
+SYN-R-00052,SYN-W-000608,GS-01,"GSWS, GoAP",KRS,ILAC-KRS-01,-61,2026-09-02,15,-46,2026-09-17,API (mock),SYN-ACK-164608,Closed - not completed (reasoned),-42,demo.nodal.gs
+SYN-R-00053,SYN-W-000511,SR-01,"SERP, GoAP",BPT,ILAC-BPT-01,-16,2026-10-17,21,5,2026-11-07,Manual / assisted,SYN-ACK-206089,Query raised - awaiting worker,,demo.nodal.sr
+SYN-R-00054,SYN-W-000455,NI-01,"NIPUNYAM, GoAP",MKP,ILAC-MKP-01,-23,2026-10-10,15,-8,2026-10-25,Manual / assisted,SYN-ACK-459629,Acknowledged by department,,demo.nodal.ni
+SYN-R-00055,SYN-W-000334,NC-01,"MoLE, GoI - NCS",KNL,ILAC-KNL-01,-26,2026-10-07,3,-23,2026-10-10,API (mock),,Submitted,,demo.nodal.nc
+SYN-R-00056,SYN-W-000503,MS-02,"MeeSeva / CSC, GoAP",PKM,ILAC-PKM-01,-75,2026-08-19,15,-60,2026-09-03,API (mock),SYN-ACK-328970,Closed - not completed (reasoned),-66,demo.nodal.ms
+SYN-R-00057,SYN-W-000378,MS-01,"MeeSeva / CSC, GoAP",KNL,ILAC-KNL-01,-3,2026-10-30,15,12,2026-11-14,API (mock),SYN-ACK-341067,Closed - not completed (reasoned),0,demo.nodal.ms
+SYN-R-00058,SYN-W-000516,HL-01,"Health, Medical & Family Welfare, GoAP",MKP,ILAC-MKP-01,-17,2026-10-16,15,-2,2026-10-31,Manual / assisted,SYN-ACK-372457,Acknowledged by department,,demo.nodal.hl
+SYN-R-00059,SYN-W-000271,GS-01,"GSWS, GoAP",PKM,ILAC-PKM-01,-15,2026-10-18,15,0,2026-11-02,API (mock),SYN-ACK-284079,Query raised - awaiting worker,,demo.nodal.gs
+SYN-R-00060,SYN-W-000487,MS-02,"MeeSeva / CSC, GoAP",SKL,ILAC-SKL-01,-15,2026-10-18,15,0,2026-11-02,API (mock),SYN-ACK-559388,Completed - service delivered,0,demo.nodal.ms
+SYN-R-00061,SYN-W-000237,ED-02,"School / Higher Education, GoAP",KKD,ILAC-KKD-01,-41,2026-09-22,15,-26,2026-10-07,Manual / assisted,SYN-ACK-968375,Closed - not completed (reasoned),-36,demo.nodal.ed
+SYN-R-00062,SYN-W-000095,NC-01,"MoLE, GoI - NCS",KNL,ILAC-KNL-01,-37,2026-09-26,3,-34,2026-09-29,API (mock),SYN-ACK-753008,Query raised - awaiting worker,,demo.nodal.nc
+SYN-R-00063,SYN-W-000484,SK-01,"APSSDC, GoAP",VSP,ILAC-VSP-02,-41,2026-09-22,7,-34,2026-09-29,API (mock),SYN-ACK-325661,Completed - service delivered,-32,demo.nodal.sk
+SYN-R-00064,SYN-W-000477,LB-02,APBOCWWB / Labour Dept,ATP,ILAC-ATP-01,-11,2026-10-22,30,19,2026-11-21,API (mock),SYN-ACK-694720,Query raised - awaiting worker,,demo.nodal.lb
+SYN-R-00065,SYN-W-000061,MM-01,"MSME, GoAP",KNL,ILAC-KNL-01,-28,2026-10-05,10,-18,2026-10-15,Manual / assisted,SYN-ACK-645337,Acknowledged by department,,demo.nodal.mm
+SYN-R-00066,SYN-W-000462,SR-01,"SERP, GoAP",ATP,ILAC-ATP-01,-21,2026-10-12,21,0,2026-11-02,Manual / assisted,SYN-ACK-914252,Completed - service delivered,-5,demo.nodal.sr
+SYN-R-00067,SYN-W-000400,GS-01,"GSWS, GoAP",KRS,ILAC-KRS-02,-25,2026-10-08,15,-10,2026-10-23,API (mock),,Submitted,,demo.nodal.gs
+SYN-R-00068,SYN-W-000568,CS-02,"Civil Supplies, GoAP",GNT,ILAC-GNT-02,-43,2026-09-20,30,-13,2026-10-20,Manual / assisted,SYN-ACK-220754,Completed - service delivered,-33,demo.nodal.cs
+SYN-R-00069,SYN-W-000569,LB-02,APBOCWWB / Labour Dept,ELR,ILAC-ELR-01,-6,2026-10-27,30,24,2026-11-26,API (mock),SYN-ACK-616275,Acknowledged by department,,demo.nodal.lb
+SYN-R-00070,SYN-W-000368,NC-01,"MoLE, GoI - NCS",WGD,ILAC-WGD-01,-24,2026-10-09,3,-21,2026-10-12,API (mock),SYN-ACK-863537,Acknowledged by department,,demo.nodal.nc
+SYN-R-00071,SYN-W-000397,GS-01,"GSWS, GoAP",ELR,ILAC-ELR-01,-2,2026-10-31,15,13,2026-11-15,API (mock),SYN-ACK-958442,Completed - service delivered,0,demo.nodal.gs
+SYN-R-00072,SYN-W-000356,MS-01,"MeeSeva / CSC, GoAP",VZM,ILAC-VZM-01,-48,2026-09-15,15,-33,2026-09-30,API (mock),SYN-ACK-258999,Completed - service delivered,-41,demo.nodal.ms
+SYN-R-00073,SYN-W-000194,SK-02,"APSSDC, GoAP",PKM,ILAC-PKM-01,-29,2026-10-04,15,-14,2026-10-19,API (mock),,Submitted,,demo.nodal.sk
+SYN-R-00074,SYN-W-000190,SK-01,"APSSDC, GoAP",PLN,ILAC-PLN-01,-4,2026-10-29,7,3,2026-11-05,API (mock),SYN-ACK-286043,Closed - not completed (reasoned),0,demo.nodal.sk
+SYN-R-00075,SYN-W-000456,LB-01,APBOCWWB / Labour Dept,KNL,ILAC-KNL-01,-11,2026-10-22,7,-4,2026-10-29,API (mock),SYN-ACK-706613,Closed - not completed (reasoned),-9,demo.nodal.lb
+SYN-R-00076,SYN-W-000145,ED-01,"School / Higher Education, GoAP",PKM,ILAC-PKM-01,-37,2026-09-26,30,-7,2026-10-26,API (mock),SYN-ACK-757480,Completed - service delivered,-4,demo.nodal.ed
+SYN-R-00077,SYN-W-000087,ED-02,"School / Higher Education, GoAP",SKL,ILAC-SKL-01,-19,2026-10-14,15,-4,2026-10-29,Manual / assisted,SYN-ACK-642896,Completed - service delivered,-9,demo.nodal.ed
+SYN-R-00078,SYN-W-000408,ED-01,"School / Higher Education, GoAP",PLV,ILAC-PLV-01,-24,2026-10-09,30,6,2026-11-08,API (mock),,Submitted,,demo.nodal.ed
+SYN-R-00079,SYN-W-000209,MM-01,"MSME, GoAP",NLR,ILAC-NLR-01,-75,2026-08-19,10,-65,2026-08-29,Manual / assisted,SYN-ACK-268647,Completed - service delivered,-69,demo.nodal.mm
+SYN-R-00080,SYN-W-000288,CS-02,"Civil Supplies, GoAP",KNS,ILAC-KNS-01,-9,2026-10-24,30,21,2026-11-23,Manual / assisted,SYN-ACK-836579,Query raised - awaiting worker,,demo.nodal.cs
+SYN-R-00081,SYN-W-000272,ED-01,"School / Higher Education, GoAP",KRS,ILAC-KRS-02,-62,2026-09-01,30,-32,2026-10-01,API (mock),SYN-ACK-469385,Completed - service delivered,-37,demo.nodal.ed
+SYN-R-00082,SYN-W-000054,UL-01,"Urban Local Bodies, GoAP",PLV,ILAC-PLV-01,-33,2026-09-30,7,-26,2026-10-07,Manual / assisted,SYN-ACK-552553,Query raised - awaiting worker,,demo.nodal.ul
+SYN-R-00083,SYN-W-000053,LB-01,APBOCWWB / Labour Dept,BPT,ILAC-BPT-01,-35,2026-09-28,7,-28,2026-10-05,API (mock),,Submitted,,demo.nodal.lb
+SYN-R-00084,SYN-W-000119,LB-01,APBOCWWB / Labour Dept,VSP,ILAC-VSP-01,-3,2026-10-30,7,4,2026-11-06,API (mock),,Submitted,,demo.nodal.lb
+SYN-R-00085,SYN-W-000314,SK-02,"APSSDC, GoAP",PLV,ILAC-PLV-01,-39,2026-09-24,15,-24,2026-10-09,API (mock),,Submitted,,demo.nodal.sk
+SYN-R-00086,SYN-W-000048,CS-01,"Civil Supplies, GoAP",KDP,ILAC-KDP-01,-25,2026-10-08,21,-4,2026-10-29,Manual / assisted,SYN-ACK-750790,Query raised - awaiting worker,,demo.nodal.cs
+SYN-R-00087,SYN-W-000440,MP-01,"MEPMA, GoAP",CTR,ILAC-CTR-01,-25,2026-10-08,21,-4,2026-10-29,Manual / assisted,,Submitted,,demo.nodal.mp
+SYN-R-00088,SYN-W-000346,SK-01,"APSSDC, GoAP",SKL,ILAC-SKL-01,-5,2026-10-28,7,2,2026-11-04,API (mock),,Submitted,,demo.nodal.sk
+SYN-R-00089,SYN-W-000205,GS-01,"GSWS, GoAP",WGD,ILAC-WGD-01,-32,2026-10-01,15,-17,2026-10-16,API (mock),SYN-ACK-880068,Closed - not completed (reasoned),-27,demo.nodal.gs
+SYN-R-00090,SYN-W-000219,ES-01,"MoLE, GoI - e-Shram",KKD,ILAC-KKD-01,-35,2026-09-28,3,-32,2026-10-01,API (mock),SYN-ACK-323129,Acknowledged by department,,demo.nodal.es
+SYN-R-00091,SYN-W-000502,MP-01,"MEPMA, GoAP",PLN,ILAC-PLN-01,-31,2026-10-02,21,-10,2026-10-23,Manual / assisted,SYN-ACK-864081,Acknowledged by department,,demo.nodal.mp
+SYN-R-00092,SYN-W-000443,SK-02,"APSSDC, GoAP",WGD,ILAC-WGD-01,-30,2026-10-03,15,-15,2026-10-18,API (mock),SYN-ACK-917472,Closed - not completed (reasoned),-20,demo.nodal.sk
+SYN-R-00093,SYN-W-000573,ED-01,"School / Higher Education, GoAP",EGD,ILAC-EGD-01,-47,2026-09-16,30,-17,2026-10-16,API (mock),SYN-ACK-248473,Completed - service delivered,-31,demo.nodal.ed
+SYN-R-00094,SYN-W-000028,CS-02,"Civil Supplies, GoAP",NLR,ILAC-NLR-01,-62,2026-09-01,30,-32,2026-10-01,Manual / assisted,SYN-ACK-403633,Completed - service delivered,-30,demo.nodal.cs
+SYN-R-00095,SYN-W-000159,MP-01,"MEPMA, GoAP",NDL,ILAC-NDL-01,-50,2026-09-13,21,-29,2026-10-04,Manual / assisted,SYN-ACK-915989,Closed - not completed (reasoned),-20,demo.nodal.mp
+SYN-R-00096,SYN-W-000519,GS-01,"GSWS, GoAP",KKD,ILAC-KKD-01,-30,2026-10-03,15,-15,2026-10-18,API (mock),SYN-ACK-826065,Completed - service delivered,-19,demo.nodal.gs
+SYN-R-00097,SYN-W-000361,LB-02,APBOCWWB / Labour Dept,KDP,ILAC-KDP-01,-73,2026-08-21,30,-43,2026-09-20,API (mock),SYN-ACK-786766,Closed - not completed (reasoned),-39,demo.nodal.lb
+SYN-R-00098,SYN-W-000406,LB-01,APBOCWWB / Labour Dept,VZM,ILAC-VZM-01,-39,2026-09-24,7,-32,2026-10-01,API (mock),SYN-ACK-357186,Closed - not completed (reasoned),-34,demo.nodal.lb
+SYN-R-00099,SYN-W-000384,SK-01,"APSSDC, GoAP",NTR,ILAC-NTR-01,-33,2026-09-30,7,-26,2026-10-07,API (mock),SYN-ACK-309790,Query raised - awaiting worker,,demo.nodal.sk
+SYN-R-00100,SYN-W-000032,LB-02,APBOCWWB / Labour Dept,KNL,ILAC-KNL-01,-33,2026-09-30,30,-3,2026-10-30,API (mock),,Submitted,,demo.nodal.lb
+SYN-R-00101,SYN-W-000444,ED-01,"School / Higher Education, GoAP",NDL,ILAC-NDL-01,-18,2026-10-15,30,12,2026-11-14,API (mock),,Submitted,,demo.nodal.ed
+SYN-R-00102,SYN-W-000195,SK-01,"APSSDC, GoAP",KKD,ILAC-KKD-01,-66,2026-08-28,7,-59,2026-09-04,API (mock),SYN-ACK-285499,Completed - service delivered,-53,demo.nodal.sk
+SYN-R-00103,SYN-W-000068,MS-02,"MeeSeva / CSC, GoAP",PKM,ILAC-PKM-01,-18,2026-10-15,15,-3,2026-10-30,API (mock),,Submitted,,demo.nodal.ms
+SYN-R-00104,SYN-W-000141,SK-01,"APSSDC, GoAP",SSS,ILAC-SSS-01,-24,2026-10-09,7,-17,2026-10-16,API (mock),,Submitted,,demo.nodal.sk
+SYN-R-00105,SYN-W-000320,MP-01,"MEPMA, GoAP",TPT,ILAC-TPT-01,-2,2026-10-31,21,19,2026-11-21,Manual / assisted,SYN-ACK-811965,Query raised - awaiting worker,,demo.nodal.mp
+SYN-R-00106,SYN-W-000335,HL-01,"Health, Medical & Family Welfare, GoAP",CTR,ILAC-CTR-01,-4,2026-10-29,15,11,2026-11-13,Manual / assisted,SYN-ACK-895830,Completed - service delivered,0,demo.nodal.hl
+SYN-R-00107,SYN-W-000325,DL-01,MeitY - DigiLocker,NDL,ILAC-NDL-01,-10,2026-10-23,1,-9,2026-10-24,API (mock),SYN-ACK-752468,Query raised - awaiting worker,,demo.nodal.dl
+SYN-R-00108,SYN-W-000427,ED-02,"School / Higher Education, GoAP",NDL,ILAC-NDL-01,-3,2026-10-30,15,12,2026-11-14,Manual / assisted,SYN-ACK-515268,Acknowledged by department,,demo.nodal.ed
+SYN-R-00109,SYN-W-000097,SK-01,"APSSDC, GoAP",KRS,ILAC-KRS-01,-15,2026-10-18,7,-8,2026-10-25,API (mock),,Submitted,,demo.nodal.sk
+SYN-R-00110,SYN-W-000196,SK-01,"APSSDC, GoAP",VZM,ILAC-VZM-01,-7,2026-10-26,7,0,2026-11-02,API (mock),SYN-ACK-564607,Acknowledged by department,,demo.nodal.sk
+SYN-R-00111,SYN-W-000520,LB-02,APBOCWWB / Labour Dept,SKL,ILAC-SKL-01,-37,2026-09-26,30,-7,2026-10-26,API (mock),SYN-ACK-102584,Completed - service delivered,-24,demo.nodal.lb
+SYN-R-00112,SYN-W-000094,MP-01,"MEPMA, GoAP",KKD,ILAC-KKD-01,-10,2026-10-23,21,11,2026-11-13,Manual / assisted,SYN-ACK-313127,Acknowledged by department,,demo.nodal.mp
+SYN-R-00113,SYN-W-000168,HL-01,"Health, Medical & Family Welfare, GoAP",TPT,ILAC-TPT-01,-10,2026-10-23,15,5,2026-11-07,Manual / assisted,SYN-ACK-215571,Query raised - awaiting worker,,demo.nodal.hl
+SYN-R-00114,SYN-W-000068,HL-01,"Health, Medical & Family Welfare, GoAP",PKM,ILAC-PKM-01,-40,2026-09-23,15,-25,2026-10-08,Manual / assisted,SYN-ACK-663993,Closed - not completed (reasoned),-17,demo.nodal.hl
+SYN-R-00115,SYN-W-000555,MS-01,"MeeSeva / CSC, GoAP",KKD,ILAC-KKD-01,-46,2026-09-17,15,-31,2026-10-02,API (mock),SYN-ACK-440140,Completed - service delivered,-33,demo.nodal.ms
+SYN-R-00116,SYN-W-000540,LB-01,APBOCWWB / Labour Dept,SKL,ILAC-SKL-01,-2,2026-10-31,7,5,2026-11-07,API (mock),SYN-ACK-477389,Query raised - awaiting worker,,demo.nodal.lb
+SYN-R-00117,SYN-W-000286,LB-01,APBOCWWB / Labour Dept,NTR,ILAC-NTR-01,-37,2026-09-26,7,-30,2026-10-03,API (mock),SYN-ACK-670946,Acknowledged by department,,demo.nodal.lb
+SYN-R-00118,SYN-W-000573,LB-01,APBOCWWB / Labour Dept,EGD,ILAC-EGD-01,-16,2026-10-17,7,-9,2026-10-24,API (mock),SYN-ACK-824138,Completed - service delivered,-14,demo.nodal.lb
+SYN-R-00119,SYN-W-000155,MM-01,"MSME, GoAP",NLR,ILAC-NLR-01,-34,2026-09-29,10,-24,2026-10-09,Manual / assisted,SYN-ACK-537601,Closed - not completed (reasoned),-24,demo.nodal.mm
+SYN-R-00120,SYN-W-000225,UL-01,"Urban Local Bodies, GoAP",KRS,ILAC-KRS-02,-23,2026-10-10,7,-16,2026-10-17,Manual / assisted,SYN-ACK-534644,Acknowledged by department,,demo.nodal.ul
+SYN-R-00121,SYN-W-000224,CS-01,"Civil Supplies, GoAP",PKM,ILAC-PKM-01,-56,2026-09-07,21,-35,2026-09-28,Manual / assisted,SYN-ACK-748355,Closed - not completed (reasoned),-51,demo.nodal.cs
+SYN-R-00122,SYN-W-000222,GS-01,"GSWS, GoAP",ATP,ILAC-ATP-01,-49,2026-09-14,15,-34,2026-09-29,API (mock),SYN-ACK-487248,Completed - service delivered,-28,demo.nodal.gs
+SYN-R-00123,SYN-W-000177,LB-01,APBOCWWB / Labour Dept,KKD,ILAC-KKD-01,-45,2026-09-18,7,-38,2026-09-25,API (mock),SYN-ACK-111544,Closed - not completed (reasoned),-32,demo.nodal.lb
+SYN-R-00124,SYN-W-000113,CS-02,"Civil Supplies, GoAP",BPT,ILAC-BPT-01,-67,2026-08-27,30,-37,2026-09-26,Manual / assisted,SYN-ACK-883529,Completed - service delivered,-60,demo.nodal.cs
+SYN-R-00125,SYN-W-000133,ES-01,"MoLE, GoI - e-Shram",PKM,ILAC-PKM-01,-21,2026-10-12,3,-18,2026-10-15,API (mock),SYN-ACK-601636,Query raised - awaiting worker,,demo.nodal.es
+SYN-R-00126,SYN-W-000209,MS-01,"MeeSeva / CSC, GoAP",NLR,ILAC-NLR-01,-19,2026-10-14,15,-4,2026-10-29,API (mock),,Submitted,,demo.nodal.ms
+SYN-R-00127,SYN-W-000207,GS-01,"GSWS, GoAP",EGD,ILAC-EGD-01,-36,2026-09-27,15,-21,2026-10-12,API (mock),SYN-ACK-267561,Acknowledged by department,,demo.nodal.gs
+SYN-R-00128,SYN-W-000370,MM-01,"MSME, GoAP",KNL,ILAC-KNL-01,-10,2026-10-23,10,0,2026-11-02,Manual / assisted,SYN-ACK-224920,Completed - service delivered,0,demo.nodal.mm
+SYN-R-00129,SYN-W-000174,MS-01,"MeeSeva / CSC, GoAP",PLV,ILAC-PLV-01,-54,2026-09-09,15,-39,2026-09-24,API (mock),SYN-ACK-727574,Closed - not completed (reasoned),-38,demo.nodal.ms
+SYN-R-00130,SYN-W-000186,PG-01,"PGRS, GoAP",BPT,ILAC-BPT-01,-19,2026-10-14,15,-4,2026-10-29,API (mock),SYN-ACK-133178,Completed - service delivered,-15,demo.nodal.pg
+SYN-R-00131,SYN-W-000322,MS-01,"MeeSeva / CSC, GoAP",NLR,ILAC-NLR-01,-14,2026-10-19,15,1,2026-11-03,API (mock),SYN-ACK-928874,Completed - service delivered,-7,demo.nodal.ms
+SYN-R-00132,SYN-W-000558,ES-01,"MoLE, GoI - e-Shram",KKD,ILAC-KKD-01,-1,2026-11-01,3,2,2026-11-04,API (mock),SYN-ACK-135921,Completed - service delivered,0,demo.nodal.es
+SYN-R-00133,SYN-W-000155,MM-01,"MSME, GoAP",NLR,ILAC-NLR-01,-23,2026-10-10,10,-13,2026-10-20,Manual / assisted,,Submitted,,demo.nodal.mm
+SYN-R-00134,SYN-W-000557,ES-01,"MoLE, GoI - e-Shram",SSS,ILAC-SSS-01,-2,2026-10-31,3,1,2026-11-03,API (mock),SYN-ACK-274652,Closed - not completed (reasoned),0,demo.nodal.es
+SYN-R-00135,SYN-W-000205,LB-01,APBOCWWB / Labour Dept,WGD,ILAC-WGD-01,-38,2026-09-25,7,-31,2026-10-02,API (mock),SYN-ACK-165122,Closed - not completed (reasoned),-28,demo.nodal.lb
+SYN-R-00136,SYN-W-000248,SK-02,"APSSDC, GoAP",SKL,ILAC-SKL-01,-52,2026-09-11,15,-37,2026-09-26,API (mock),SYN-ACK-844123,Closed - not completed (reasoned),-39,demo.nodal.sk
+SYN-R-00137,SYN-W-000141,MS-01,"MeeSeva / CSC, GoAP",SSS,ILAC-SSS-01,-18,2026-10-15,15,-3,2026-10-30,API (mock),SYN-ACK-237591,Acknowledged by department,,demo.nodal.ms
+SYN-R-00138,SYN-W-000406,ES-01,"MoLE, GoI - e-Shram",VZM,ILAC-VZM-01,-10,2026-10-23,3,-7,2026-10-26,API (mock),SYN-ACK-747631,Closed - not completed (reasoned),-8,demo.nodal.es
+SYN-R-00139,SYN-W-000470,LB-02,APBOCWWB / Labour Dept,SKL,ILAC-SKL-01,-27,2026-10-06,30,3,2026-11-05,API (mock),,Submitted,,demo.nodal.lb
+SYN-R-00140,SYN-W-000012,NP-01,"MSDE, GoI - NAPS",GNT,ILAC-GNT-01,-9,2026-10-24,7,-2,2026-10-31,API (mock),,Submitted,,demo.nodal.np
+SYN-R-00141,SYN-W-000203,ES-01,"MoLE, GoI - e-Shram",KNS,ILAC-KNS-01,-38,2026-09-25,3,-35,2026-09-28,API (mock),,Submitted,,demo.nodal.es
+SYN-R-00142,SYN-W-000126,CS-01,"Civil Supplies, GoAP",EGD,ILAC-EGD-01,-30,2026-10-03,21,-9,2026-10-24,Manual / assisted,SYN-ACK-322683,Closed - not completed (reasoned),-10,demo.nodal.cs
+SYN-R-00143,SYN-W-000432,HL-01,"Health, Medical & Family Welfare, GoAP",KKD,ILAC-KKD-01,-32,2026-10-01,15,-17,2026-10-16,Manual / assisted,SYN-ACK-827613,Acknowledged by department,,demo.nodal.hl
+SYN-R-00144,SYN-W-000095,GS-01,"GSWS, GoAP",KNL,ILAC-KNL-01,-10,2026-10-23,15,5,2026-11-07,API (mock),SYN-ACK-381293,Query raised - awaiting worker,,demo.nodal.gs
+SYN-R-00145,SYN-W-000482,MP-01,"MEPMA, GoAP",SKL,ILAC-SKL-01,-5,2026-10-28,21,16,2026-11-18,Manual / assisted,SYN-ACK-286052,Query raised - awaiting worker,,demo.nodal.mp
+SYN-R-00146,SYN-W-000168,NP-01,"MSDE, GoI - NAPS",TPT,ILAC-TPT-01,-32,2026-10-01,7,-25,2026-10-08,API (mock),,Submitted,,demo.nodal.np
+SYN-R-00147,SYN-W-000271,SK-01,"APSSDC, GoAP",PKM,ILAC-PKM-01,-14,2026-10-19,7,-7,2026-10-26,API (mock),SYN-ACK-826588,Query raised - awaiting worker,,demo.nodal.sk
+SYN-R-00148,SYN-W-000430,ED-02,"School / Higher Education, GoAP",ATP,ILAC-ATP-01,-74,2026-08-20,15,-59,2026-09-04,Manual / assisted,SYN-ACK-236823,Closed - not completed (reasoned),-51,demo.nodal.ed
+SYN-R-00149,SYN-W-000241,ET-01,"Employment & Training, GoAP",KKD,ILAC-KKD-01,-35,2026-09-28,7,-28,2026-10-05,Manual / assisted,,Submitted,,demo.nodal.et
+SYN-R-00150,SYN-W-000065,LB-02,APBOCWWB / Labour Dept,AKP,ILAC-AKP-01,-53,2026-09-10,30,-23,2026-10-10,API (mock),SYN-ACK-206650,Closed - not completed (reasoned),-22,demo.nodal.lb
+SYN-R-00151,SYN-W-000608,CS-01,"Civil Supplies, GoAP",KRS,ILAC-KRS-01,-25,2026-10-08,21,-4,2026-10-29,Manual / assisted (fallback - API unavailable),,Submitted,,demo.nodal.cs
+SYN-R-00152,SYN-W-000608,LB-01,APBOCWWB / Labour Dept,KRS,ILAC-KRS-01,-40,2026-09-23,7,-33,2026-09-30,API (mock),SYN-ACK-381458,Completed - service delivered,-36,demo.nodal.lb

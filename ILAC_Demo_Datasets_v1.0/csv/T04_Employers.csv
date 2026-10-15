@@ -1,0 +1,41 @@
+﻿employer_id,employer_name,employer_type,district_code,contact_person,contact_mobile,contact_email,establishment_reg_no_mock,onboarded_on,status
+SYN-E-001,Godavari Constructions (SYN),Private builder,GNT,Lanka Siva,9000011495,hr.employer001@example.invalid,SYN-EST-241675,2026-06-07,Verified
+SYN-E-002,Krishnaveni Buildcon (SYN),Private builder,GNT,Bevara Sai Kumar,9000011516,hr.employer002@example.invalid,SYN-EST-468022,2025-11-07,Verified
+SYN-E-003,Sagar Housing Projects (SYN),Private builder,NTR,Pallapu Chinna Rao,9000011540,hr.employer003@example.invalid,SYN-EST-723393,2026-09-16,Verified
+SYN-E-004,Tirumala Infra Projects (SYN),Private builder,PLN,Pallapu Ramesh,9000011549,hr.employer004@example.invalid,SYN-EST-935768,2026-08-02,Verified
+SYN-E-005,Simhadri Developers (SYN),Private builder,BPT,Kolli Rajesh,9000011562,hr.employer005@example.invalid,SYN-EST-701936,2026-07-23,Verified
+SYN-E-006,Amaravati Civil Works (SYN),Private builder,KRS,Kattamuri Ravi Kumar,9000011588,hr.employer006@example.invalid,SYN-EST-651015,2025-11-05,Verified
+SYN-E-007,Kondaveedu Builders (SYN),Private builder,SKL,Jampana Murali,9000011607,hr.employer007@example.invalid,SYN-EST-906971,2026-03-15,Verified
+SYN-E-008,Nallamala Engineering Works (SYN),Contractor - Government works,PLN,Tadi Siva,9000011616,hr.employer008@example.invalid,SYN-EST-735824,2026-02-28,Verified
+SYN-E-009,Pennar Constructions (SYN),Contractor - Government works,PLN,Medisetti Chinna Rao,9000011627,hr.employer009@example.invalid,SYN-EST-628220,2025-10-07,Verified
+SYN-E-010,Vamsadhara Buildcon (SYN),Private builder,AKP,Mutyala Prabhu Das,9000011653,hr.employer010@example.invalid,SYN-EST-880422,2026-07-05,Verified
+SYN-E-011,Kolleru Housing Projects (SYN),Sub-contractor / labour contractor,SKL,Malla Narasimha,9000011677,hr.employer011@example.invalid,SYN-EST-318823,2025-11-07,Verified
+SYN-E-012,Srisailam Infra Projects (SYN),Contractor - Government works,PKM,Vemula Murali,9000011688,hr.employer012@example.invalid,SYN-EST-323856,2025-09-29,Verified
+SYN-E-013,Horsley Developers (SYN),Private builder,AKP,Nalli Bhaskar,9000011699,hr.employer013@example.invalid,SYN-EST-609795,2026-07-03,Verified
+SYN-E-014,Lambasingi Civil Works (SYN),Contractor - Government works,AKP,Tadi Chinna Rao,9000011729,hr.employer014@example.invalid,SYN-EST-544578,2026-08-16,Verified
+SYN-E-015,Rushikonda Builders (SYN),Contractor - Government works,BPT,Nakka Ravi Kumar,9000011748,hr.employer015@example.invalid,SYN-EST-486678,2025-12-20,Verified
+SYN-E-016,Udayagiri Engineering Works (SYN),Private builder,AKP,Kolli Naresh,9000011750,hr.employer016@example.invalid,SYN-EST-858560,2026-07-24,Verified
+SYN-E-017,Kanaka Constructions (SYN),Private builder,PLV,Jakka Kiran,9000011753,hr.employer017@example.invalid,SYN-EST-700838,2025-10-04,Verified
+SYN-E-018,Swarna Buildcon (SYN),Contractor - Government works,PLN,Gorantla Appa Rao,9000011786,hr.employer018@example.invalid,SYN-EST-332545,2026-05-14,Verified
+SYN-E-019,Sarada Housing Projects (SYN),Private builder,ELR,Pydi Raju,9000011811,hr.employer019@example.invalid,SYN-EST-269717,2026-01-19,Verified
+SYN-E-020,Gowthami Infra Projects (SYN),Private builder,BPT,Pothula Raju,9000011823,hr.employer020@example.invalid,SYN-EST-271524,2026-08-05,Verified
+SYN-E-021,Godavari Developers (SYN),Contractor - Government works,WGD,Shaik Chinna Rao,9000011824,hr.employer021@example.invalid,SYN-EST-120051,2025-11-17,Verified
+SYN-E-022,Krishnaveni Civil Works (SYN),Private builder,KNS,Jakka Krishna,9000011847,hr.employer022@example.invalid,SYN-EST-101511,2026-04-12,Verified
+SYN-E-023,Sagar Builders (SYN),Sub-contractor / labour contractor,NLR,Kandula Eswar,9000011853,hr.employer023@example.invalid,SYN-EST-489289,2026-02-14,Verified
+SYN-E-024,Tirumala Engineering Works (SYN),Sub-contractor / labour contractor,PKM,Kattamuri Koteswara Rao,9000011867,hr.employer024@example.invalid,SYN-EST-310043,2025-11-14,Verified
+SYN-E-025,Simhadri Constructions (SYN),Private builder,MKP,Mutyala Anil Kumar,9000011873,hr.employer025@example.invalid,SYN-EST-404704,2026-06-08,Verified
+SYN-E-026,Amaravati Buildcon (SYN),Private builder,SKL,Chinta Krishna,9000011908,hr.employer026@example.invalid,SYN-EST-849906,2026-02-07,Verified
+SYN-E-027,Kondaveedu Housing Projects (SYN),Private builder,ATP,Kurra Nagaraju,9000011920,hr.employer027@example.invalid,SYN-EST-580327,2025-11-02,Verified
+SYN-E-028,Nallamala Infra Projects (SYN),Private builder,GNT,Mutyala Krishna,9000011954,hr.employer028@example.invalid,SYN-EST-874750,2026-05-20,Verified
+SYN-E-029,Pennar Developers (SYN),Private builder,EGD,Kandula Murali,9000011957,hr.employer029@example.invalid,SYN-EST-908528,2026-06-23,Verified
+SYN-E-030,Vamsadhara Civil Works (SYN),Private builder,NTR,Gurrala Mahesh,9000011974,hr.employer030@example.invalid,SYN-EST-464503,2026-08-07,Verified
+SYN-E-031,Kolleru Builders (SYN),Sub-contractor / labour contractor,CTR,Vemula Venkata Ramana,9000012001,hr.employer031@example.invalid,SYN-EST-749994,2026-10-13,Verified
+SYN-E-032,Srisailam Engineering Works (SYN),Contractor - Government works,PLN,Thota Rajesh,9000012016,hr.employer032@example.invalid,SYN-EST-627391,2026-05-31,Verified
+SYN-E-033,Horsley Constructions (SYN),Sub-contractor / labour contractor,KDP,Sirigiri Mohan,9000012028,hr.employer033@example.invalid,SYN-EST-437752,2026-03-30,Verified
+SYN-E-034,Lambasingi Buildcon (SYN),Private builder,PKM,Gorantla Sai Kumar,9000012060,hr.employer034@example.invalid,SYN-EST-411265,2025-09-28,Verified
+SYN-E-035,Rushikonda Housing Projects (SYN),Private builder,SKL,Gudla Hanumanthu,9000012084,hr.employer035@example.invalid,SYN-EST-217604,2026-07-08,Verified
+SYN-E-036,Udayagiri Infra Projects (SYN),Contractor - Government works,GNT,Sirigiri Mahesh,9000012098,hr.employer036@example.invalid,SYN-EST-687671,2026-03-03,Verified
+SYN-E-037,Kanaka Developers (SYN),Sub-contractor / labour contractor,GNT,Seepana Hanumanthu,9000012127,hr.employer037@example.invalid,SYN-EST-195878,2026-07-25,Verified
+SYN-E-038,Swarna Civil Works (SYN),Private builder,EGD,Pydi Hanumanthu,9000012139,hr.employer038@example.invalid,SYN-EST-535678,2026-04-04,Verified
+SYN-E-039,Sarada Builders (SYN),Private builder,PLN,Ravuri Gopi,9000012161,hr.employer039@example.invalid,SYN-EST-269384,2026-08-12,Verified
+SYN-E-040,Gowthami Engineering Works (SYN),Private builder,CTR,Medisetti Siva,9000012167,hr.employer040@example.invalid,SYN-EST-882388,2026-06-22,Verified

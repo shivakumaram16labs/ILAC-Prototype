@@ -1,0 +1,242 @@
+[
+  {
+    "id": "SCH-001",
+    "name": "Marriage assistance",
+    "category": "Social protection",
+    "description": "Facilitation for marriage-related worker welfare assistance.",
+    "documents": "Worker registration, proof of event and supporting documents",
+    "department": "APBOCWWB / relevant department",
+    "source": "https://spsnellore.ap.gov.in/labour-department/",
+    "steps": [
+      "Confirm the current requirements at the ILAC centre.",
+      "Prepare the listed supporting documents.",
+      "Submit an assisted request and retain the application number.",
+      "Track updates and respond to any document query."
+    ]
+  },
+  {
+    "id": "SCH-002",
+    "name": "Maternity assistance",
+    "category": "Social protection",
+    "description": "Facilitation for maternity benefit requests for registered workers.",
+    "documents": "Worker registration and birth-related documents",
+    "department": "APBOCWWB / relevant department",
+    "source": "https://spsnellore.ap.gov.in/labour-department/",
+    "steps": [
+      "Confirm the current requirements at the ILAC centre.",
+      "Prepare the listed supporting documents.",
+      "Submit an assisted request and retain the application number.",
+      "Track updates and respond to any document query."
+    ]
+  },
+  {
+    "id": "SCH-003",
+    "name": "Natural death assistance",
+    "category": "Social protection",
+    "description": "Support for nominees seeking the relevant worker welfare assistance.",
+    "documents": "Registration, death certificate and nominee details",
+    "department": "APBOCWWB / relevant department",
+    "source": "https://spsnellore.ap.gov.in/labour-department/",
+    "steps": [
+      "Confirm the current requirements at the ILAC centre.",
+      "Prepare the listed supporting documents.",
+      "Submit an assisted request and retain the application number.",
+      "Track updates and respond to any document query."
+    ]
+  },
+  {
+    "id": "SCH-004",
+    "name": "Accidental death assistance",
+    "category": "Social protection",
+    "description": "Facilitation for an accident-related assistance request.",
+    "documents": "Registration and event-related supporting documents",
+    "department": "APBOCWWB / relevant department",
+    "source": "https://spsnellore.ap.gov.in/labour-department/",
+    "steps": [
+      "Confirm the current requirements at the ILAC centre.",
+      "Prepare the listed supporting documents.",
+      "Submit an assisted request and retain the application number.",
+      "Track updates and respond to any document query."
+    ]
+  },
+  {
+    "id": "SCH-005",
+    "name": "Disability assistance",
+    "category": "Social protection",
+    "description": "Support for disability-related welfare facilitation.",
+    "documents": "Worker registration and relevant medical documentation",
+    "department": "APBOCWWB / relevant department",
+    "source": "https://spsnellore.ap.gov.in/labour-department/",
+    "steps": [
+      "Confirm the current requirements at the ILAC centre.",
+      "Prepare the listed supporting documents.",
+      "Submit an assisted request and retain the application number.",
+      "Track updates and respond to any document query."
+    ]
+  },
+  {
+    "id": "SCH-006",
+    "name": "Funeral assistance",
+    "category": "Social protection",
+    "description": "Facilitation of the applicable funeral-related support request.",
+    "documents": "Registration, death certificate and applicant details",
+    "department": "APBOCWWB / relevant department",
+    "source": "https://spsnellore.ap.gov.in/labour-department/",
+    "steps": [
+      "Confirm the current requirements at the ILAC centre.",
+      "Prepare the listed supporting documents.",
+      "Submit an assisted request and retain the application number.",
+      "Track updates and respond to any document query."
+    ]
+  },
+  {
+    "id": "SCH-007",
+    "name": "Education assistance",
+    "category": "Education",
+    "description": "Guidance and facilitation for applicable education support.",
+    "documents": "Registration and education documents",
+    "department": "APBOCWWB / relevant department",
+    "source": "https://spsnellore.ap.gov.in/labour-department/",
+    "steps": [
+      "Confirm the current requirements at the ILAC centre.",
+      "Prepare the listed supporting documents.",
+      "Submit an assisted request and retain the application number.",
+      "Track updates and respond to any document query."
+    ]
+  },
+  {
+    "id": "SCH-008",
+    "name": "Scholarship facilitation",
+    "category": "Education",
+    "description": "Support to identify the relevant scholarship application route.",
+    "documents": "Education records and required applicant documents",
+    "department": "APBOCWWB / relevant department",
+    "source": "https://spsnellore.ap.gov.in/labour-department/",
+    "steps": [
+      "Confirm the current requirements at the ILAC centre.",
+      "Prepare the listed supporting documents.",
+      "Submit an assisted request and retain the application number.",
+      "Track updates and respond to any document query."
+    ]
+  },
+  {
+    "id": "SCH-009",
+    "name": "Skill development support",
+    "category": "Skilling",
+    "description": "Connect workers to construction-trade training opportunities.",
+    "documents": "Worker profile and trade details",
+    "department": "APBOCWWB / relevant department",
+    "source": "https://spsnellore.ap.gov.in/labour-department/",
+    "steps": [
+      "Confirm the current requirements at the ILAC centre.",
+      "Prepare the listed supporting documents.",
+      "Submit an assisted request and retain the application number.",
+      "Track updates and respond to any document query."
+    ]
+  },
+  {
+    "id": "SCH-010",
+    "name": "Recognition of Prior Learning",
+    "category": "Skilling",
+    "description": "Facilitate assessment of existing construction skills.",
+    "documents": "Worker registration and experience details",
+    "department": "APBOCWWB / relevant department",
+    "source": "https://spsnellore.ap.gov.in/labour-department/",
+    "steps": [
+      "Confirm the current requirements at the ILAC centre.",
+      "Prepare the listed supporting documents.",
+      "Submit an assisted request and retain the application number.",
+      "Track updates and respond to any document query."
+    ]
+  },
+  {
+    "id": "SCH-011",
+    "name": "Pension facilitation",
+    "category": "Pension & insurance",
+    "description": "Guidance on pension schemes and the relevant enrolment route.",
+    "documents": "Identity, age and required enrolment documents",
+    "department": "APBOCWWB / relevant department",
+    "source": "https://spsnellore.ap.gov.in/labour-department/",
+    "steps": [
+      "Confirm the current requirements at the ILAC centre.",
+      "Prepare the listed supporting documents.",
+      "Submit an assisted request and retain the application number.",
+      "Track updates and respond to any document query."
+    ]
+  },
+  {
+    "id": "SCH-012",
+    "name": "Accident insurance facilitation",
+    "category": "Pension & insurance",
+    "description": "Guidance on available accident insurance enrolment routes.",
+    "documents": "Identity and bank-related enrolment documents",
+    "department": "APBOCWWB / relevant department",
+    "source": "https://spsnellore.ap.gov.in/labour-department/",
+    "steps": [
+      "Confirm the current requirements at the ILAC centre.",
+      "Prepare the listed supporting documents.",
+      "Submit an assisted request and retain the application number.",
+      "Track updates and respond to any document query."
+    ]
+  },
+  {
+    "id": "SCH-013",
+    "name": "Life insurance facilitation",
+    "category": "Pension & insurance",
+    "description": "Guidance on life-insurance enrolment through authorised agencies.",
+    "documents": "Identity and required enrolment documents",
+    "department": "APBOCWWB / relevant department",
+    "source": "https://spsnellore.ap.gov.in/labour-department/",
+    "steps": [
+      "Confirm the current requirements at the ILAC centre.",
+      "Prepare the listed supporting documents.",
+      "Submit an assisted request and retain the application number.",
+      "Track updates and respond to any document query."
+    ]
+  },
+  {
+    "id": "SCH-014",
+    "name": "Health service facilitation",
+    "category": "Health",
+    "description": "Help workers find the relevant healthcare service or scheme desk.",
+    "documents": "Identity and applicable health-service documents",
+    "department": "APBOCWWB / relevant department",
+    "source": "https://spsnellore.ap.gov.in/labour-department/",
+    "steps": [
+      "Confirm the current requirements at the ILAC centre.",
+      "Prepare the listed supporting documents.",
+      "Submit an assisted request and retain the application number.",
+      "Track updates and respond to any document query."
+    ]
+  },
+  {
+    "id": "SCH-015",
+    "name": "Housing scheme guidance",
+    "category": "Housing",
+    "description": "Guidance and assisted referral to the responsible housing service desk.",
+    "documents": "Identity and applicable housing documents",
+    "department": "APBOCWWB / relevant department",
+    "source": "https://spsnellore.ap.gov.in/labour-department/",
+    "steps": [
+      "Confirm the current requirements at the ILAC centre.",
+      "Prepare the listed supporting documents.",
+      "Submit an assisted request and retain the application number.",
+      "Track updates and respond to any document query."
+    ]
+  },
+  {
+    "id": "SCH-016",
+    "name": "Livelihood support",
+    "category": "Livelihood",
+    "description": "Guidance on applicable livelihood and self-employment opportunities.",
+    "documents": "Worker profile and livelihood proposal",
+    "department": "APBOCWWB / relevant department",
+    "source": "https://spsnellore.ap.gov.in/labour-department/",
+    "steps": [
+      "Confirm the current requirements at the ILAC centre.",
+      "Prepare the listed supporting documents.",
+      "Submit an assisted request and retain the application number.",
+      "Track updates and respond to any document query."
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+﻿site_id,site_name,employer_id,district_code,linked_centre_id,address,lat,lon,work_stage,site_status,reported_workforce,site_registered_on
+SYN-S-0001,School building - Guntur 01,SYN-E-001,GNT,ILAC-GNT-01,"Synthetic Layout 11, Guntur",16.36253,80.43368,Road base,Completed,59,2026-06-07
+SYN-S-0002,Bridge approach - Guntur 02,SYN-E-002,GNT,ILAC-GNT-01,"Synthetic Layout 1, Guntur",16.23735,80.44102,Superstructure,Active,199,2026-08-03
+SYN-S-0003,Bridge approach - NTR 03,SYN-E-003,NTR,ILAC-NTR-01,"Synthetic Layout 81, NTR",16.62634,80.76916,Road base,Active,84,2025-10-22
+SYN-S-0004,Residential block - Palnadu 04,SYN-E-004,PLN,ILAC-PLN-01,"Synthetic Layout 44, Palnadu",16.29302,80.12134,Finishing,Active,55,2026-01-31
+SYN-S-0005,Residential block - Bapatla 05,SYN-E-005,BPT,ILAC-BPT-01,"Synthetic Layout 90, Bapatla",16.00931,80.5625,Finishing,Active,161,2026-04-16
+SYN-S-0006,Apartment project - Krishna 06,SYN-E-006,KRS,ILAC-KRS-01,"Synthetic Layout 14, Krishna",16.221,81.163,Superstructure,Active,171,2026-01-10
+SYN-S-0007,School building - Srikakulam 07,SYN-E-007,SKL,ILAC-SKL-01,"Synthetic Layout 70, Srikakulam",18.25218,83.9945,Excavation,Active,206,2026-03-03
+SYN-S-0008,Road work - Palnadu 08,SYN-E-008,PLN,ILAC-PLN-01,"Synthetic Layout 71, Palnadu",16.28507,80.14526,Excavation,Active,199,2026-06-30
+SYN-S-0009,Commercial complex - Palnadu 09,SYN-E-009,PLN,ILAC-PLN-01,"Synthetic Layout 15, Palnadu",16.32745,80.12761,Superstructure,Active,169,2026-01-25
+SYN-S-0010,Residential block - Anakapalli 10,SYN-E-010,AKP,ILAC-AKP-01,"Synthetic Layout 7, Anakapalli",17.76363,83.04954,Finishing,Completed,162,2026-02-10
+SYN-S-0011,Road work - Srikakulam 11,SYN-E-011,SKL,ILAC-SKL-01,"Synthetic Layout 21, Srikakulam",18.35271,83.80611,Excavation,Active,127,2026-06-22
+SYN-S-0012,Residential block - Prakasam 12,SYN-E-012,PKM,ILAC-PKM-01,"Synthetic Layout 33, Prakasam",15.5379,80.07207,Foundation,Completed,92,2026-07-18
+SYN-S-0013,Apartment project - Anakapalli 13,SYN-E-013,AKP,ILAC-AKP-01,"Synthetic Layout 13, Anakapalli",17.73646,83.01786,Finishing,Active,111,2026-07-01
+SYN-S-0014,Hospital annexe - Markapuram 14,SYN-E-014,MKP,ILAC-MKP-01,"Synthetic Layout 41, Markapuram",15.6947,79.21732,Foundation,Active,157,2025-08-30
+SYN-S-0015,Commercial complex - Bapatla 15,SYN-E-015,BPT,ILAC-BPT-01,"Synthetic Layout 12, Bapatla",15.78859,80.36632,Excavation,Paused,95,2026-08-07
+SYN-S-0016,Housing colony - Anakapalli 16,SYN-E-016,AKP,ILAC-AKP-01,"Synthetic Layout 38, Anakapalli",17.57288,82.95247,Road base,Active,108,2025-11-20
+SYN-S-0017,Housing colony - Polavaram 17,SYN-E-017,PLV,ILAC-PLV-01,"Synthetic Layout 90, Polavaram",17.18423,81.55743,Road base,Active,128,2026-02-17
+SYN-S-0018,Residential block - Palnadu 18,SYN-E-018,PLN,ILAC-PLN-01,"Synthetic Layout 70, Palnadu",16.14765,80.1053,Road base,Active,50,2026-06-18
+SYN-S-0019,Bridge approach - Eluru 19,SYN-E-019,ELR,ILAC-ELR-01,"Synthetic Layout 48, Eluru",16.75977,81.02726,Finishing,Paused,117,2025-12-30
+SYN-S-0020,Hospital annexe - Bapatla 20,SYN-E-020,BPT,ILAC-BPT-01,"Synthetic Layout 66, Bapatla",15.81739,80.4828,Road base,Active,159,2025-12-10
+SYN-S-0021,Residential block - Tirupati 21,SYN-E-021,TPT,ILAC-TPT-01,"Synthetic Layout 26, Tirupati",13.65272,79.34468,Finishing,Completed,111,2026-04-15
+SYN-S-0022,Commercial complex - Dr. B.R. Ambedkar Konaseema 22,SYN-E-022,KNS,ILAC-KNS-01,"Synthetic Layout 21, Dr. B.R. Ambedkar Konaseema",16.63624,81.91284,Excavation,Paused,136,2025-10-23
+SYN-S-0023,Road work - Eluru 23,SYN-E-023,ELR,ILAC-ELR-01,"Synthetic Layout 15, Eluru",16.63243,80.99485,Superstructure,Active,29,2025-07-25
+SYN-S-0024,Apartment project - Prakasam 24,SYN-E-024,PKM,ILAC-PKM-01,"Synthetic Layout 83, Prakasam",15.42151,79.99658,Superstructure,Active,218,2025-08-26
+SYN-S-0025,School building - Markapuram 25,SYN-E-025,MKP,ILAC-MKP-01,"Synthetic Layout 16, Markapuram",15.78077,79.16341,Finishing,Active,86,2026-06-12
+SYN-S-0026,Road work - Srikakulam 26,SYN-E-026,SKL,ILAC-SKL-01,"Synthetic Layout 44, Srikakulam",18.41796,83.9375,Excavation,Active,124,2026-06-12
+SYN-S-0027,Bridge approach - Srikakulam 27,SYN-E-027,SKL,ILAC-SKL-01,"Synthetic Layout 58, Srikakulam",18.21181,83.84168,Finishing,Active,28,2025-07-08
+SYN-S-0028,Hospital annexe - Guntur 28,SYN-E-028,GNT,ILAC-GNT-01,"Synthetic Layout 47, Guntur",16.3329,80.48935,Road base,Active,122,2026-06-15
+SYN-S-0029,Residential block - East Godavari 29,SYN-E-029,EGD,ILAC-EGD-01,"Synthetic Layout 17, East Godavari",16.88894,81.77529,Finishing,Active,46,2026-02-24
+SYN-S-0030,Road work - Sri Sathya Sai 30,SYN-E-030,SSS,ILAC-SSS-01,"Synthetic Layout 38, Sri Sathya Sai",14.27904,77.85079,Finishing,Active,116,2025-09-05
+SYN-S-0031,Commercial complex - Chittoor 31,SYN-E-031,CTR,ILAC-CTR-01,"Synthetic Layout 83, Chittoor",13.25481,79.1278,Foundation,Active,29,2026-10-12
+SYN-S-0032,Residential block - Visakhapatnam 32,SYN-E-032,VSP,ILAC-VSP-01,"Synthetic Layout 78, Visakhapatnam",17.78347,83.33168,Excavation,Active,119,2025-11-14
+SYN-S-0033,Road work - Alluri Sitharama Raju 33,SYN-E-033,ASR,ILAC-ASR-01,"Synthetic Layout 62, Alluri Sitharama Raju",18.04665,82.62833,Superstructure,Completed,157,2025-07-15
+SYN-S-0034,Housing colony - Prakasam 34,SYN-E-034,PKM,ILAC-PKM-01,"Synthetic Layout 78, Prakasam",15.47945,80.06276,Excavation,Active,97,2025-12-12
+SYN-S-0035,Hospital annexe - Srikakulam 35,SYN-E-035,SKL,ILAC-SKL-01,"Synthetic Layout 41, Srikakulam",18.38456,83.90169,Road base,Paused,209,2025-08-19
+SYN-S-0036,School building - Guntur 36,SYN-E-036,GNT,ILAC-GNT-01,"Synthetic Layout 48, Guntur",16.28936,80.49818,Finishing,Active,110,2026-05-13
+SYN-S-0037,Residential block - Kakinada 37,SYN-E-037,KKD,ILAC-KKD-01,"Synthetic Layout 65, Kakinada",17.04666,82.15814,Superstructure,Active,211,2025-08-26
+SYN-S-0038,Apartment project - East Godavari 38,SYN-E-038,EGD,ILAC-EGD-01,"Synthetic Layout 58, East Godavari",17.05777,81.82059,Superstructure,Completed,220,2026-08-01
+SYN-S-0039,Hospital annexe - Anakapalli 39,SYN-E-039,AKP,ILAC-AKP-01,"Synthetic Layout 80, Anakapalli",17.79757,82.89119,Excavation,Completed,188,2026-02-17
+SYN-S-0040,Hospital annexe - Chittoor 40,SYN-E-040,CTR,ILAC-CTR-01,"Synthetic Layout 33, Chittoor",13.13605,79.06693,Road base,Active,219,2026-10-13
+SYN-S-0041,Apartment project - East Godavari 41,SYN-E-038,EGD,ILAC-EGD-01,"Synthetic Layout 26, East Godavari",17.06823,81.8776,Excavation,Active,150,2025-06-28
+SYN-S-0042,Residential block - East Godavari 42,SYN-E-024,EGD,ILAC-EGD-01,"Synthetic Layout 79, East Godavari",16.95051,81.69314,Excavation,Active,73,2026-10-01
+SYN-S-0043,School building - Eluru 43,SYN-E-019,ELR,ILAC-ELR-01,"Synthetic Layout 8, Eluru",16.77263,81.1674,Road base,Paused,90,2026-05-13
+SYN-S-0044,Apartment project - Prakasam 44,SYN-E-034,PKM,ILAC-PKM-01,"Synthetic Layout 14, Prakasam",15.48273,79.96573,Road base,Active,29,2026-04-09
+SYN-S-0045,Apartment project - Markapuram 45,SYN-E-025,MKP,ILAC-MKP-01,"Synthetic Layout 49, Markapuram",15.83329,79.25061,Superstructure,Completed,137,2025-12-05
+SYN-S-0046,Hospital annexe - Palnadu 46,SYN-E-004,PLN,ILAC-PLN-01,"Synthetic Layout 77, Palnadu",16.24463,80.11146,Road base,Paused,98,2025-08-17
+SYN-S-0047,Commercial complex - Polavaram 47,SYN-E-017,PLV,ILAC-PLV-01,"Synthetic Layout 30, Polavaram",17.13889,81.68506,Finishing,Paused,212,2026-03-13
+SYN-S-0048,Apartment project - West Godavari 48,SYN-E-021,WGD,ILAC-WGD-01,"Synthetic Layout 75, West Godavari",16.43243,81.60975,Excavation,Active,209,2025-10-11
+SYN-S-0049,Residential block - Srikakulam 49,SYN-E-011,SKL,ILAC-SKL-01,"Synthetic Layout 27, Srikakulam",18.41813,83.91061,Foundation,Paused,28,2026-10-19
+SYN-S-0050,Housing colony - Y.S.R Kadapa 50,SYN-E-033,KDP,ILAC-KDP-01,"Synthetic Layout 83, Y.S.R Kadapa",14.53793,78.84295,Superstructure,Active,51,2026-07-16
+SYN-S-0051,Bridge approach - Y.S.R Kadapa 51,SYN-E-033,KDP,ILAC-KDP-01,"Synthetic Layout 46, Y.S.R Kadapa",14.4094,78.93048,Superstructure,Active,103,2026-09-16
+SYN-S-0052,Housing colony - Anakapalli 52,SYN-E-018,AKP,ILAC-AKP-01,"Synthetic Layout 37, Anakapalli",17.74247,83.0303,Finishing,Paused,165,2025-12-08
+SYN-S-0053,Hospital annexe - Bapatla 53,SYN-E-015,BPT,ILAC-BPT-01,"Synthetic Layout 16, Bapatla",15.91952,80.53803,Superstructure,Completed,157,2026-10-08
+SYN-S-0054,Bridge approach - Palnadu 54,SYN-E-004,PLN,ILAC-PLN-01,"Synthetic Layout 36, Palnadu",16.16212,79.97197,Foundation,Completed,46,2026-09-13
+SYN-S-0055,Hospital annexe - Y.S.R Kadapa 55,SYN-E-033,KDP,ILAC-KDP-01,"Synthetic Layout 70, Y.S.R Kadapa",14.56748,78.83672,Road base,Paused,78,2025-11-23
+SYN-S-0056,Bridge approach - Guntur 56,SYN-E-028,GNT,ILAC-GNT-01,"Synthetic Layout 81, Guntur",16.24038,80.39671,Foundation,Active,107,2026-02-28
+SYN-S-0057,Apartment project - West Godavari 57,SYN-E-021,WGD,ILAC-WGD-01,"Synthetic Layout 13, West Godavari",16.47588,81.61324,Superstructure,Active,65,2025-07-02
+SYN-S-0058,Commercial complex - Chittoor 58,SYN-E-031,CTR,ILAC-CTR-01,"Synthetic Layout 25, Chittoor",13.26332,79.1597,Superstructure,Completed,67,2026-05-30
+SYN-S-0059,Apartment project - Dr. B.R. Ambedkar Konaseema 59,SYN-E-022,KNS,ILAC-KNS-01,"Synthetic Layout 53, Dr. B.R. Ambedkar Konaseema",16.49696,82.06616,Road base,Active,73,2025-09-28
+SYN-S-0060,Bridge approach - Srikakulam 60,SYN-E-026,SKL,ILAC-SKL-01,"Synthetic Layout 18, Srikakulam",18.32264,83.80448,Excavation,Paused,123,2025-10-19

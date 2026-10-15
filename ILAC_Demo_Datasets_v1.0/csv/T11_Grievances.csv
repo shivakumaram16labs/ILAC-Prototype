@@ -1,0 +1,71 @@
+﻿grievance_id,worker_id,district_code,centre_id,category,channel,urgency,created_offset_days,created_on_nominal,status,resolved_offset_days,assigned_to
+SYN-G-00001,SYN-W-000246,ATP,ILAC-ATP-01,Workplace safety,Field functionary,High,-18,2026-10-15,Open - under action,,demo.dlo.atp
+SYN-G-00002,SYN-W-000072,NDL,ILAC-NDL-01,Harassment at worksite,Field functionary,Normal,-53,2026-09-10,Resolved,-24,demo.dlo.ndl
+SYN-G-00003,SYN-W-000224,PKM,ILAC-PKM-01,Registration / renewal issue,ILAC desk,Normal,-23,2026-10-10,Open - under action,,demo.dlo.pkm
+SYN-G-00004,SYN-W-000379,NDL,ILAC-NDL-01,Accommodation / amenities at site,Worker app,Normal,-85,2026-08-09,Resolved,-68,demo.dlo.ndl
+SYN-G-00005,SYN-W-000522,WGD,ILAC-WGD-01,Wage non-payment / delay,Helpline,Normal,-75,2026-08-19,Closed - referred outside ILAC,-69,demo.dlo.wgd
+SYN-G-00006,SYN-W-000430,ATP,ILAC-ATP-01,Information request,Worker app,Normal,-56,2026-09-07,Resolved,-55,demo.dlo.atp
+SYN-G-00007,SYN-W-000365,SKL,ILAC-SKL-01,Workplace safety,WhatsApp,Normal,-27,2026-10-06,Open - under action,,demo.dlo.skl
+SYN-G-00008,SYN-W-000105,ELR,ILAC-ELR-01,Accommodation / amenities at site,WhatsApp,High,-78,2026-08-16,Closed - referred outside ILAC,-76,demo.dlo.elr
+SYN-G-00009,SYN-W-000321,NLR,ILAC-NLR-01,Information request,ILAC desk,Normal,-84,2026-08-10,Resolved,-60,demo.dlo.nlr
+SYN-G-00010,SYN-W-000160,AKP,ILAC-AKP-01,Information request,WhatsApp,Normal,-64,2026-08-30,Resolved,-52,demo.dlo.akp
+SYN-G-00011,SYN-W-000597,ASR,ILAC-ASR-01,Information request,WhatsApp,Normal,-28,2026-10-05,Open - escalated,,demo.dlo.asr
+SYN-G-00012,SYN-W-000100,ELR,ILAC-ELR-01,Information request,WhatsApp,Normal,-49,2026-09-14,Open - under action,,demo.dlo.elr
+SYN-G-00013,SYN-W-000336,ELR,ILAC-ELR-01,Information request,ILAC desk,Normal,-75,2026-08-19,Resolved,-69,demo.dlo.elr
+SYN-G-00014,SYN-W-000164,KKD,ILAC-KKD-01,Harassment at worksite,Helpline,Normal,-85,2026-08-09,Open - under action,,demo.dlo.kkd
+SYN-G-00015,SYN-W-000350,KKD,ILAC-KKD-01,Wage non-payment / delay,Helpline,Normal,-17,2026-10-16,Resolved,0,demo.dlo.kkd
+SYN-G-00016,SYN-W-000130,SSS,ILAC-SSS-01,Information request,Helpline,High,-34,2026-09-29,Reopened,,demo.dlo.sss
+SYN-G-00017,SYN-W-000270,BPT,ILAC-BPT-01,Information request,Helpline,Normal,-64,2026-08-30,Resolved,-54,demo.dlo.bpt
+SYN-G-00018,SYN-W-000103,GNT,ILAC-GNT-01,Wage non-payment / delay,Field functionary,Normal,-10,2026-10-23,Open - under action,,demo.dlo.gnt
+SYN-G-00019,SYN-W-000063,ATP,ILAC-ATP-01,Wage non-payment / delay,Worker app,Normal,-89,2026-08-05,Open - under action,,demo.dlo.atp
+SYN-G-00020,SYN-W-000559,KNL,ILAC-KNL-01,Wage non-payment / delay,Worker app,Normal,-74,2026-08-20,Open - under action,,demo.dlo.knl
+SYN-G-00021,SYN-W-000380,TPT,ILAC-TPT-01,Welfare claim pending,ILAC desk,Normal,-70,2026-08-24,Open - under action,,demo.dlo.tpt
+SYN-G-00022,SYN-W-000567,VZM,ILAC-VZM-01,Welfare claim pending,Field functionary,High,-49,2026-09-14,Resolved,-42,demo.dlo.vzm
+SYN-G-00023,SYN-W-000022,ATP,ILAC-ATP-01,Information request,ILAC desk,Normal,-54,2026-09-09,Resolved,-47,demo.dlo.atp
+SYN-G-00024,SYN-W-000517,KRS,ILAC-KRS-01,Welfare claim pending,WhatsApp,Normal,-70,2026-08-24,Closed - referred outside ILAC,-68,demo.dlo.krs
+SYN-G-00025,SYN-W-000282,MKP,ILAC-MKP-01,Workplace safety,Worker app,Normal,-60,2026-09-03,Open - under action,,demo.dlo.mkp
+SYN-G-00026,SYN-W-000089,KDP,ILAC-KDP-01,Workplace safety,Helpline,High,-77,2026-08-17,Resolved,-45,demo.dlo.kdp
+SYN-G-00027,SYN-W-000460,ELR,ILAC-ELR-01,Welfare claim pending,ILAC desk,Normal,-46,2026-09-17,Resolved,-20,demo.dlo.elr
+SYN-G-00028,SYN-W-000295,NTR,ILAC-NTR-01,Registration / renewal issue,Helpline,Normal,-43,2026-09-20,Open - under action,,demo.dlo.ntr
+SYN-G-00029,SYN-W-000519,KKD,ILAC-KKD-01,Harassment at worksite,WhatsApp,Normal,-44,2026-09-19,Open - escalated,,demo.dlo.kkd
+SYN-G-00030,SYN-W-000182,KRS,ILAC-KRS-01,Harassment at worksite,Helpline,High,-25,2026-10-08,Resolved,-14,demo.dlo.krs
+SYN-G-00031,SYN-W-000012,GNT,ILAC-GNT-01,Wage non-payment / delay,Field functionary,Normal,-87,2026-08-07,Resolved,-59,demo.dlo.gnt
+SYN-G-00032,SYN-W-000041,VZM,ILAC-VZM-01,Service centre conduct,Helpline,High,-52,2026-09-11,Reopened,,demo.dlo.vzm
+SYN-G-00033,SYN-W-000568,GNT,ILAC-GNT-02,Welfare claim pending,ILAC desk,Normal,-23,2026-10-10,Resolved,0,demo.dlo.gnt
+SYN-G-00034,SYN-W-000200,AKP,ILAC-AKP-01,Information request,ILAC desk,Normal,-77,2026-08-17,Open - under action,,demo.dlo.akp
+SYN-G-00035,SYN-W-000345,VSP,ILAC-VSP-02,Accommodation / amenities at site,WhatsApp,Normal,-87,2026-08-07,Reopened,,demo.dlo.vsp
+SYN-G-00036,SYN-W-000292,PLV,ILAC-PLV-01,Wage non-payment / delay,Field functionary,High,-4,2026-10-29,Resolved,0,demo.dlo.plv
+SYN-G-00037,SYN-W-000532,PLV,ILAC-PLV-01,Accommodation / amenities at site,Worker app,Normal,-68,2026-08-26,Open - under action,,demo.dlo.plv
+SYN-G-00038,SYN-W-000447,KNL,ILAC-KNL-01,Workplace safety,WhatsApp,Normal,-89,2026-08-05,Resolved,-72,demo.dlo.knl
+SYN-G-00039,SYN-W-000090,AKP,ILAC-AKP-01,Service centre conduct,Worker app,High,-65,2026-08-29,Resolved,-27,demo.dlo.akp
+SYN-G-00040,SYN-W-000307,TPT,ILAC-TPT-01,Harassment at worksite,Field functionary,Normal,-89,2026-08-05,Closed - referred outside ILAC,-80,demo.dlo.tpt
+SYN-G-00041,SYN-W-000356,VZM,ILAC-VZM-01,Accommodation / amenities at site,Field functionary,Normal,-57,2026-09-06,Open - under action,,demo.dlo.vzm
+SYN-G-00042,SYN-W-000271,PKM,ILAC-PKM-01,Welfare claim pending,Helpline,Normal,-58,2026-09-05,Open - under action,,demo.dlo.pkm
+SYN-G-00043,SYN-W-000145,PKM,ILAC-PKM-01,Harassment at worksite,ILAC desk,Normal,-90,2026-08-04,Open - under action,,demo.dlo.pkm
+SYN-G-00044,SYN-W-000353,PLV,ILAC-PLV-01,Welfare claim pending,Worker app,High,-32,2026-10-01,Open - under action,,demo.dlo.plv
+SYN-G-00045,SYN-W-000378,KNL,ILAC-KNL-01,Accommodation / amenities at site,WhatsApp,High,-23,2026-10-10,Resolved,-18,demo.dlo.knl
+SYN-G-00046,SYN-W-000071,AKP,ILAC-AKP-01,Workplace safety,WhatsApp,Normal,-66,2026-08-28,Open - escalated,,demo.dlo.akp
+SYN-G-00047,SYN-W-000181,ELR,ILAC-ELR-01,Wage non-payment / delay,WhatsApp,Normal,-65,2026-08-29,Open - escalated,,demo.dlo.elr
+SYN-G-00048,SYN-W-000253,PKM,ILAC-PKM-01,Registration / renewal issue,Worker app,High,-55,2026-09-08,Resolved,-52,demo.dlo.pkm
+SYN-G-00049,SYN-W-000583,PLN,ILAC-PLN-01,Harassment at worksite,ILAC desk,Normal,-27,2026-10-06,Resolved,-8,demo.dlo.pln
+SYN-G-00050,SYN-W-000309,SKL,ILAC-SKL-01,Workplace safety,Worker app,Normal,-13,2026-10-20,Resolved,0,demo.dlo.skl
+SYN-G-00051,SYN-W-000594,KRS,ILAC-KRS-02,Wage non-payment / delay,WhatsApp,High,-20,2026-10-13,Resolved,-8,demo.dlo.krs
+SYN-G-00052,SYN-W-000098,NDL,ILAC-NDL-01,Welfare claim pending,Helpline,Normal,-38,2026-09-25,Open - under action,,demo.dlo.ndl
+SYN-G-00053,SYN-W-000213,MKP,ILAC-MKP-01,Accommodation / amenities at site,ILAC desk,Normal,-54,2026-09-09,Open - under action,,demo.dlo.mkp
+SYN-G-00054,SYN-W-000416,SSS,ILAC-SSS-01,Harassment at worksite,WhatsApp,Normal,-65,2026-08-29,Resolved,-41,demo.dlo.sss
+SYN-G-00055,SYN-W-000226,KKD,ILAC-KKD-01,Registration / renewal issue,ILAC desk,Normal,-6,2026-10-27,Resolved,0,demo.dlo.kkd
+SYN-G-00056,SYN-W-000317,CTR,ILAC-CTR-01,Service centre conduct,Field functionary,High,-7,2026-10-26,Resolved,0,demo.dlo.ctr
+SYN-G-00057,SYN-W-000417,BPT,ILAC-BPT-01,Accommodation / amenities at site,WhatsApp,Normal,-89,2026-08-05,Resolved,-60,demo.dlo.bpt
+SYN-G-00058,SYN-W-000484,VSP,ILAC-VSP-02,Registration / renewal issue,ILAC desk,Critical,-45,2026-09-18,Resolved,-27,demo.dlo.vsp
+SYN-G-00059,SYN-W-000470,SKL,ILAC-SKL-01,Wage non-payment / delay,WhatsApp,Normal,-3,2026-10-30,Resolved,0,demo.dlo.skl
+SYN-G-00060,SYN-W-000043,TPT,ILAC-TPT-01,Harassment at worksite,Worker app,Normal,-84,2026-08-10,Open - under action,,demo.dlo.tpt
+SYN-G-00061,SYN-W-000441,KDP,ILAC-KDP-01,Wage non-payment / delay,Field functionary,Normal,-29,2026-10-04,Open - escalated,,demo.dlo.kdp
+SYN-G-00062,SYN-W-000395,NTR,ILAC-NTR-02,Information request,Helpline,Normal,-80,2026-08-14,Resolved,-63,demo.dlo.ntr
+SYN-G-00063,SYN-W-000277,NDL,ILAC-NDL-01,Service centre conduct,Helpline,Normal,-47,2026-09-16,Open - escalated,,demo.dlo.ndl
+SYN-G-00064,SYN-W-000232,AKP,ILAC-AKP-01,Harassment at worksite,ILAC desk,High,-3,2026-10-30,Resolved,0,demo.dlo.akp
+SYN-G-00065,SYN-W-000007,PLN,ILAC-PLN-01,Harassment at worksite,WhatsApp,Normal,-57,2026-09-06,Resolved,-17,demo.dlo.pln
+SYN-G-00066,SYN-W-000412,KRS,ILAC-KRS-02,Welfare claim pending,WhatsApp,Normal,-59,2026-09-04,Resolved,-47,demo.dlo.krs
+SYN-G-00067,SYN-W-000109,NLR,ILAC-NLR-01,Accommodation / amenities at site,ILAC desk,Normal,-16,2026-10-17,Resolved,0,demo.dlo.nlr
+SYN-G-00068,SYN-W-000536,NDL,ILAC-NDL-01,Service centre conduct,ILAC desk,High,-60,2026-09-03,Open - escalated,,demo.dlo.ndl
+SYN-G-00069,SYN-W-000594,KRS,ILAC-KRS-02,Service centre conduct,WhatsApp,Normal,-31,2026-10-02,Open - under action,,demo.dlo.krs
+SYN-G-00070,SYN-W-000148,KDP,ILAC-KDP-01,Information request,ILAC desk,Normal,-83,2026-08-11,Open - under action,,demo.dlo.kdp

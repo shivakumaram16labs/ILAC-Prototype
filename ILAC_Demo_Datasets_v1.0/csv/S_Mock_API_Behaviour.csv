@@ -1,0 +1,15 @@
+﻿interface,endpoint,annexure_d_or_module,trigger,required_mock_behaviour
+BOCW registry search,POST /mock/bocw/v1/workers/search,D01,Default,200 OK - match list on name+DOB+mobile (fuzzy) from T01_Workers
+BOCW registry search,POST /mock/bocw/v1/workers/search,D01,P-02,200 OK - returns SYN-W-000607 (score >= 0.85)
+e-Shram verification,POST /mock/eshram/v1/verify,D02,Default,"200 OK - verified, returns UAN token"
+e-Shram verification,POST /mock/eshram/v1/verify,D02,P-03 (uid_token SYN-UIDTOK-41100031),No response within 10 s (timeout) - client must time out and fall back
+Aadhaar authentication (mock),POST /mock/uidai/v1/auth,D04,Default,200 OK - auth success for any SYN-UIDTOK token; OTP '123456' shown in mock console. NO real Aadhaar numbers to be used.
+DigiLocker document pull,GET /mock/digilocker/v1/documents,D05,Default,200 OK - returns specimen document metadata only
+NCS job-seeker registration,POST /mock/ncs/v1/jobseekers,D06,Default,201 Created - returns SYN-NCS-xxxxxx
+APSSDC course enrolment,POST /mock/apssdc/v1/enrolments,D12,Default / P-05,201 Created - returns SYN-APSSDC-ACK-xxxxxx; status callback 'Seat confirmed' after operator trigger
+MeeSeva application status,GET /mock/meeseva/v1/applications/{ack},D14,Default,200 OK - status from fixed list
+Civil Supplies rice-card member addition,POST /mock/civilsupplies/v1/ricecard/member-additions,D15,ALL (during S3),503 Service Unavailable - forces manual/assisted fallback
+Civil Supplies rice-card member addition,POST /mock/civilsupplies/v1/ricecard/member-additions,D15,After Committee says 'restore',"201 Created - used only to show reconciliation of an already-open manual case (optional, if time permits)"
+Education scholarship referral,POST /mock/education/v1/scholarship-referrals,D16,Default / P-08,201 Created - returns SYN-EDU-ACK-xxxxxx
+GSWS service request,POST /mock/gsws/v1/service-requests,D09,Default,201 Created
+Messaging gateway (SMS/WhatsApp/IVR),POST /mock/messaging/v1/messages,SM-14,Default,202 Accepted - message written to mock gateway log only; NO real SMS/WhatsApp to dataset numbers

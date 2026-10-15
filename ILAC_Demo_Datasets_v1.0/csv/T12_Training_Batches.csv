@@ -1,0 +1,11 @@
+﻿batch_id,programme_type,trade,district_code,training_partner,start_offset_days,duration_days,capacity,assessment_body,nsqf_level_on_certification
+SYN-B-01,Upskilling,Mason,KRS,[Synthetic] Training partner via APSSDC mock,-10,15,30,[Synthetic] Sector skill council (mock),[As per assessment - not auto-derived]
+SYN-B-02,RPL,Bar bender,KRS,[Synthetic] Training partner via APSSDC mock,-10,5,30,[Synthetic] Sector skill council (mock),[As per assessment - not auto-derived]
+SYN-B-03,Reskilling,Electrician,NTR,[Synthetic] Training partner via APSSDC mock,20,10,30,[Synthetic] Sector skill council (mock),[As per assessment - not auto-derived]
+SYN-B-04,Upskilling,Plumber,GNT,[Synthetic] Training partner via APSSDC mock,12,5,30,[Synthetic] Sector skill council (mock),[As per assessment - not auto-derived]
+SYN-B-05,Upskilling (to Mason assistant),Helper / Unskilled worker,SKL,[Synthetic] Training partner via APSSDC mock,-10,5,30,[Synthetic] Sector skill council (mock),[As per assessment - not auto-derived]
+SYN-B-06,RPL,Welder,VSP,[Synthetic] Training partner via APSSDC mock,12,30,30,[Synthetic] Sector skill council (mock),[As per assessment - not auto-derived]
+SYN-B-07,Upskilling,Tile layer,KKD,[Synthetic] Training partner via APSSDC mock,-10,15,30,[Synthetic] Sector skill council (mock),[As per assessment - not auto-derived]
+SYN-B-08,RPL,Painter,NLR,[Synthetic] Training partner via APSSDC mock,-10,5,30,[Synthetic] Sector skill council (mock),[As per assessment - not auto-derived]
+SYN-B-09,Upskilling,Centring / Shuttering worker,KRS,[Synthetic] Training partner via APSSDC mock,12,5,30,[Synthetic] Sector skill council (mock),[As per assessment - not auto-derived]
+SYN-B-10,RPL,Carpenter,KNL,[Synthetic] Training partner via APSSDC mock,-10,10,30,[Synthetic] Sector skill council (mock),[As per assessment - not auto-derived]

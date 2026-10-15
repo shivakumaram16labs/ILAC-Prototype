@@ -1,0 +1,331 @@
+openapi: 3.0.3
+info:
+  title: Digital ILAC Part 1 - T-4 Demonstration Mock Government APIs
+  version: "1.0"
+  description: |
+    Tender ID 985903 | Ref. APBOCWWB/ILAC-DIGITAL-P1/2026-27/01 | Criterion T-4.
+
+    PURPOSE AND STATUS
+    - This is a MOCK contract for the scripted solution demonstration only. Each bidder hosts these
+      mocks in its own demonstration environment. No live Government API access is provided.
+    - The endpoints, paths and payloads below are ILLUSTRATIVE. They do not describe, and must not be
+      read as a representation of, the actual interface, readiness, fields or authentication of any
+      counterpart system. Actual interface details remain governed by Annexure-D (AC-03 entries) and
+      Annexures 14/14A of the RFP.
+    - All identifiers are synthetic (prefix SYN). Real Aadhaar numbers must never be sent; the mock
+      UIDAI and registry services accept the uid_token_mock values in the dataset.
+    - Required behaviours for each scenario are listed on sheet S_Mock_API_Behaviour of the dataset
+      workbook. In particular: e-Shram verify must time out for persona P-03, and the Civil Supplies
+      member-addition endpoint must return 503 throughout S3 so that the manual fallback is exercised.
+    - Bidders may wrap these mocks behind their own API gateway. The Committee may ask to see the
+      mock's request/response log for any call made during the demonstration.
+servers:
+  - url: https://{bidder-demo-host}/mock
+    variables:
+      bidder-demo-host:
+        default: demo.bidder.example
+security:
+  - bearerAuth: []
+tags:
+  - name: D01 APBOCWWB registry
+  - name: D02 e-Shram
+  - name: D04 UIDAI (mock)
+  - name: D05 DigiLocker
+  - name: D06 NCS
+  - name: D09 GSWS
+  - name: D12 APSSDC
+  - name: D14 MeeSeva
+  - name: D15 Civil Supplies
+  - name: D16 Education
+  - name: SM-14 Messaging gateway
+paths:
+  /bocw/v1/workers/search:
+    post:
+      tags: [D01 APBOCWWB registry]
+      summary: Search the legacy BOCW registry for possible matches
+      description: Fuzzy match on name + date of birth + mobile against T01_Workers. Persona P-02 must return SYN-W-000607 with score >= 0.85.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [full_name, date_of_birth]
+              properties:
+                full_name: {type: string, example: Gorle Laxmi}
+                date_of_birth: {type: string, format: date, example: "1990-03-14"}
+                mobile: {type: string, example: "9000099021"}
+                uid_token: {type: string, example: SYN-UIDTOK-12345678}
+      responses:
+        "200":
+          description: Zero or more candidate matches
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  matches:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        worker_id: {type: string, example: SYN-W-000607}
+                        bocw_registration_no: {type: string}
+                        full_name: {type: string}
+                        match_score: {type: number, example: 0.91}
+                        matched_on: {type: array, items: {type: string}, example: [date_of_birth, mobile, name_phonetic]}
+  /bocw/v1/registrations/{bocw_registration_no}/renewal:
+    post:
+      tags: [D01 APBOCWWB registry]
+      summary: Refer a lapsed registration for renewal (service LB-01)
+      parameters:
+        - {name: bocw_registration_no, in: path, required: true, schema: {type: string}}
+      responses:
+        "201": {$ref: "#/components/responses/Acknowledged"}
+  /eshram/v1/verify:
+    post:
+      tags: [D02 e-Shram]
+      summary: Verify / register a worker on e-Shram (service ES-01)
+      description: Returns a synthetic UAN token. For uid_token SYN-UIDTOK-41100031 (persona P-03) the mock must not respond within 10 seconds.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [uid_token, mobile]
+              properties:
+                uid_token: {type: string, example: SYN-UIDTOK-41100011}
+                mobile: {type: string}
+                occupation: {type: string, example: Mason}
+      responses:
+        "200":
+          description: Verified
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status: {type: string, enum: [VERIFIED, NOT_FOUND]}
+                  uan_token: {type: string, example: SYN-UAN-77810011}
+        "504": {$ref: "#/components/responses/Timeout"}
+  /uidai/v1/auth:
+    post:
+      tags: [D04 UIDAI (mock)]
+      summary: Mock authentication - token based, OTP 123456
+      description: Accepts only SYN-UIDTOK tokens. Any value resembling a 12-digit Aadhaar number must be rejected with 400.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [uid_token, otp]
+              properties:
+                uid_token: {type: string}
+                otp: {type: string, example: "123456"}
+                consent_id: {type: string, example: CONSENT-DEMO-v1}
+      responses:
+        "200":
+          description: Authenticated
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  auth_status: {type: string, enum: [SUCCESS, FAILED]}
+                  txn_id: {type: string, example: SYN-AUTH-00001}
+        "400": {$ref: "#/components/responses/BadRequest"}
+  /digilocker/v1/documents:
+    get:
+      tags: [D05 DigiLocker]
+      summary: Consent-based pull of specimen document metadata (service DL-01)
+      parameters:
+        - {name: uid_token, in: query, required: true, schema: {type: string}}
+        - {name: consent_id, in: query, required: true, schema: {type: string}}
+      responses:
+        "200":
+          description: Document list (specimen metadata only)
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  documents:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        doc_type: {type: string, example: CLASS_X_MEMO}
+                        issuer: {type: string, example: Synthetic Board (mock)}
+                        uri: {type: string, example: "syn://digilocker/SYN-DOC-0001"}
+  /ncs/v1/jobseekers:
+    post:
+      tags: [D06 NCS]
+      summary: Register a job-seeker (service NC-01)
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: {$ref: "#/components/schemas/WorkerRef"}
+      responses:
+        "201": {$ref: "#/components/responses/Acknowledged"}
+  /gsws/v1/service-requests:
+    post:
+      tags: [D09 GSWS]
+      summary: Raise a secretariat service request (service GS-01)
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: {$ref: "#/components/schemas/ServiceRequest"}
+      responses:
+        "201": {$ref: "#/components/responses/Acknowledged"}
+  /apssdc/v1/enrolments:
+    post:
+      tags: [D12 APSSDC]
+      summary: Enrol a worker in a skilling / RPL batch (services SK-01, SK-02)
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              allOf:
+                - $ref: "#/components/schemas/ServiceRequest"
+                - type: object
+                  properties:
+                    batch_id: {type: string, example: SYN-B-02}
+                    trade: {type: string, example: Bar bender}
+      responses:
+        "201": {$ref: "#/components/responses/Acknowledged"}
+  /apssdc/v1/enrolments/{ack_no}/status:
+    get:
+      tags: [D12 APSSDC]
+      summary: Enrolment status (operator may trigger 'SEAT_CONFIRMED' from the mock console)
+      parameters:
+        - {name: ack_no, in: path, required: true, schema: {type: string}}
+      responses:
+        "200": {$ref: "#/components/responses/Status"}
+  /meeseva/v1/applications/{ack_no}:
+    get:
+      tags: [D14 MeeSeva]
+      summary: Application status (services MS-01, MS-02)
+      parameters:
+        - {name: ack_no, in: path, required: true, schema: {type: string}}
+      responses:
+        "200": {$ref: "#/components/responses/Status"}
+  /civilsupplies/v1/ricecard/member-additions:
+    post:
+      tags: [D15 Civil Supplies]
+      summary: Add a member to a rice card (service CS-01)
+      description: MUST return 503 for the whole of S3. Restored only if the Committee asks to see reconciliation of an already-open manual case.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              allOf:
+                - $ref: "#/components/schemas/ServiceRequest"
+                - type: object
+                  properties:
+                    member_name: {type: string, example: Bandaru Likhitha}
+                    relationship: {type: string, example: Daughter}
+                    member_date_of_birth: {type: string, format: date}
+      responses:
+        "201": {$ref: "#/components/responses/Acknowledged"}
+        "503": {$ref: "#/components/responses/Unavailable"}
+  /education/v1/scholarship-referrals:
+    post:
+      tags: [D16 Education]
+      summary: Refer a student dependant for scholarship facilitation (service ED-01)
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              allOf:
+                - $ref: "#/components/schemas/ServiceRequest"
+                - type: object
+                  properties:
+                    member_id: {type: string, example: SYN-M-001909}
+                    course_applied: {type: string, example: Diploma in Civil Engineering}
+      responses:
+        "201": {$ref: "#/components/responses/Acknowledged"}
+  /messaging/v1/messages:
+    post:
+      tags: [SM-14 Messaging gateway]
+      summary: Queue an SMS / WhatsApp / IVR message - written to the mock log only
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [channel, to, template_id]
+              properties:
+                channel: {type: string, enum: [SMS, WHATSAPP, IVR, EMAIL]}
+                to: {type: string, example: "9000099011"}
+                template_id: {type: string, example: ACK_REGISTRATION_TE}
+                language: {type: string, enum: [te, en]}
+                params: {type: object, additionalProperties: {type: string}}
+      responses:
+        "202":
+          description: Accepted into mock log; never dispatched to a real number
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      description: Any static demo token configured by the bidder. OAuth 2.0 / mTLS may be shown but is not required for the mock.
+  schemas:
+    WorkerRef:
+      type: object
+      required: [worker_id]
+      properties:
+        worker_id: {type: string, example: SYN-W-000608}
+        uid_token: {type: string}
+        full_name: {type: string}
+        mobile: {type: string}
+    ServiceRequest:
+      type: object
+      required: [ilac_case_id, worker_id, service_code]
+      properties:
+        ilac_case_id: {type: string, description: ILAC referral / case ID - the same ID is used whether the request goes by API or manual fallback, example: SYN-R-00153}
+        worker_id: {type: string}
+        service_code: {type: string, example: SK-01}
+        centre_id: {type: string, example: ILAC-KRS-01}
+        consent_id: {type: string, example: CONSENT-DEMO-v1}
+        documents:
+          type: array
+          items: {type: string, example: specimen_birth_certificate_P-05.png}
+  responses:
+    Acknowledged:
+      description: Accepted by the counterpart (mock)
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              external_ack_no: {type: string, example: SYN-APSSDC-ACK-104233}
+              status: {type: string, example: ACKNOWLEDGED}
+              received_at: {type: string, format: date-time}
+    Status:
+      description: Current status at the counterpart (mock)
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              external_ack_no: {type: string}
+              status: {type: string, enum: [RECEIVED, UNDER_PROCESS, QUERY_RAISED, SEAT_CONFIRMED, APPROVED, REJECTED, DELIVERED]}
+              remarks: {type: string}
+              updated_at: {type: string, format: date-time}
+    BadRequest:
+      description: Invalid input (e.g. a value resembling a real Aadhaar number)
+    Timeout:
+      description: Gateway timeout - mock did not respond within 10 seconds
+    Unavailable:
+      description: Counterpart service unavailable - client must route the case to the certified manual/assisted fallback
+      headers:
+        Retry-After:
+          schema: {type: integer, example: 3600}

@@ -1,0 +1,13 @@
+﻿visit_id,site_id,roster_seq,worker_id,full_name,primary_trade,attendance_to_record,skilling_need_to_record,offline_edit_to_record,online_edit_at_centre
+SYN-VIS-001,SYN-S-0006,1,SYN-W-000004,Chilakala Durga Prasad,Plasterer,Present,,,
+SYN-VIS-001,SYN-S-0006,2,SYN-W-000030,Nalli Jyothi,Mason,Present,Yes - Mason upskilling,,
+SYN-VIS-001,SYN-S-0006,3,SYN-W-000031,Nalli Naresh,Helper / Unskilled worker,Present,,,
+SYN-VIS-001,SYN-S-0006,4,SYN-W-000097,Anumolu Lavanya,Helper / Unskilled worker,Present,Yes - Helper / Unskilled worker upskilling,,
+SYN-VIS-001,SYN-S-0006,5,SYN-W-000120,Pallapu Gopi,Helper / Unskilled worker,Present,,Mobile -> 9000099101 (field edit),Mobile -> 9000099102 (operator demo.op.krs edit while device offline)
+SYN-VIS-001,SYN-S-0006,6,SYN-W-000162,Mandapati Suresh,Helper / Unskilled worker,Present,,,
+SYN-VIS-001,SYN-S-0006,7,SYN-W-000176,Allam Kavitha,Tile layer,Present,,,
+SYN-VIS-001,SYN-S-0006,8,SYN-W-000182,Bolla Ramu,Painter,Absent,,,
+SYN-VIS-001,SYN-S-0006,9,SYN-W-000183,Bolla Kumari,Helper / Unskilled worker,Present,Yes - Helper / Unskilled worker upskilling,,
+SYN-VIS-001,SYN-S-0006,10,SYN-W-000202,Kurra Suresh,Mason,Present,,,
+SYN-VIS-001,SYN-S-0006,11,SYN-W-000225,Doddi Raju,Painter,Absent,,,
+SYN-VIS-001,SYN-S-0006,12,SYN-W-000240,Malla Venkata Ramana,Tile layer,Present,,,

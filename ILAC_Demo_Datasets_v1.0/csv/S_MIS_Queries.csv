@@ -1,0 +1,6 @@
+﻿query_id,question,source_sheets,note
+Q1,As loaded: count of ACTIVE registered women workers by district - show the top 5 districts and the statewide total.,T01_Workers,Count raw records as loaded (do not merge seeded near-duplicates for this query).
+Q2,"As on demo day D: number of convergence referrals that are OPEN and past their service clock (due_offset_days < 0), by department.","T10_Referrals, M04_Services",Open = Submitted / Acknowledged by department / Query raised - awaiting worker.
+Q3,Job mela JM-2026-01: pre-registered candidates by primary trade (before any registrations made during the demo).,T08_JobMela_Candidates,
+Q4,"As on demo day D: open grievances older than 30 days, by category.",T11_Grievances,Open = Open - under action / Open - escalated / Reopened; older than 30 days = created_offset_days < -30.
+Q5,"Krishna district (KRS): active workers flagged with a skilling need and NOT enrolled in any batch, by primary trade.",T01_Workers,Before S2 field updates.

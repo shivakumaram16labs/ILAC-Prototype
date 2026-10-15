@@ -1,0 +1,7 @@
+﻿counsellor_id,name,specialisation,languages,base_centre,availability,login
+SYN-C-01,Kolli Sujatha,Education counselling,"Telugu, English",ILAC-NTR-01,"Mon, Wed, Fri 10:00-16:00",demo.cns.edu1
+SYN-C-02,Anumolu Ravi Kumar,Education counselling,"Telugu, English, Hindi",ILAC-GNT-01,"Tue, Thu, Sat 10:00-16:00",demo.cns.edu2
+SYN-C-03,Jampana Kavitha,Education counselling,"Telugu, English",ILAC-NTR-02,Mon-Fri 14:00-17:00,demo.cns.edu3
+SYN-C-04,Pothula Mohan,Employment / self-employment counselling,"Telugu, English",ILAC-KRS-01,Mon-Sat 10:00-13:00,demo.cns.emp1
+SYN-C-05,Shaik Fathima,Employment / self-employment counselling,"Telugu, Urdu, English",ILAC-GNT-02,Tue-Sat 10:00-16:00,demo.cns.emp2
+SYN-C-06,Talari Bhaskar,Enterprise counselling,"Telugu, English",ILAC-VSP-01,Wed-Sat 11:00-16:00,demo.cns.ent1

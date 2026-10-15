@@ -1,0 +1,24 @@
+﻿service_code,department,annexure_d_ref,service_name,demo_integration_mode,service_clock_days,escalation_L1_after_days,escalation_L2_after_days,escalation_L1_to,escalation_L2_to,documents_required,owning_module
+LB-01,APBOCWWB / Labour Dept,D01,BOCW registration renewal,Mock API,7,5,7,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Work certificate (90 days); photo,SM-01 / SM-07
+LB-02,APBOCWWB / Labour Dept,D01,Welfare claim facilitation (referral to Board),Mock API,30,21,30,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Claim-specific checklist,SM-02 / SM-07
+ES-01,"MoLE, GoI - e-Shram",D02,e-Shram registration / verification,Mock API,3,2,3,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Mobile; bank account (yes/no),SM-01 / SM-12
+DL-01,MeitY - DigiLocker,D05,Consent-based document pull,Mock API,1,1,1,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Worker consent,SM-01 / SM-12
+NC-01,"MoLE, GoI - NCS",D06,Job-seeker registration on NCS,Mock API,3,2,3,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Education and trade details,SM-05 / SM-12
+NP-01,"MSDE, GoI - NAPS",D07,Apprenticeship registration referral,Mock API,7,5,7,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Education certificate,SM-11
+GS-01,"GSWS, GoAP",D09,Ward/village secretariat service request,Mock API,15,10,15,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),As per service,SM-07
+PG-01,"PGRS, GoAP",D10,Grievance referral to PGRS,Mock API,15,10,15,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Grievance reference,SM-04
+NI-01,"NIPUNYAM, GoAP",D11,Referral to NIPUNYAM programme (as notified),Manual,15,10,15,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),As notified by counterpart,SM-11
+SK-01,"APSSDC, GoAP",D12,Skill training enrolment,Mock API,7,5,7,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Education details; trade preference,SM-11
+SK-02,"APSSDC, GoAP",D12,RPL assessment registration,Mock API,15,10,15,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Work experience declaration,SM-11
+ET-01,"Employment & Training, GoAP",D13,Employment exchange registration,Manual,7,5,7,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Education certificate,SM-05
+MS-01,"MeeSeva / CSC, GoAP",D14,Income certificate application,Mock API,15,10,15,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Self-declaration; household details,SM-03
+MS-02,"MeeSeva / CSC, GoAP",D14,Residence certificate application,Mock API,15,10,15,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Address proof,SM-03
+CS-01,"Civil Supplies, GoAP",D15,Rice card - addition of family member,Mock API - UNAVAILABLE (manual fallback),21,14,21,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Birth certificate / marriage certificate of member,SM-07
+CS-02,"Civil Supplies, GoAP",D15,New rice card application,Mock API - UNAVAILABLE (manual fallback),30,21,30,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Household details; address proof,SM-07
+ED-01,"School / Higher Education, GoAP",D16,Post-matric scholarship facilitation,Mock API,30,21,30,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Marks memo; admission proof,SM-08
+ED-02,"School / Higher Education, GoAP",D16,Admission facilitation (ITI / Polytechnic / Intermediate),Manual,15,10,15,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Marks memo; transfer certificate,SM-08
+HL-01,"Health, Medical & Family Welfare, GoAP",D17,Health scheme enrolment facilitation,Manual,15,10,15,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Household details,SM-07
+MM-01,"MSME, GoAP",D18,Udyam registration facilitation,Manual,10,7,10,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Enterprise details,SM-10
+MP-01,"MEPMA, GoAP",D19,Urban SHG linkage,Manual,21,14,21,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Member consent,SM-21
+SR-01,"SERP, GoAP",D20,Rural SHG / livelihood linkage,Manual,21,14,21,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Member consent,SM-21
+UL-01,"Urban Local Bodies, GoAP",D21,Birth / death certificate facilitation,Manual,7,5,7,District Labour Officer (demo.dlo.<district>),State PMU (demo.pmu.state),Hospital / event details,SM-07

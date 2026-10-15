@@ -1,0 +1,140 @@
+[
+  {
+    "id": "01",
+    "name": "Worker registration & records",
+    "description": "Worker registration, renewal, identity, employment and document records.",
+    "icon": "user"
+  },
+  {
+    "id": "02",
+    "name": "Welfare schemes & services",
+    "description": "Explore worker welfare assistance and track scheme applications.",
+    "icon": "heart"
+  },
+  {
+    "id": "03",
+    "name": "CSC & MeeSeva services",
+    "description": "Find common Government services, required documents and official application routes.",
+    "icon": "building"
+  },
+  {
+    "id": "04",
+    "name": "Grievances",
+    "description": "Submit a grievance and follow its assignment and resolution.",
+    "icon": "message"
+  },
+  {
+    "id": "05",
+    "name": "Employment & job matching",
+    "description": "Browse vacancies, express interest and follow employment offers.",
+    "icon": "briefcase"
+  },
+  {
+    "id": "06",
+    "name": "Calendar & opportunities",
+    "description": "Appointments, training programmes, job melas and centre events.",
+    "icon": "calendar"
+  },
+  {
+    "id": "07",
+    "name": "Departmental convergence",
+    "description": "Department referrals, responsible officers and follow-up requests.",
+    "icon": "link"
+  },
+  {
+    "id": "08",
+    "name": "Education counselling",
+    "description": "Book education counselling and follow admission or scholarship guidance.",
+    "icon": "book"
+  },
+  {
+    "id": "09",
+    "name": "Learning & IEC",
+    "description": "Safety learning, skill courses and information resources for workers.",
+    "icon": "play"
+  },
+  {
+    "id": "10",
+    "name": "Employment & enterprise counselling",
+    "description": "Guidance for employment, self-employment and enterprise opportunities.",
+    "icon": "compass"
+  },
+  {
+    "id": "11",
+    "name": "Worksite visits & skilling",
+    "description": "Field visits, attendance, skill needs and training schedules.",
+    "icon": "tools"
+  },
+  {
+    "id": "12",
+    "name": "Integration hub",
+    "description": "An overview of proposed Government integrations and assisted service routes.",
+    "icon": "layers"
+  },
+  {
+    "id": "13",
+    "name": "MIS & reports",
+    "description": "District and centre reporting, programme indicators and downloadable summaries.",
+    "icon": "chart"
+  },
+  {
+    "id": "14",
+    "name": "Notifications & communication",
+    "description": "Worker updates, announcements, reminders and broadcast preparation.",
+    "icon": "bell"
+  },
+  {
+    "id": "15",
+    "name": "Job melas & camps",
+    "description": "Event registration, candidate check-in, interviews and placement follow-up.",
+    "icon": "flag"
+  },
+  {
+    "id": "16",
+    "name": "Functionary monitoring",
+    "description": "Centre activity, staff work turnout and daily checklists.",
+    "icon": "checklist"
+  },
+  {
+    "id": "17",
+    "name": "Para-legal services",
+    "description": "Request support for wages, worksite disputes and legal-aid referrals.",
+    "icon": "scale"
+  },
+  {
+    "id": "18",
+    "name": "Agency service facilitation",
+    "description": "Assisted access to banking, insurance, pension and agency services.",
+    "icon": "bank"
+  },
+  {
+    "id": "19",
+    "name": "Users, roles & permissions",
+    "description": "Manage user roles, module access and centre configuration.",
+    "icon": "settings"
+  },
+  {
+    "id": "20",
+    "name": "Sites & skilling groups",
+    "description": "Construction site information and worker groups for training.",
+    "icon": "building"
+  },
+  {
+    "id": "21",
+    "name": "Worker livelihood groups",
+    "description": "Worker groups, meetings and livelihood linkages.",
+    "icon": "users"
+  },
+  {
+    "id": "22",
+    "name": "Portals & profiles",
+    "description": "Worker, employer and department portal views and account profiles.",
+    "icon": "monitor"
+  },
+  {
+    "id": "ai",
+    "name": "AI assistance",
+    "description": "An interface overview for future assistance features.",
+    "icon": "spark"
+  }
+]

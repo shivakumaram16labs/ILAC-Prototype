@@ -1,0 +1,41 @@
+﻿case_id,member_id,household_id,beneficiary_name,education_stage,counsellor_id,session_type,session_offset_days,session_on_nominal,interest_area,agreed_action,referral_service_code,case_status
+SYN-CC-0001,SYN-M-000983,SYN-H-000277,Malla Charan,Intermediate (Class 11-12),SYN-C-01,Individual,-30,2026-10-03,Apprenticeship,Attend skill course orientation,,Open - action pending
+SYN-CC-0002,SYN-M-001637,SYN-H-000456,Pydi Saraswathi,Intermediate passed,SYN-C-01,Group,-56,2026-09-07,Skill course,Collect documents,ED-01,Open - action pending
+SYN-CC-0003,SYN-M-001172,SYN-H-000329,Jakka Durga Prasad,Intermediate passed,SYN-C-01,Individual,-27,2026-10-06,Apprenticeship,Apply for admission,,Open - action pending
+SYN-CC-0004,SYN-M-001354,SYN-H-000379,Bolla Keerthi,Secondary (Class 9-10),SYN-C-01,Individual,-6,2026-10-27,Skill course,Collect documents,NP-01,Referred
+SYN-CC-0005,SYN-M-001483,SYN-H-000413,Pydi Ganesh,Secondary (Class 9-10),SYN-C-02,Group,-43,2026-09-20,Intermediate (MPC/BiPC/CEC),Apply for scholarship,NP-01,Referred
+SYN-CC-0006,SYN-M-001750,SYN-H-000490,Neelapu Appa Rao,Intermediate passed,SYN-C-02,Individual,-23,2026-10-10,ITI,Apply for admission,ED-02,Referred
+SYN-CC-0007,SYN-M-001019,SYN-H-000286,Kurra Mary,Intermediate passed,SYN-C-02,Group,-7,2026-10-26,Degree,Follow-up session,NP-01,Open - action pending
+SYN-CC-0008,SYN-M-000093,SYN-H-000027,Nakka Teja,Secondary (Class 9-10),SYN-C-03,Individual,-47,2026-09-16,Polytechnic,Follow-up session,ED-01,Referred
+SYN-CC-0009,SYN-M-000459,SYN-H-000130,Uppada Rani,Intermediate passed,SYN-C-03,Individual,-31,2026-10-02,Skill course,Attend skill course orientation,SK-01,Referred
+SYN-CC-0010,SYN-M-000966,SYN-H-000272,Gurrala Sirisha,Intermediate passed,SYN-C-01,Group,-42,2026-09-21,ITI,Apply for scholarship,ED-02,Referred
+SYN-CC-0011,SYN-M-000435,SYN-H-000124,Gurrala Krishna,Intermediate passed,SYN-C-03,Individual,-9,2026-10-24,Polytechnic,Apply for admission,NP-01,Open - action pending
+SYN-CC-0012,SYN-M-000791,SYN-H-000222,Malla Venkata Ramana,Intermediate passed,SYN-C-03,Individual,-14,2026-10-19,ITI,Collect documents,ED-01,Outcome recorded - enrolled
+SYN-CC-0013,SYN-M-001544,SYN-H-000431,Vemula Navya,Intermediate (Class 11-12),SYN-C-03,Group,-16,2026-10-17,Apprenticeship,Apply for scholarship,ED-01,Open - action pending
+SYN-CC-0014,SYN-M-001594,SYN-H-000445,Jampana Durga,Intermediate passed,SYN-C-02,Individual,-56,2026-09-07,Skill course,Collect documents,ED-01,Referred
+SYN-CC-0015,SYN-M-001557,SYN-H-000435,Medisetti Jyothi,Intermediate passed,SYN-C-01,Group,-14,2026-10-19,Intermediate (MPC/BiPC/CEC),Follow-up session,SK-01,Open - action pending
+SYN-CC-0016,SYN-M-000976,SYN-H-000275,Medisetti Rohith,Dropped out,SYN-C-03,Group,-20,2026-10-13,Skill course,Apply for scholarship,,Outcome recorded - enrolled
+SYN-CC-0017,SYN-M-000602,SYN-H-000168,Bolla Ramu,Intermediate passed,SYN-C-03,Group,-46,2026-09-17,Skill course,Follow-up session,,Open - action pending
+SYN-CC-0018,SYN-M-001808,SYN-H-000505,Allam Tejaswini,Dropped out,SYN-C-03,Individual,-24,2026-10-09,Polytechnic,Collect documents,NP-01,Open - action pending
+SYN-CC-0019,SYN-M-000514,SYN-H-000143,Gollapalli Pavan,Secondary (Class 9-10),SYN-C-02,Group,-40,2026-09-23,ITI,Follow-up session,SK-01,Open - action pending
+SYN-CC-0020,SYN-M-000782,SYN-H-000219,Chinta Charan,Dropped out,SYN-C-03,Individual,-54,2026-09-09,Intermediate (MPC/BiPC/CEC),Attend skill course orientation,,Open - action pending
+SYN-CC-0021,SYN-M-000853,SYN-H-000244,Malla Naresh,Intermediate passed,SYN-C-01,Individual,-20,2026-10-13,Skill course,Follow-up session,NP-01,Open - action pending
+SYN-CC-0022,SYN-M-001084,SYN-H-000304,Pallapu Kiran,Intermediate passed,SYN-C-01,Group,-41,2026-09-22,Skill course,Apply for scholarship,ED-02,Referred
+SYN-CC-0023,SYN-M-000051,SYN-H-000016,Neelapu Rohith,Dropped out,SYN-C-01,Group,-21,2026-10-12,Degree,Attend skill course orientation,SK-01,Closed - no further action
+SYN-CC-0024,SYN-M-000699,SYN-H-000195,Malla Rohith,Class 10 passed - not enrolled,SYN-C-01,Group,-11,2026-10-22,Apprenticeship,Apply for admission,,Closed - no further action
+SYN-CC-0025,SYN-M-001068,SYN-H-000297,Vemula Sravani,Secondary (Class 9-10),SYN-C-03,Group,-54,2026-09-09,Degree,Follow-up session,NP-01,Referred
+SYN-CC-0026,SYN-M-000817,SYN-H-000229,Boddu Teja,Intermediate passed,SYN-C-02,Group,-54,2026-09-09,Skill course,Apply for scholarship,NP-01,Outcome recorded - enrolled
+SYN-CC-0027,SYN-M-000302,SYN-H-000081,Gurrala Manoj,Secondary (Class 9-10),SYN-C-03,Individual,-58,2026-09-05,Skill course,Attend skill course orientation,ED-02,Referred
+SYN-CC-0028,SYN-M-001257,SYN-H-000351,Kurra Krishna,Intermediate passed,SYN-C-02,Individual,-26,2026-10-07,ITI,Follow-up session,ED-01,Open - action pending
+SYN-CC-0029,SYN-M-001506,SYN-H-000420,Yerra Krishna,Intermediate passed,SYN-C-03,Individual,-4,2026-10-29,Polytechnic,Collect documents,ED-02,Referred
+SYN-CC-0030,SYN-M-001231,SYN-H-000344,Gudla Bhargavi,Dropped out,SYN-C-01,Individual,-33,2026-09-30,ITI,Attend skill course orientation,SK-01,Open - action pending
+SYN-CC-0031,SYN-M-001856,SYN-H-000518,Kolli Manoj,Secondary (Class 9-10),SYN-C-02,Individual,-20,2026-10-13,Intermediate (MPC/BiPC/CEC),Follow-up session,ED-02,Open - action pending
+SYN-CC-0032,SYN-M-001115,SYN-H-000313,Gorantla Varalakshmi,Intermediate passed,SYN-C-01,Individual,-50,2026-09-13,Intermediate (MPC/BiPC/CEC),Apply for scholarship,ED-02,Open - action pending
+SYN-CC-0033,SYN-M-000666,SYN-H-000186,Pydi Divya,Secondary (Class 9-10),SYN-C-03,Individual,-58,2026-09-05,Degree,Attend skill course orientation,SK-01,Referred
+SYN-CC-0034,SYN-M-001621,SYN-H-000452,Koppula Rajeswari,Intermediate passed,SYN-C-02,Individual,-43,2026-09-20,Polytechnic,Apply for scholarship,ED-01,Open - action pending
+SYN-CC-0035,SYN-M-001408,SYN-H-000394,Kandula Rajesh,Intermediate passed,SYN-C-01,Individual,-30,2026-10-03,Apprenticeship,Apply for scholarship,ED-02,Referred
+SYN-CC-0036,SYN-M-001884,SYN-H-000526,Syed Ramesh,Intermediate passed,SYN-C-01,Group,-22,2026-10-11,ITI,Collect documents,NP-01,Closed - no further action
+SYN-CC-0037,SYN-M-001652,SYN-H-000459,Medisetti Sirisha,Secondary (Class 9-10),SYN-C-02,Group,-45,2026-09-18,ITI,Collect documents,ED-02,Open - action pending
+SYN-CC-0038,SYN-M-000595,SYN-H-000166,Vemula Likhitha,Dropped out,SYN-C-03,Individual,-26,2026-10-07,Degree,Collect documents,SK-01,Open - action pending
+SYN-CC-0039,SYN-M-000774,SYN-H-000217,Bandaru Satyanarayana,Intermediate passed,SYN-C-02,Group,-4,2026-10-29,ITI,Apply for scholarship,ED-01,Open - action pending
+SYN-CC-0040,SYN-M-001537,SYN-H-000429,Doddi Murali,Intermediate passed,SYN-C-01,Group,-20,2026-10-13,ITI,Follow-up session,ED-01,Open - action pending
