@@ -17,7 +17,7 @@ const jsErrors = [];
 p.on('pageerror', e => jsErrors.push('pageerror: ' + e.message));
 p.on('console', m => {if (m.type() === 'error') jsErrors.push('console.error: ' + m.text());});
 await p.goto(url, {waitUntil: 'load'});await sleep(300);
-await p.evaluate(() => {ILAC.mockTimeoutMs = 3000;});   // rehearsal timeout so the P-03 wait is short
+await p.evaluate(() => {ILAC.mockTimeoutMs = 3939;});   // rehearsal timeout so the P-03 wait is short
 
 let failed = 0;
 const step = async (name, fn) => {try {await fn();console.log('PASS', name);} catch (e) {failed++;console.log('FAIL', name, '-', e.message);}};

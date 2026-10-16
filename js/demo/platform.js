@@ -119,7 +119,7 @@
       let result;
       if (path.includes('/eshram/') && ms.eshramTimeoutForP03 && request.uid_token_mock === 'SYN-UIDTOK-41100031') {
         // The request is accepted but never answered: the client must time out and fall back.
-        await Promise.race([sleep(A.mockTimeoutMs + 3000), new Promise(r => ctx.signal && ctx.signal.addEventListener('abort', r))]);
+        await Promise.race([sleep(A.mockTimeoutMs + 3939), new Promise(r => ctx.signal && ctx.signal.addEventListener('abort', r))]);
         log.status = 0;log.response = {error: 'CLIENT_TIMEOUT', note: 'No response within ' + A.mockTimeoutMs / 1000 + ' s; mock withheld its reply for this persona token.'};
         log.ms = Math.round(performance.now() - started);
         throw Object.assign(new Error('timeout'), {log});
