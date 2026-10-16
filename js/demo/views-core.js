@@ -13,8 +13,8 @@
     const open = refs.filter(r => A.isOpen(r)), past = open.filter(r => A.refState(r).overdue);
     const mine = A.navFor(u).filter(id => id !== 'dashboard');
     const tiles = mine.map(id => {const v = A.views[id];return v ? '<a class="card service-card" href="#v/' + id + '"><span class="icon-box">' + A.icon(v.icon || 'file') + '</span><h3>' + e(A.t(v.title)) + '</h3><p>' + e(v.blurb || '') + '</p><span class="catalogue-more">' + e(v.module || '') + ' ' + A.icon('arrow') + '</span></a>' : '';}).join('');
-    return A.heading('Dashboard', u.role + ' · ' + u.jurisdiction + ' · used in ' + u.used_in) +
-      '<section class="card welcome"><h2>Welcome, ' + e(u.login_id) + '</h2><p>' + e(u.role) + ' — jurisdiction ' + e(u.jurisdiction) + '. Modules enabled for this role: ' + e(u.modules_enabled) + '. Authentication: ' + e(u.mfa) + '.</p></section>' +
+    return A.heading('Dashboard', A.t(u.role) + ' · ' + u.jurisdiction + ' · ' + A.t('Used in') + ' ' + u.used_in) +
+      '<section class="card welcome"><h2>' + e(A.t('Welcome')) + ', ' + e(u.login_id) + '</h2><p>' + e(A.t(u.role)) + ' — ' + e(A.t('Jurisdiction')) + ': ' + e(u.jurisdiction) + '. ' + e(A.t('Modules enabled for this role')) + ': ' + e(u.modules_enabled) + '. ' + e(A.t('Authentication')) + ': ' + e(A.t(u.mfa)) + '.</p></section>' +
       '<div class="grid grid-4 space-top space-bottom">' + A.metric('Workers in scope', workers.length.toLocaleString('en-IN'), 'users') + A.metric('Open referrals', open.length, 'file') + A.metric('Past service clock', past.length, 'flag', 'open referrals due before D') + A.metric('Open grievances', A.st.grievances.filter(g => inD(g.district_code) && /^(Open|Reopened)/.test(g.status)).length, 'message') + '</div>' +
       '<div class="grid module-cards">' + tiles + '</div>';
   }};
@@ -72,7 +72,7 @@
     if (param) return workerPage(param);
     const q = (A.workerQuery || '').trim().toLowerCase();
     let rows = A.st.workers.filter(inScopeWorker);
-    if (q) rows = rows.filter(w => (w.full_name + ' ' + w.worker_id + ' ' + w.mobile + ' ' + (w.full_name_te || '') + ' ' + w.household_id).toLowerCase().includes(q));
+    if (q) rows = rows.filter(w => (A.personSearchText(w) + ' ' + w.worker_id + ' ' + w.mobile + ' ' + (w.full_name_te || '') + ' ' + w.household_id).toLowerCase().includes(q));
     const shown = rows.slice(0, 40);
     return A.heading('Workers', 'Registry in your jurisdiction (' + rows.length.toLocaleString('en-IN') + ' record' + (rows.length === 1 ? '' : 's') + ')', isOperator(A.user) ? A.link('Register worker', 'v/register', 'btn btn-primary') : '') +
       '<form id="worker-search" class="row wrap space-bottom"><label class="field grow"><span class="sr-only">Search</span><input name="q" value="' + e(A.workerQuery || '') + '" placeholder="Name, worker ID, mobile or household ID" autocomplete="off"></label><button class="btn btn-primary" type="submit">' + e(A.t('Search')) + '</button></form>' +
@@ -86,7 +86,7 @@
     if (!inScopeWorker(w) && !A.isStateUser()) return A.heading('Outside your jurisdiction', 'This record belongs to ' + w.district_name + '. Access is limited to your allocated centre scope.', A.link('Workers', 'v/workers'));
     const tab = A.workerTab || 'profile', hh = A.H(w.household_id);
     const review = Object.keys(w.under_review || {});
-    const header = '<div class="card worker-head"><div class="row between wrap"><div><div class="eyebrow">' + e(w.worker_id) + '</div><h2>' + e(w.full_name) + (w.full_name_te ? ' · <span lang="te">' + e(w.full_name_te) + '</span>' : '') + '</h2><p class="small muted">' + e(w.bocw_registration_no) + ' · ' + e(A.centreName(w.home_centre_id)) + ' · ' + e(w.primary_trade) + '</p></div><div class="row wrap">' + A.badge(w.registration_status) + A.badge(w.verification, /Pending/.test(w.verification) ? 'gold' : 'green') + (review.length ? A.badge('Field under review: ' + review.join(', '), 'red') : '') + '</div></div></div>';
+    const header = '<div class="card worker-head"><div class="row between wrap"><div><div class="eyebrow">' + e(w.worker_id) + '</div><h2>' + e(A.personName(w)) + '</h2><p class="small muted">' + e(w.bocw_registration_no) + ' · ' + e(A.centreName(w.home_centre_id)) + ' · ' + e(w.primary_trade) + '</p></div><div class="row wrap">' + A.badge(w.registration_status) + A.badge(w.verification, /Pending/.test(w.verification) ? 'gold' : 'green') + (review.length ? A.badge('Field under review: ' + review.join(', '), 'red') : '') + '</div></div></div>';
     const tabs = A.tabs([['profile', 'Profile'], ['household', 'Household'], ['timeline', 'Timeline'], ['referrals', 'Referrals'], ['documents', 'Documents'], ['visits', 'Site visits']], tab, 'worker-tab');
     let body = '';
     if (tab === 'profile') {

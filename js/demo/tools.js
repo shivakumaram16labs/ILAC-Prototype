@@ -3,9 +3,26 @@
 (function () {
   const A = window.ILAC, e = A.esc;
   A.toolsOpen = false;A.toolsTab = 'guide';A.toolsScenario = 'S1';A.toolsGuideStep = null;
+  A.toolsDataset = null;
 
   const TABS = [['guide', 'Script'], ['personas', 'Personas'], ['gateway', 'Gateway'], ['api', 'API log'], ['audit', 'Audit'], ['sync', 'Sync'], ['config', 'Config'], ['mocks', 'Mocks'], ['ready', 'Readiness']];
   const time = iso => A.clockTime(iso);
+
+  function datasetDetails(name) {
+    const rows = A.sheets[name], columns = window.ILAC_SYN.sheets[name].cols;
+    // Show original sheet values, including every column and row, without UI name translations.
+    return '<p class="small muted dataset-count">' + rows.length.toLocaleString('en-IN') + ' ' + e(A.t('Records')) + ' · ' + columns.length + ' ' + e(A.t('Columns')) + '</p>' +
+      '<div class="dataset-scroll" role="region" tabindex="0" aria-label="' + e(name) + '"><table class="dataset-records" data-no-translate><caption class="sr-only">' + e(name) + '</caption><thead><tr><th scope="col">#</th>' + columns.map(c => '<th scope="col">' + e(c) + '</th>').join('') + '</tr></thead><tbody>' +
+      rows.map((row, i) => '<tr><th scope="row">' + (i + 1) + '</th>' + columns.map(c => '<td>' + e(row[c]) + '</td>').join('') + '</tr>').join('') + '</tbody></table></div>';
+  }
+
+  function readinessSheets(counts) {
+    return '<table class="readiness-sheets"><thead><tr>' + ['Sheet', 'Pack', 'Loaded', 'Match', 'Content hash'].map(label => '<th scope="col">' + e(A.t(label)) + '</th>').join('') + '</tr></thead><tbody>' + counts.map(row => {
+      const expanded = A.toolsDataset === row.name, id = 'dataset-' + row.name;
+      return '<tr><td><button type="button" class="dataset-toggle" data-action="dataset-toggle" data-id="' + e(row.name) + '" id="' + id + '-toggle" aria-expanded="' + expanded + '" aria-controls="' + id + '"><span class="dataset-chevron" aria-hidden="true">›</span><span data-no-translate>' + e(row.name) + '</span></button></td><td>' + row.expected + '</td><td>' + row.loaded + '</td><td>' + A.badge(row.expected === row.loaded ? '✓' : '✗', row.expected === row.loaded ? 'green' : 'red') + '</td><td class="mono">' + e(row.hash) + '</td></tr>' +
+        '<tr class="dataset-detail" id="' + id + '" data-dataset="' + e(row.name) + '"' + (expanded ? '' : ' hidden') + '><td colspan="5"><div role="region" aria-labelledby="' + id + '-toggle">' + (expanded ? datasetDetails(row.name) : '') + '</div></td></tr>';
+    }).join('') + '</tbody></table>';
+  }
 
   function guideStep(id, text) {
     const help = A.stepGuides[id], expanded = A.toolsGuideStep === id;
@@ -69,7 +86,7 @@
       const ok = counts.every(c => c.expected === c.loaded);
       const total = counts.reduce((s, c) => s + c.loaded, 0);
       return '<p class="small">Opening checklist: dataset v1.0 loaded unaltered, mocks running, field device ready.</p>' + A.notice('<strong>' + (ok ? 'Dataset v1.0 loaded unaltered' : 'Count mismatch') + '</strong> — ' + total.toLocaleString('en-IN') + ' synthetic records in 22 sheets (pack: 3,684).', ok ? 'ok' : 'warn') +
-        A.table(counts, [['name', 'Sheet'], ['expected', 'Pack'], ['loaded', 'Loaded'], ['ok', 'Match', r => A.badge(r.expected === r.loaded ? '✓' : '✗', r.expected === r.loaded ? 'green' : 'red')], ['hash', 'Content hash', r => '<span class="mono">' + e(r.hash) + '</span>']]) +
+        '<p class="small muted space-top space-bottom">' + e(A.t('Select a sheet to view all its original dataset records. Scroll inside the table to see every column and row.')) + '</p>' + readinessSheets(counts) +
         '<h4 class="space-top">Demo day</h4><p class="small">Offset-driven dates (referral due dates, grievance ages, batch starts, vacancy and pre-registration dates) are rebased so that today = D.</p><div class="row wrap"><label class="field"><span>Demo day D</span><input type="date" id="demo-day" value="' + e(A.D) + '"></label>' + A.button('Rebase & reload dataset', 'set-demo-day', '', 'btn btn-sm') + '</div>' +
         '<h4 class="space-top">Mocks</h4>' + A.notice('Mock APIs follow ILAC_Demo_Mock_API_v1.0.yaml (copy in docs/reference). All ' + A.mock.interfaces.length + ' interfaces are in-browser and make no network call.', 'ok') +
         '<h4 class="space-top">Field device</h4>' + A.notice(A.dev.cryptoMode ? 'Device storage key ready: ' + e(A.dev.cryptoMode) : 'Device not yet used. Open Field app (demo.ff.krs) to initialise.', A.dev.cryptoMode ? 'ok' : 'info') +
@@ -85,6 +102,20 @@
 
   A.actions.tools = () => {A.toolsOpen = !A.toolsOpen;A.refresh();};
   A.actions['tools-tab'] = node => {A.toolsTab = node.dataset.id;A.auditVerified = '';A.refresh();};
+  A.actions['dataset-toggle'] = node => {
+    const name = node.dataset.id;
+    if (!Object.hasOwn(A.sheets, name)) return;
+    A.toolsDataset = A.toolsDataset === name ? null : name;
+    // Update only the accordion: keep unsaved workspace forms and drawer focus intact.
+    document.querySelectorAll('[data-dataset]').forEach(row => {
+      const expanded = row.dataset.dataset === A.toolsDataset;
+      row.hidden = !expanded;
+      row.querySelector('[role="region"]').innerHTML = expanded ? datasetDetails(row.dataset.dataset) : '';
+    });
+    document.querySelectorAll('[data-action="dataset-toggle"]').forEach(button => {
+      button.setAttribute('aria-expanded', String(button.dataset.id === A.toolsDataset));
+    });
+  };
   A.actions['guide-scn'] = node => {A.toolsScenario = node.dataset.id;A.toolsGuideStep = null;A.refresh();};
   A.actions['guide-help'] = node => {
     A.toolsGuideStep = A.toolsGuideStep === node.dataset.id ? null : node.dataset.id;

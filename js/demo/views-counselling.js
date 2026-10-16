@@ -13,7 +13,7 @@
     const me = counsellorOf(A.user), q = (A.cnsQuery || '').trim().toLowerCase();
     const mine = A.st.cases.filter(c => c.counsellor_id === me.counsellor_id);
     let found = [];
-    if (q) found = A.st.members.filter(m => (m.full_name + ' ' + m.member_id + ' ' + m.household_id).toLowerCase().includes(q) && A.inScope(A.user, A.H(m.household_id)?.district_code)).slice(0, 25);
+    if (q) found = A.st.members.filter(m => (A.personSearchText(m) + ' ' + m.member_id + ' ' + m.household_id).toLowerCase().includes(q) && A.inScope(A.user, A.H(m.household_id)?.district_code)).slice(0, 25);
     return A.heading('Education counselling', me.name + ' (' + me.counsellor_id + ') · ' + A.centreName(me.base_centre) + ' · ' + me.availability) +
       '<form id="cns-search" class="row wrap space-bottom"><label class="field grow"><span class="sr-only">Find a student</span><input name="q" value="' + e(A.cnsQuery || '') + '" placeholder="Find a student or dependant by name, member ID (e.g. SYN-M-001909) or household" autocomplete="off"></label><button class="btn btn-primary" type="submit">Search</button></form>' +
       (q ? '<div class="card table-card space-bottom"><div class="card-head"><h3>Household members matching “' + e(A.cnsQuery) + '”</h3></div>' + A.table(found, [['member_id', 'Member'], ['full_name', 'Name'], ['relationship_to_head', 'Relationship'], ['age_on_2026_10_01', 'Age'], ['education_stage', 'Education stage'], ['household_id', 'Household']], m => '<a class="btn btn-sm btn-primary" href="#v/counselling/' + e(m.member_id) + '">Open</a>') + '</div>' : '') +

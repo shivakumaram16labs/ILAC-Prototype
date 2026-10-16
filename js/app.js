@@ -219,7 +219,7 @@
     document.documentElement.lang = A.lang;
     A.translateDom(document.querySelector('#app'));
     A.restoreFormDrafts(document.querySelector('#app'));
-    document.title = 'Digital ILAC | ' + (A.user ? A.user.login_id : 'Government of Andhra Pradesh');
+    document.title = A.t('Digital ILAC') + ' | ' + (A.user ? A.user.login_id : A.t('Government of Andhra Pradesh'));
     if (A.user && A.user.login_id === 'demo.ff.krs' && !A.dev.loggedIn && !A.devLoggingIn) {
       A.devLoggingIn = true;
       A.devLogin().then(() => {A.devLoggingIn = false;A.refresh();});
