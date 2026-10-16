@@ -47,7 +47,7 @@
     "Government of Andhra Pradesh": "ఆంధ్రప్రదేశ్ ప్రభుత్వం",
     "Labour Department": "కార్మిక శాఖ",
     "Digital ILAC": "డిజిటల్ ILAC",
-    "Integrated Labour Amenities Complex": "సమీకృత కార్మిక సౌకర్యాల సముదాయం",
+    "Integrated Labour Amenities Center": "సమీకృత కార్మిక సౌకర్యాల సముదాయం",
     "AP Building & Other Construction Workers Welfare Board": "ఆంధ్రప్రదేశ్ భవన మరియు ఇతర నిర్మాణ కార్మికుల సంక్షేమ మండలి",
     "Sri N. Chandrababu Naidu": "శ్రీ నారా చంద్రబాబు నాయుడు",
     "Sri K. Pawan Kalyan": "శ్రీ కొణిదెల పవన్ కళ్యాణ్",
