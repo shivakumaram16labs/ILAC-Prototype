@@ -91,7 +91,7 @@ const server = http.createServer((req, res) => {
   });
 });
 
-server.listen(PORT, () => {
+server.listen(PORT, '0.0.0.0', () => {
   console.log(`\nDigital ILAC Node.js server running:`);
   console.log(`> Local: http://localhost:${PORT}/\n`);
 });
